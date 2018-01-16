@@ -1,0 +1,8001 @@
+[{
+  "districtNumber": "17",
+  "district": "Obergiesing - Fasangarten",
+  "unemployed": "1113",
+  "shape": "mannlich",
+  "year": 2006,
+  "unemployedPercent": "6.6",
+  "population": "16930"
+}, {
+  "districtNumber": "9",
+  "district": "Neuhausen - Nymphenburg",
+  "unemployed": "1189",
+  "shape": "auslandisch",
+  "year": 2006,
+  "unemployedPercent": "7.9",
+  "population": "15069.5"
+}, {
+  "districtNumber": "5",
+  "district": "Au - Haidhausen",
+  "unemployed": "1010.8",
+  "shape": "mannlich",
+  "year": 2006,
+  "unemployedPercent": "5",
+  "population": "20127.3"
+}, {
+  "districtNumber": "16",
+  "district": "Ramersdorf - Perlach",
+  "unemployed": "3030.3",
+  "shape": "deutsch",
+  "year": 2006,
+  "unemployedPercent": "6.3",
+  "population": "47780"
+}, {
+  "districtNumber": "15",
+  "district": "Trudering - Riem",
+  "unemployed": "717.8",
+  "shape": "mannlich",
+  "year": 2006,
+  "unemployedPercent": "4",
+  "population": "17909.5"
+}, {
+  "districtNumber": "11",
+  "district": "Milbertshofen - Am Hart",
+  "unemployed": "2032.5",
+  "shape": "auslandisch",
+  "year": 2006,
+  "unemployedPercent": "10.7",
+  "population": "18962.3"
+}, {
+  "districtNumber": "23",
+  "district": "Allach - Untermenzing",
+  "unemployed": "258",
+  "shape": "auslandisch",
+  "year": 2006,
+  "unemployedPercent": "7.1",
+  "population": "3656.3"
+}, {
+  "districtNumber": "5",
+  "district": "Au - Haidhausen",
+  "unemployed": "965",
+  "shape": "weiblich",
+  "year": 2006,
+  "unemployedPercent": "4.8",
+  "population": "20266.8"
+}, {
+  "districtNumber": "1",
+  "district": "Moosach",
+  "unemployed": "1246.3",
+  "shape": "weiblich",
+  "year": 2006,
+  "unemployedPercent": "7.7",
+  "population": "16268.8"
+}, {
+  "districtNumber": "4",
+  "district": "Schwabing - West",
+  "unemployed": "1031.5",
+  "shape": "deutsch",
+  "year": 2006,
+  "unemployedPercent": "3.2",
+  "population": "32524.8"
+}, {
+  "districtNumber": "12",
+  "district": "Schwabing - Freimann",
+  "unemployed": "1320.3",
+  "shape": "deutsch",
+  "year": 2006,
+  "unemployedPercent": "4",
+  "population": "33412.5"
+}, {
+  "districtNumber": "4",
+  "district": "Schwabing - West",
+  "unemployed": "845.3",
+  "shape": "mannlich",
+  "year": 2006,
+  "unemployedPercent": "4.1",
+  "population": "20752.8"
+}, {
+  "districtNumber": "12",
+  "district": "Schwabing - Freimann",
+  "unemployed": "998.8",
+  "shape": "mannlich",
+  "year": 2006,
+  "unemployedPercent": "4.3",
+  "population": "23012.3"
+}, {
+  "districtNumber": "2",
+  "district": "Hadern",
+  "unemployed": "1024.8",
+  "shape": "weiblich",
+  "year": 2006,
+  "unemployedPercent": "6.6",
+  "population": "15468.5"
+}, {
+  "districtNumber": "12",
+  "district": "Schwabing - Freimann",
+  "unemployed": "759",
+  "shape": "auslandisch",
+  "year": 2006,
+  "unemployedPercent": "6.2",
+  "population": "12185.3"
+}, {
+  "districtNumber": "2",
+  "district": "Hadern",
+  "unemployed": "966.3",
+  "shape": "deutsch",
+  "year": 2006,
+  "unemployedPercent": "4.4",
+  "population": "21948"
+}, {
+  "districtNumber": "21",
+  "district": "Pasing - Obermenzing",
+  "unemployed": "914.8",
+  "shape": "weiblich",
+  "year": 2006,
+  "unemployedPercent": "4.2",
+  "population": "21593"
+}, {
+  "districtNumber": "18",
+  "district": "Untergiesing - Harlaching",
+  "unemployed": "660.8",
+  "shape": "auslandisch",
+  "year": 2006,
+  "unemployedPercent": "8.6",
+  "population": "7660.8"
+}, {
+  "districtNumber": "17",
+  "district": "Obergiesing - Fasangarten",
+  "unemployed": "1069",
+  "shape": "weiblich",
+  "year": 2006,
+  "unemployedPercent": "6.5",
+  "population": "16512"
+}, {
+  "districtNumber": "11",
+  "district": "Milbertshofen - Am Hart",
+  "unemployed": "2050.3",
+  "shape": "deutsch",
+  "year": 2006,
+  "unemployedPercent": "7.3",
+  "population": "28139"
+}, {
+  "districtNumber": "22",
+  "district": "Aubing - Lochhausen - Langwied",
+  "unemployed": "759.8",
+  "shape": "weiblich",
+  "year": 2006,
+  "unemployedPercent": "6.2",
+  "population": "12176.8"
+}, {
+  "districtNumber": "23",
+  "district": "Allach - Untermenzing",
+  "unemployed": "315.3",
+  "shape": "weiblich",
+  "year": 2006,
+  "unemployedPercent": "3.5",
+  "population": "8893.8"
+}, {
+  "districtNumber": "25",
+  "district": "Laim",
+  "unemployed": "1122.5",
+  "shape": "mannlich",
+  "year": 2006,
+  "unemployedPercent": "6.6",
+  "population": "16939.5"
+}, {
+  "districtNumber": "24",
+  "district": "Feldmoching - Hasenbergl",
+  "unemployed": "1573.5",
+  "shape": "weiblich",
+  "year": 2006,
+  "unemployedPercent": "9.2",
+  "population": "17101"
+}, {
+  "districtNumber": "7",
+  "district": "Sendling - Westpark",
+  "unemployed": "1258",
+  "shape": "mannlich",
+  "year": 2006,
+  "unemployedPercent": "7.3",
+  "population": "17256.8"
+}, {
+  "districtNumber": "23",
+  "district": "Allach - Untermenzing",
+  "unemployed": "358",
+  "shape": "mannlich",
+  "year": 2006,
+  "unemployedPercent": "3.9",
+  "population": "9228.8"
+}, {
+  "districtNumber": "8",
+  "district": "Schwanthalerhohe",
+  "unemployed": "707.3",
+  "shape": "auslandisch",
+  "year": 2006,
+  "unemployedPercent": "9.1",
+  "population": "7773.5"
+}, {
+  "districtNumber": "2",
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "unemployed": "758.8",
+  "shape": "auslandisch",
+  "year": 2006,
+  "unemployedPercent": "6.9",
+  "population": "10925.5"
+}, {
+  "districtNumber": "19",
+  "district": "Thalkirchen - Obersendling - Forstenried - Furstenried - Solln",
+  "unemployed": "1008.8",
+  "shape": "auslandisch",
+  "year": 2006,
+  "unemployedPercent": "8.2",
+  "population": "12278"
+}, {
+  "districtNumber": "4",
+  "district": "Schwabing - West",
+  "unemployed": "669",
+  "shape": "auslandisch",
+  "year": 2006,
+  "unemployedPercent": "6.4",
+  "population": "10447.3"
+}, {
+  "districtNumber": "22",
+  "district": "Aubing - Lochhausen - Langwied",
+  "unemployed": "875.8",
+  "shape": "deutsch",
+  "year": 2006,
+  "unemployedPercent": "4.6",
+  "population": "18921.3"
+}, {
+  "districtNumber": "11",
+  "district": "Milbertshofen - Am Hart",
+  "unemployed": "2015.3",
+  "shape": "mannlich",
+  "year": 2006,
+  "unemployedPercent": "8.2",
+  "population": "24519"
+}, {
+  "districtNumber": "19",
+  "district": "Thalkirchen - Obersendling - Forstenried - Furstenried - Solln",
+  "unemployed": "1105",
+  "shape": "mannlich",
+  "year": 2006,
+  "unemployedPercent": "4.2",
+  "population": "26058"
+}, {
+  "districtNumber": "12",
+  "district": "Schwabing - Freimann",
+  "unemployed": "1080.5",
+  "shape": "weiblich",
+  "year": 2006,
+  "unemployedPercent": "4.8",
+  "population": "22585.5"
+}, {
+  "districtNumber": "8",
+  "district": "Schwanthalerhohe",
+  "unemployed": "694",
+  "shape": "weiblich",
+  "year": 2006,
+  "unemployedPercent": "7.5",
+  "population": "9283.5"
+}, {
+  "districtNumber": "6",
+  "district": "Sendling",
+  "unemployed": "818.5",
+  "shape": "auslandisch",
+  "year": 2006,
+  "unemployedPercent": "10.7",
+  "population": "7623.8"
+}, {
+  "districtNumber": "6",
+  "district": "Sendling",
+  "unemployed": "968",
+  "shape": "deutsch",
+  "year": 2006,
+  "unemployedPercent": "5",
+  "population": "19544.8"
+}, {
+  "districtNumber": "1",
+  "district": "Altstadt - Lehel",
+  "unemployed": "290.5",
+  "shape": "deutsch",
+  "year": 2006,
+  "unemployedPercent": "2.8",
+  "population": "10522.5"
+}, {
+  "districtNumber": "17",
+  "district": "Obergiesing - Fasangarten",
+  "unemployed": "950.8",
+  "shape": "auslandisch",
+  "year": 2006,
+  "unemployedPercent": "9",
+  "population": "10588"
+}, {
+  "districtNumber": "16",
+  "district": "Ramersdorf - Perlach",
+  "unemployed": "2781.8",
+  "shape": "mannlich",
+  "year": 2006,
+  "unemployedPercent": "8.1",
+  "population": "34138.3"
+}, {
+  "districtNumber": "5",
+  "district": "Au - Haidhausen",
+  "unemployed": "752",
+  "shape": "auslandisch",
+  "year": 2006,
+  "unemployedPercent": "7.3",
+  "population": "10296.8"
+}, {
+  "districtNumber": "9",
+  "district": "Neuhausen - Nymphenburg",
+  "unemployed": "1449.5",
+  "shape": "weiblich",
+  "year": 2006,
+  "unemployedPercent": "4.7",
+  "population": "30841.3"
+}, {
+  "districtNumber": "21",
+  "district": "Pasing - Obermenzing",
+  "unemployed": "951",
+  "shape": "mannlich",
+  "year": 2006,
+  "unemployedPercent": "4.5",
+  "population": "21187"
+}, {
+  "districtNumber": "1",
+  "district": "Moosach",
+  "unemployed": "1091.8",
+  "shape": "mannlich",
+  "year": 2006,
+  "unemployedPercent": "6.6",
+  "population": "16656"
+}, {
+  "districtNumber": "3",
+  "district": "Maxvorstadt",
+  "unemployed": "497.8",
+  "shape": "auslandisch",
+  "year": 2006,
+  "unemployedPercent": "5.3",
+  "population": "9361.3"
+}, {
+  "districtNumber": "21",
+  "district": "Pasing - Obermenzing",
+  "unemployed": "848.8",
+  "shape": "auslandisch",
+  "year": 2006,
+  "unemployedPercent": "9.8",
+  "population": "8672.8"
+}, {
+  "districtNumber": "18",
+  "district": "Untergiesing - Harlaching",
+  "unemployed": "1070.5",
+  "shape": "mannlich",
+  "year": 2006,
+  "unemployedPercent": "6.7",
+  "population": "16006"
+}, {
+  "districtNumber": "2",
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "unemployed": "1093.8",
+  "shape": "mannlich",
+  "year": 2006,
+  "unemployedPercent": "5.8",
+  "population": "18945"
+}, {
+  "districtNumber": "14",
+  "district": "Berg am Laim",
+  "unemployed": "1011",
+  "shape": "weiblich",
+  "year": 2006,
+  "unemployedPercent": "7.5",
+  "population": "13490.5"
+}, {
+  "districtNumber": "8",
+  "district": "Schwanthalerhohe",
+  "unemployed": "793.8",
+  "shape": "mannlich",
+  "year": 2006,
+  "unemployedPercent": "7.6",
+  "population": "10394.8"
+}, {
+  "districtNumber": "14",
+  "district": "Berg am Laim",
+  "unemployed": "940.3",
+  "shape": "auslandisch",
+  "year": 2006,
+  "unemployedPercent": "11.3",
+  "population": "8293.3"
+}, {
+  "districtNumber": "2",
+  "district": "Hadern",
+  "unemployed": "903.8",
+  "shape": "auslandisch",
+  "year": 2006,
+  "unemployedPercent": "12.3",
+  "population": "7361.5"
+}, {
+  "districtNumber": "3",
+  "district": "Maxvorstadt",
+  "unemployed": "944.5",
+  "shape": "deutsch",
+  "year": 2006,
+  "unemployedPercent": "3.6",
+  "population": "26336"
+}, {
+  "districtNumber": "2",
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "unemployed": "780.8",
+  "shape": "weiblich",
+  "year": 2006,
+  "unemployedPercent": "4.6",
+  "population": "16858.8"
+}, {
+  "districtNumber": "9",
+  "district": "Neuhausen - Nymphenburg",
+  "unemployed": "1712.8",
+  "shape": "deutsch",
+  "year": 2006,
+  "unemployedPercent": "3.8",
+  "population": "45371.3"
+}, {
+  "districtNumber": "6",
+  "district": "Sendling",
+  "unemployed": "872.8",
+  "shape": "mannlich",
+  "year": 2006,
+  "unemployedPercent": "6.4",
+  "population": "13728.5"
+}, {
+  "districtNumber": "16",
+  "district": "Ramersdorf - Perlach",
+  "unemployed": "3230.5",
+  "shape": "weiblich",
+  "year": 2006,
+  "unemployedPercent": "9.1",
+  "population": "35332.3"
+}, {
+  "districtNumber": "1",
+  "district": "Altstadt - Lehel",
+  "unemployed": "196.5",
+  "shape": "weiblich",
+  "year": 2006,
+  "unemployedPercent": "2.9",
+  "population": "6881.3"
+}, {
+  "districtNumber": "21",
+  "district": "Pasing - Obermenzing",
+  "unemployed": "1017",
+  "shape": "deutsch",
+  "year": 2006,
+  "unemployedPercent": "3",
+  "population": "34107.3"
+}, {
+  "districtNumber": "13",
+  "district": "Bogenhausen",
+  "unemployed": "915.8",
+  "shape": "auslandisch",
+  "year": 2006,
+  "unemployedPercent": "8.5",
+  "population": "10729.3"
+}, {
+  "districtNumber": "19",
+  "district": "Thalkirchen - Obersendling - Forstenried - Furstenried - Solln",
+  "unemployed": "1312.8",
+  "shape": "deutsch",
+  "year": 2006,
+  "unemployedPercent": "3.2",
+  "population": "40908.5"
+}, {
+  "districtNumber": "2",
+  "district": "Hadern",
+  "unemployed": "845.3",
+  "shape": "mannlich",
+  "year": 2006,
+  "unemployedPercent": "6.1",
+  "population": "13841"
+}, {
+  "districtNumber": "3",
+  "district": "Maxvorstadt",
+  "unemployed": "767.3",
+  "shape": "mannlich",
+  "year": 2006,
+  "unemployedPercent": "4.2",
+  "population": "18086.3"
+}, {
+  "districtNumber": "13",
+  "district": "Bogenhausen",
+  "unemployed": "911.8",
+  "shape": "mannlich",
+  "year": 2006,
+  "unemployedPercent": "3.7",
+  "population": "24820.8"
+}, {
+  "districtNumber": "24",
+  "district": "Feldmoching - Hasenbergl",
+  "unemployed": "1633.8",
+  "shape": "deutsch",
+  "year": 2006,
+  "unemployedPercent": "6.8",
+  "population": "24152.8"
+}, {
+  "districtNumber": "1",
+  "district": "Moosach",
+  "unemployed": "1276",
+  "shape": "deutsch",
+  "year": 2006,
+  "unemployedPercent": "5.5",
+  "population": "23301.3"
+}, {
+  "districtNumber": "3",
+  "district": "Maxvorstadt",
+  "unemployed": "675",
+  "shape": "weiblich",
+  "year": 2006,
+  "unemployedPercent": "3.8",
+  "population": "17611"
+}, {
+  "districtNumber": "8",
+  "district": "Schwanthalerhohe",
+  "unemployed": "780.5",
+  "shape": "deutsch",
+  "year": 2006,
+  "unemployedPercent": "6.6",
+  "population": "11904.8"
+}, {
+  "districtNumber": "15",
+  "district": "Trudering - Riem",
+  "unemployed": "798.5",
+  "shape": "weiblich",
+  "year": 2006,
+  "unemployedPercent": "4.5",
+  "population": "17844.5"
+}, {
+  "districtNumber": "25",
+  "district": "Laim",
+  "unemployed": "1299.5",
+  "shape": "deutsch",
+  "year": 2006,
+  "unemployedPercent": "5.1",
+  "population": "25675"
+}, {
+  "districtNumber": "25",
+  "district": "Laim",
+  "unemployed": "910.8",
+  "shape": "auslandisch",
+  "year": 2006,
+  "unemployedPercent": "10.5",
+  "population": "8694.3"
+}, {
+  "districtNumber": "18",
+  "district": "Untergiesing - Harlaching",
+  "unemployed": "742.8",
+  "shape": "weiblich",
+  "year": 2006,
+  "unemployedPercent": "4.4",
+  "population": "16764.8"
+}, {
+  "districtNumber": "7",
+  "district": "Sendling - Westpark",
+  "unemployed": "1194.5",
+  "shape": "auslandisch",
+  "year": 2006,
+  "unemployedPercent": "12.6",
+  "population": "9460.8"
+}, {
+  "districtNumber": "24",
+  "district": "Feldmoching - Hasenbergl",
+  "unemployed": "1261",
+  "shape": "auslandisch",
+  "year": 2006,
+  "unemployedPercent": "11.5",
+  "population": "10962.5"
+}, {
+  "districtNumber": "14",
+  "district": "Berg am Laim",
+  "unemployed": "1022.8",
+  "shape": "mannlich",
+  "year": 2006,
+  "unemployedPercent": "7.5",
+  "population": "13712.3"
+}, {
+  "districtNumber": "9",
+  "district": "Neuhausen - Nymphenburg",
+  "unemployed": "1452.3",
+  "shape": "mannlich",
+  "year": 2006,
+  "unemployedPercent": "4.9",
+  "population": "29599.5"
+}, {
+  "districtNumber": "5",
+  "district": "Au - Haidhausen",
+  "unemployed": "1223.8",
+  "shape": "deutsch",
+  "year": 2006,
+  "unemployedPercent": "4.1",
+  "population": "30097.3"
+}, {
+  "districtNumber": "22",
+  "district": "Aubing - Lochhausen - Langwied",
+  "unemployed": "796",
+  "shape": "mannlich",
+  "year": 2006,
+  "unemployedPercent": "6.5",
+  "population": "12192"
+}, {
+  "districtNumber": "22",
+  "district": "Aubing - Lochhausen - Langwied",
+  "unemployed": "680",
+  "shape": "auslandisch",
+  "year": 2006,
+  "unemployedPercent": "12.5",
+  "population": "5447.5"
+}, {
+  "districtNumber": "11",
+  "district": "Milbertshofen - Am Hart",
+  "unemployed": "2067.5",
+  "shape": "weiblich",
+  "year": 2006,
+  "unemployedPercent": "9.2",
+  "population": "22582.3"
+}, {
+  "districtNumber": "6",
+  "district": "Sendling",
+  "unemployed": "913.8",
+  "shape": "weiblich",
+  "year": 2006,
+  "unemployedPercent": "6.8",
+  "population": "13440"
+}, {
+  "districtNumber": "1",
+  "district": "Moosach",
+  "unemployed": "1062",
+  "shape": "auslandisch",
+  "year": 2006,
+  "unemployedPercent": "11",
+  "population": "9623.5"
+}, {
+  "districtNumber": "24",
+  "district": "Feldmoching - Hasenbergl",
+  "unemployed": "1321.3",
+  "shape": "mannlich",
+  "year": 2006,
+  "unemployedPercent": "7.3",
+  "population": "18014.3"
+}, {
+  "districtNumber": "7",
+  "district": "Sendling - Westpark",
+  "unemployed": "1236.5",
+  "shape": "weiblich",
+  "year": 2006,
+  "unemployedPercent": "6.9",
+  "population": "17818"
+}, {
+  "districtNumber": "7",
+  "district": "Sendling - Westpark",
+  "unemployed": "1300",
+  "shape": "deutsch",
+  "year": 2006,
+  "unemployedPercent": "5.1",
+  "population": "25614"
+}, {
+  "districtNumber": "13",
+  "district": "Bogenhausen",
+  "unemployed": "1072.3",
+  "shape": "weiblich",
+  "year": 2006,
+  "unemployedPercent": "4",
+  "population": "27061.3"
+}, {
+  "districtNumber": "23",
+  "district": "Allach - Untermenzing",
+  "unemployed": "415.3",
+  "shape": "deutsch",
+  "year": 2006,
+  "unemployedPercent": "2.9",
+  "population": "14466.3"
+}, {
+  "districtNumber": "2",
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "unemployed": "1115.8",
+  "shape": "deutsch",
+  "year": 2006,
+  "unemployedPercent": "4.5",
+  "population": "24878.3"
+}, {
+  "districtNumber": "16",
+  "district": "Ramersdorf - Perlach",
+  "unemployed": "2982",
+  "shape": "auslandisch",
+  "year": 2006,
+  "unemployedPercent": "13.7",
+  "population": "21690.5"
+}, {
+  "districtNumber": "1",
+  "district": "Altstadt - Lehel",
+  "unemployed": "224",
+  "shape": "mannlich",
+  "year": 2006,
+  "unemployedPercent": "3.1",
+  "population": "7207"
+}, {
+  "districtNumber": "4",
+  "district": "Schwabing - West",
+  "unemployed": "855.3",
+  "shape": "weiblich",
+  "year": 2006,
+  "unemployedPercent": "3.8",
+  "population": "22219.3"
+}, {
+  "districtNumber": "15",
+  "district": "Trudering - Riem",
+  "unemployed": "620.8",
+  "shape": "auslandisch",
+  "year": 2006,
+  "unemployedPercent": "9",
+  "population": "6918.3"
+}, {
+  "districtNumber": "14",
+  "district": "Berg am Laim",
+  "unemployed": "1093.5",
+  "shape": "deutsch",
+  "year": 2006,
+  "unemployedPercent": "5.8",
+  "population": "18909.5"
+}, {
+  "districtNumber": "19",
+  "district": "Thalkirchen - Obersendling - Forstenried - Furstenried - Solln",
+  "unemployed": "1216.5",
+  "shape": "weiblich",
+  "year": 2006,
+  "unemployedPercent": "4.5",
+  "population": "27128.5"
+}, {
+  "districtNumber": "25",
+  "district": "Laim",
+  "unemployed": "1087.8",
+  "shape": "weiblich",
+  "year": 2006,
+  "unemployedPercent": "6.2",
+  "population": "17429.8"
+}, {
+  "districtNumber": "13",
+  "district": "Bogenhausen",
+  "unemployed": "1068.3",
+  "shape": "deutsch",
+  "year": 2006,
+  "unemployedPercent": "2.6",
+  "population": "41152.8"
+}, {
+  "districtNumber": "18",
+  "district": "Untergiesing - Harlaching",
+  "unemployed": "1152.5",
+  "shape": "deutsch",
+  "year": 2006,
+  "unemployedPercent": "4.6",
+  "population": "25110"
+}, {
+  "districtNumber": "1",
+  "district": "Altstadt - Lehel",
+  "unemployed": "130",
+  "shape": "auslandisch",
+  "year": 2006,
+  "unemployedPercent": "3.6",
+  "population": "3565.8"
+}, {
+  "districtNumber": "17",
+  "district": "Obergiesing - Fasangarten",
+  "unemployed": "1231.3",
+  "shape": "deutsch",
+  "year": 2006,
+  "unemployedPercent": "5.4",
+  "population": "22854"
+}, {
+  "districtNumber": "15",
+  "district": "Trudering - Riem",
+  "unemployed": "895.5",
+  "shape": "deutsch",
+  "year": 2006,
+  "unemployedPercent": "3.1",
+  "population": "28835.8"
+}, {
+  "districtNumber": "12",
+  "district": "Schwabing - Freimann",
+  "unemployed": "1272.8",
+  "shape": "deutsch",
+  "year": 2007,
+  "unemployedPercent": "3.7",
+  "population": "34472.3"
+}, {
+  "districtNumber": "25",
+  "district": "Laim",
+  "unemployed": "1099",
+  "shape": "weiblich",
+  "year": 2007,
+  "unemployedPercent": "6.2",
+  "population": "17757.3"
+}, {
+  "districtNumber": "9",
+  "district": "Neuhausen - Nymphenburg",
+  "unemployed": "1606.3",
+  "shape": "deutsch",
+  "year": 2007,
+  "unemployedPercent": "3.4",
+  "population": "46655.3"
+}, {
+  "districtNumber": "19",
+  "district": "Thalkirchen - Obersendling - Forstenried - Furstenried - Solln",
+  "unemployed": "1232.8",
+  "shape": "weiblich",
+  "year": 2007,
+  "unemployedPercent": "4.5",
+  "population": "27486.8"
+}, {
+  "districtNumber": "7",
+  "district": "Sendling - Westpark",
+  "unemployed": "1290",
+  "shape": "weiblich",
+  "year": 2007,
+  "unemployedPercent": "7.1",
+  "population": "18124.8"
+}, {
+  "districtNumber": "18",
+  "district": "Untergiesing - Harlaching",
+  "unemployed": "743.3",
+  "shape": "weiblich",
+  "year": 2007,
+  "unemployedPercent": "4.4",
+  "population": "17034.3"
+}, {
+  "districtNumber": "3",
+  "district": "Maxvorstadt",
+  "unemployed": "642.3",
+  "shape": "weiblich",
+  "year": 2007,
+  "unemployedPercent": "3.5",
+  "population": "18526.5"
+}, {
+  "districtNumber": "2",
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "unemployed": "716.3",
+  "shape": "weiblich",
+  "year": 2007,
+  "unemployedPercent": "4.1",
+  "population": "17290.3"
+}, {
+  "districtNumber": "13",
+  "district": "Bogenhausen",
+  "unemployed": "1018.8",
+  "shape": "deutsch",
+  "year": 2007,
+  "unemployedPercent": "2.5",
+  "population": "41257.8"
+}, {
+  "districtNumber": "21",
+  "district": "Pasing - Obermenzing",
+  "unemployed": "1002.3",
+  "shape": "deutsch",
+  "year": 2007,
+  "unemployedPercent": "2.9",
+  "population": "34426.5"
+}, {
+  "districtNumber": "14",
+  "district": "Berg am Laim",
+  "unemployed": "1058",
+  "shape": "deutsch",
+  "year": 2007,
+  "unemployedPercent": "5.5",
+  "population": "19127"
+}, {
+  "districtNumber": "9",
+  "district": "Neuhausen - Nymphenburg",
+  "unemployed": "1389",
+  "shape": "weiblich",
+  "year": 2007,
+  "unemployedPercent": "4.4",
+  "population": "31662.8"
+}, {
+  "districtNumber": "12",
+  "district": "Schwabing - Freimann",
+  "unemployed": "748.3",
+  "shape": "auslandisch",
+  "year": 2007,
+  "unemployedPercent": "6.1",
+  "population": "12349.5"
+}, {
+  "districtNumber": "2",
+  "district": "Hadern",
+  "unemployed": "947",
+  "shape": "auslandisch",
+  "year": 2007,
+  "unemployedPercent": "12.4",
+  "population": "7650"
+}, {
+  "districtNumber": "11",
+  "district": "Milbertshofen - Am Hart",
+  "unemployed": "1946",
+  "shape": "auslandisch",
+  "year": 2007,
+  "unemployedPercent": "10",
+  "population": "19544.5"
+}, {
+  "districtNumber": "13",
+  "district": "Bogenhausen",
+  "unemployed": "903.8",
+  "shape": "auslandisch",
+  "year": 2007,
+  "unemployedPercent": "8.2",
+  "population": "11011.8"
+}, {
+  "districtNumber": "16",
+  "district": "Ramersdorf - Perlach",
+  "unemployed": "3054.3",
+  "shape": "auslandisch",
+  "year": 2007,
+  "unemployedPercent": "13.9",
+  "population": "22035.8"
+}, {
+  "districtNumber": "5",
+  "district": "Au - Haidhausen",
+  "unemployed": "712.5",
+  "shape": "auslandisch",
+  "year": 2007,
+  "unemployedPercent": "7",
+  "population": "10189.5"
+}, {
+  "districtNumber": "1",
+  "district": "Altstadt - Lehel",
+  "unemployed": "196.3",
+  "shape": "mannlich",
+  "year": 2007,
+  "unemployedPercent": "2.7",
+  "population": "7307.5"
+}, {
+  "districtNumber": "6",
+  "district": "Sendling",
+  "unemployed": "897.8",
+  "shape": "weiblich",
+  "year": 2007,
+  "unemployedPercent": "6.5",
+  "population": "13874.5"
+}, {
+  "districtNumber": "21",
+  "district": "Pasing - Obermenzing",
+  "unemployed": "800.8",
+  "shape": "auslandisch",
+  "year": 2007,
+  "unemployedPercent": "9.1",
+  "population": "8834.3"
+}, {
+  "districtNumber": "16",
+  "district": "Ramersdorf - Perlach",
+  "unemployed": "3307.5",
+  "shape": "weiblich",
+  "year": 2007,
+  "unemployedPercent": "9.3",
+  "population": "35479"
+}, {
+  "districtNumber": "7",
+  "district": "Sendling - Westpark",
+  "unemployed": "1380.5",
+  "shape": "deutsch",
+  "year": 2007,
+  "unemployedPercent": "5.3",
+  "population": "26207.5"
+}, {
+  "districtNumber": "5",
+  "district": "Au - Haidhausen",
+  "unemployed": "1148.5",
+  "shape": "deutsch",
+  "year": 2007,
+  "unemployedPercent": "3.7",
+  "population": "31193.5"
+}, {
+  "districtNumber": "15",
+  "district": "Trudering - Riem",
+  "unemployed": "684.3",
+  "shape": "auslandisch",
+  "year": 2007,
+  "unemployedPercent": "9.2",
+  "population": "7476.8"
+}, {
+  "districtNumber": "19",
+  "district": "Thalkirchen - Obersendling - Forstenried - Furstenried - Solln",
+  "unemployed": "1083.5",
+  "shape": "mannlich",
+  "year": 2007,
+  "unemployedPercent": "4.1",
+  "population": "26576.3"
+}, {
+  "districtNumber": "17",
+  "district": "Obergiesing - Fasangarten",
+  "unemployed": "1091",
+  "shape": "mannlich",
+  "year": 2007,
+  "unemployedPercent": "6.2",
+  "population": "17473.5"
+}, {
+  "districtNumber": "14",
+  "district": "Berg am Laim",
+  "unemployed": "1016.3",
+  "shape": "weiblich",
+  "year": 2007,
+  "unemployedPercent": "7.4",
+  "population": "13727.5"
+}, {
+  "districtNumber": "9",
+  "district": "Neuhausen - Nymphenburg",
+  "unemployed": "1310.5",
+  "shape": "mannlich",
+  "year": 2007,
+  "unemployedPercent": "4.3",
+  "population": "30140"
+}, {
+  "districtNumber": "11",
+  "district": "Milbertshofen - Am Hart",
+  "unemployed": "1991.5",
+  "shape": "deutsch",
+  "year": 2007,
+  "unemployedPercent": "6.9",
+  "population": "28726"
+}, {
+  "districtNumber": "6",
+  "district": "Sendling",
+  "unemployed": "942.5",
+  "shape": "deutsch",
+  "year": 2007,
+  "unemployedPercent": "4.7",
+  "population": "20133.8"
+}, {
+  "districtNumber": "4",
+  "district": "Schwabing - West",
+  "unemployed": "617",
+  "shape": "auslandisch",
+  "year": 2007,
+  "unemployedPercent": "5.7",
+  "population": "10731"
+}, {
+  "districtNumber": "17",
+  "district": "Obergiesing - Fasangarten",
+  "unemployed": "1237.3",
+  "shape": "deutsch",
+  "year": 2007,
+  "unemployedPercent": "5.3",
+  "population": "23480.8"
+}, {
+  "districtNumber": "3",
+  "district": "Maxvorstadt",
+  "unemployed": "723",
+  "shape": "mannlich",
+  "year": 2007,
+  "unemployedPercent": "3.8",
+  "population": "19190.3"
+}, {
+  "districtNumber": "23",
+  "district": "Allach - Untermenzing",
+  "unemployed": "359",
+  "shape": "mannlich",
+  "year": 2007,
+  "unemployedPercent": "3.9",
+  "population": "9294.8"
+}, {
+  "districtNumber": "17",
+  "district": "Obergiesing - Fasangarten",
+  "unemployed": "1093.3",
+  "shape": "weiblich",
+  "year": 2007,
+  "unemployedPercent": "6.5",
+  "population": "16909.3"
+}, {
+  "districtNumber": "21",
+  "district": "Pasing - Obermenzing",
+  "unemployed": "935",
+  "shape": "weiblich",
+  "year": 2007,
+  "unemployedPercent": "4.3",
+  "population": "21780.5"
+}, {
+  "districtNumber": "18",
+  "district": "Untergiesing - Harlaching",
+  "unemployed": "1013.3",
+  "shape": "mannlich",
+  "year": 2007,
+  "unemployedPercent": "6.2",
+  "population": "16356.8"
+}, {
+  "districtNumber": "1",
+  "district": "Moosach",
+  "unemployed": "1116.5",
+  "shape": "mannlich",
+  "year": 2007,
+  "unemployedPercent": "6.6",
+  "population": "16840.5"
+}, {
+  "districtNumber": "22",
+  "district": "Aubing - Lochhausen - Langwied",
+  "unemployed": "768",
+  "shape": "weiblich",
+  "year": 2007,
+  "unemployedPercent": "6.3",
+  "population": "12192.8"
+}, {
+  "districtNumber": "23",
+  "district": "Allach - Untermenzing",
+  "unemployed": "414.5",
+  "shape": "deutsch",
+  "year": 2007,
+  "unemployedPercent": "2.8",
+  "population": "14664.3"
+}, {
+  "districtNumber": "1",
+  "district": "Moosach",
+  "unemployed": "1091.8",
+  "shape": "auslandisch",
+  "year": 2007,
+  "unemployedPercent": "11.2",
+  "population": "9784"
+}, {
+  "districtNumber": "6",
+  "district": "Sendling",
+  "unemployed": "795.5",
+  "shape": "auslandisch",
+  "year": 2007,
+  "unemployedPercent": "10.2",
+  "population": "7803.3"
+}, {
+  "districtNumber": "1",
+  "district": "Altstadt - Lehel",
+  "unemployed": "120",
+  "shape": "auslandisch",
+  "year": 2007,
+  "unemployedPercent": "3.3",
+  "population": "3605.5"
+}, {
+  "districtNumber": "23",
+  "district": "Allach - Untermenzing",
+  "unemployed": "256.8",
+  "shape": "auslandisch",
+  "year": 2007,
+  "unemployedPercent": "7",
+  "population": "3678.5"
+}, {
+  "districtNumber": "2",
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "unemployed": "696",
+  "shape": "auslandisch",
+  "year": 2007,
+  "unemployedPercent": "6.4",
+  "population": "10911"
+}, {
+  "districtNumber": "7",
+  "district": "Sendling - Westpark",
+  "unemployed": "1123.8",
+  "shape": "auslandisch",
+  "year": 2007,
+  "unemployedPercent": "11.7",
+  "population": "9572.3"
+}, {
+  "districtNumber": "24",
+  "district": "Feldmoching - Hasenbergl",
+  "unemployed": "1263.5",
+  "shape": "auslandisch",
+  "year": 2007,
+  "unemployedPercent": "11.2",
+  "population": "11284.8"
+}, {
+  "districtNumber": "4",
+  "district": "Schwabing - West",
+  "unemployed": "831.3",
+  "shape": "weiblich",
+  "year": 2007,
+  "unemployedPercent": "3.6",
+  "population": "23344.5"
+}, {
+  "districtNumber": "17",
+  "district": "Obergiesing - Fasangarten",
+  "unemployed": "947",
+  "shape": "auslandisch",
+  "year": 2007,
+  "unemployedPercent": "8.7",
+  "population": "10902"
+}, {
+  "districtNumber": "9",
+  "district": "Neuhausen - Nymphenburg",
+  "unemployed": "1093.3",
+  "shape": "auslandisch",
+  "year": 2007,
+  "unemployedPercent": "7.2",
+  "population": "15147.5"
+}, {
+  "districtNumber": "19",
+  "district": "Thalkirchen - Obersendling - Forstenried - Furstenried - Solln",
+  "unemployed": "1012.3",
+  "shape": "auslandisch",
+  "year": 2007,
+  "unemployedPercent": "8",
+  "population": "12730"
+}, {
+  "districtNumber": "8",
+  "district": "Schwanthalerhohe",
+  "unemployed": "681.8",
+  "shape": "auslandisch",
+  "year": 2007,
+  "unemployedPercent": "8.9",
+  "population": "7636.3"
+}, {
+  "districtNumber": "2",
+  "district": "Hadern",
+  "unemployed": "949.3",
+  "shape": "deutsch",
+  "year": 2007,
+  "unemployedPercent": "4.3",
+  "population": "22131"
+}, {
+  "districtNumber": "8",
+  "district": "Schwanthalerhohe",
+  "unemployed": "763.8",
+  "shape": "deutsch",
+  "year": 2007,
+  "unemployedPercent": "6.1",
+  "population": "12457.3"
+}, {
+  "districtNumber": "25",
+  "district": "Laim",
+  "unemployed": "1242.8",
+  "shape": "deutsch",
+  "year": 2007,
+  "unemployedPercent": "4.8",
+  "population": "25990"
+}, {
+  "districtNumber": "8",
+  "district": "Schwanthalerhohe",
+  "unemployed": "704",
+  "shape": "weiblich",
+  "year": 2007,
+  "unemployedPercent": "7.4",
+  "population": "9554.5"
+}, {
+  "districtNumber": "11",
+  "district": "Milbertshofen - Am Hart",
+  "unemployed": "1869.5",
+  "shape": "mannlich",
+  "year": 2007,
+  "unemployedPercent": "7.4",
+  "population": "25125.3"
+}, {
+  "districtNumber": "13",
+  "district": "Bogenhausen",
+  "unemployed": "864.3",
+  "shape": "mannlich",
+  "year": 2007,
+  "unemployedPercent": "3.5",
+  "population": "24966.8"
+}, {
+  "districtNumber": "7",
+  "district": "Sendling - Westpark",
+  "unemployed": "1214.3",
+  "shape": "mannlich",
+  "year": 2007,
+  "unemployedPercent": "6.9",
+  "population": "17655"
+}, {
+  "districtNumber": "6",
+  "district": "Sendling",
+  "unemployed": "840.3",
+  "shape": "mannlich",
+  "year": 2007,
+  "unemployedPercent": "6",
+  "population": "14062.5"
+}, {
+  "districtNumber": "25",
+  "district": "Laim",
+  "unemployed": "891.8",
+  "shape": "auslandisch",
+  "year": 2007,
+  "unemployedPercent": "9.9",
+  "population": "8965.8"
+}, {
+  "districtNumber": "22",
+  "district": "Aubing - Lochhausen - Langwied",
+  "unemployed": "621.8",
+  "shape": "auslandisch",
+  "year": 2007,
+  "unemployedPercent": "11.4",
+  "population": "5453.8"
+}, {
+  "districtNumber": "22",
+  "district": "Aubing - Lochhausen - Langwied",
+  "unemployed": "861.8",
+  "shape": "deutsch",
+  "year": 2007,
+  "unemployedPercent": "4.6",
+  "population": "18838"
+}, {
+  "districtNumber": "23",
+  "district": "Allach - Untermenzing",
+  "unemployed": "312.3",
+  "shape": "weiblich",
+  "year": 2007,
+  "unemployedPercent": "3.5",
+  "population": "9048"
+}, {
+  "districtNumber": "18",
+  "district": "Untergiesing - Harlaching",
+  "unemployed": "684",
+  "shape": "auslandisch",
+  "year": 2007,
+  "unemployedPercent": "8.7",
+  "population": "7869.5"
+}, {
+  "districtNumber": "8",
+  "district": "Schwanthalerhohe",
+  "unemployed": "741.5",
+  "shape": "mannlich",
+  "year": 2007,
+  "unemployedPercent": "7",
+  "population": "10539"
+}, {
+  "districtNumber": "1",
+  "district": "Altstadt - Lehel",
+  "unemployed": "178",
+  "shape": "weiblich",
+  "year": 2007,
+  "unemployedPercent": "2.6",
+  "population": "6955.8"
+}, {
+  "districtNumber": "18",
+  "district": "Untergiesing - Harlaching",
+  "unemployed": "1072.5",
+  "shape": "deutsch",
+  "year": 2007,
+  "unemployedPercent": "4.2",
+  "population": "25521.5"
+}, {
+  "districtNumber": "25",
+  "district": "Laim",
+  "unemployed": "1035.5",
+  "shape": "mannlich",
+  "year": 2007,
+  "unemployedPercent": "6",
+  "population": "17198.5"
+}, {
+  "districtNumber": "2",
+  "district": "Hadern",
+  "unemployed": "1066",
+  "shape": "weiblich",
+  "year": 2007,
+  "unemployedPercent": "6.8",
+  "population": "15717.8"
+}, {
+  "districtNumber": "3",
+  "district": "Maxvorstadt",
+  "unemployed": "879.8",
+  "shape": "deutsch",
+  "year": 2007,
+  "unemployedPercent": "3.1",
+  "population": "28055.3"
+}, {
+  "districtNumber": "24",
+  "district": "Feldmoching - Hasenbergl",
+  "unemployed": "1588.5",
+  "shape": "weiblich",
+  "year": 2007,
+  "unemployedPercent": "9.2",
+  "population": "17246"
+}, {
+  "districtNumber": "1",
+  "district": "Moosach",
+  "unemployed": "1300.3",
+  "shape": "weiblich",
+  "year": 2007,
+  "unemployedPercent": "7.9",
+  "population": "16412"
+}, {
+  "districtNumber": "5",
+  "district": "Au - Haidhausen",
+  "unemployed": "936.5",
+  "shape": "mannlich",
+  "year": 2007,
+  "unemployedPercent": "4.6",
+  "population": "20553.3"
+}, {
+  "districtNumber": "11",
+  "district": "Milbertshofen - Am Hart",
+  "unemployed": "2068",
+  "shape": "weiblich",
+  "year": 2007,
+  "unemployedPercent": "8.9",
+  "population": "23145.3"
+}, {
+  "districtNumber": "19",
+  "district": "Thalkirchen - Obersendling - Forstenried - Furstenried - Solln",
+  "unemployed": "1304",
+  "shape": "deutsch",
+  "year": 2007,
+  "unemployedPercent": "3.2",
+  "population": "41333"
+}, {
+  "districtNumber": "16",
+  "district": "Ramersdorf - Perlach",
+  "unemployed": "2775.5",
+  "shape": "mannlich",
+  "year": 2007,
+  "unemployedPercent": "8.1",
+  "population": "34261"
+}, {
+  "districtNumber": "4",
+  "district": "Schwabing - West",
+  "unemployed": "802",
+  "shape": "mannlich",
+  "year": 2007,
+  "unemployedPercent": "3.7",
+  "population": "21707"
+}, {
+  "districtNumber": "3",
+  "district": "Maxvorstadt",
+  "unemployed": "485.5",
+  "shape": "auslandisch",
+  "year": 2007,
+  "unemployedPercent": "5",
+  "population": "9661.5"
+}, {
+  "districtNumber": "14",
+  "district": "Berg am Laim",
+  "unemployed": "953.5",
+  "shape": "auslandisch",
+  "year": 2007,
+  "unemployedPercent": "11.2",
+  "population": "8521.5"
+}, {
+  "districtNumber": "5",
+  "district": "Au - Haidhausen",
+  "unemployed": "924.5",
+  "shape": "weiblich",
+  "year": 2007,
+  "unemployedPercent": "4.4",
+  "population": "20829.8"
+}, {
+  "districtNumber": "15",
+  "district": "Trudering - Riem",
+  "unemployed": "909.3",
+  "shape": "weiblich",
+  "year": 2007,
+  "unemployedPercent": "4.9",
+  "population": "18747.3"
+}, {
+  "districtNumber": "16",
+  "district": "Ramersdorf - Perlach",
+  "unemployed": "3028.8",
+  "shape": "deutsch",
+  "year": 2007,
+  "unemployedPercent": "6.3",
+  "population": "47704.3"
+}, {
+  "districtNumber": "1",
+  "district": "Altstadt - Lehel",
+  "unemployed": "254.3",
+  "shape": "deutsch",
+  "year": 2007,
+  "unemployedPercent": "2.4",
+  "population": "10657.8"
+}, {
+  "districtNumber": "2",
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "unemployed": "1028.8",
+  "shape": "deutsch",
+  "year": 2007,
+  "unemployedPercent": "4",
+  "population": "25816.8"
+}, {
+  "districtNumber": "1",
+  "district": "Moosach",
+  "unemployed": "1325",
+  "shape": "deutsch",
+  "year": 2007,
+  "unemployedPercent": "5.6",
+  "population": "23468.5"
+}, {
+  "districtNumber": "15",
+  "district": "Trudering - Riem",
+  "unemployed": "752",
+  "shape": "mannlich",
+  "year": 2007,
+  "unemployedPercent": "4",
+  "population": "18743.5"
+}, {
+  "districtNumber": "21",
+  "district": "Pasing - Obermenzing",
+  "unemployed": "868",
+  "shape": "mannlich",
+  "year": 2007,
+  "unemployedPercent": "4",
+  "population": "21480.3"
+}, {
+  "districtNumber": "24",
+  "district": "Feldmoching - Hasenbergl",
+  "unemployed": "1311.3",
+  "shape": "mannlich",
+  "year": 2007,
+  "unemployedPercent": "7.1",
+  "population": "18421.8"
+}, {
+  "districtNumber": "14",
+  "district": "Berg am Laim",
+  "unemployed": "995.3",
+  "shape": "mannlich",
+  "year": 2007,
+  "unemployedPercent": "7.1",
+  "population": "13921"
+}, {
+  "districtNumber": "15",
+  "district": "Trudering - Riem",
+  "unemployed": "977",
+  "shape": "deutsch",
+  "year": 2007,
+  "unemployedPercent": "3.3",
+  "population": "30014"
+}, {
+  "districtNumber": "2",
+  "district": "Hadern",
+  "unemployed": "830.3",
+  "shape": "mannlich",
+  "year": 2007,
+  "unemployedPercent": "5.9",
+  "population": "14063.3"
+}, {
+  "districtNumber": "4",
+  "district": "Schwabing - West",
+  "unemployed": "1016.3",
+  "shape": "deutsch",
+  "year": 2007,
+  "unemployedPercent": "3",
+  "population": "34320.5"
+}, {
+  "districtNumber": "13",
+  "district": "Bogenhausen",
+  "unemployed": "1058.3",
+  "shape": "weiblich",
+  "year": 2007,
+  "unemployedPercent": "3.9",
+  "population": "27302.8"
+}, {
+  "districtNumber": "2",
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "unemployed": "1008.5",
+  "shape": "mannlich",
+  "year": 2007,
+  "unemployedPercent": "5.2",
+  "population": "19437.5"
+}, {
+  "districtNumber": "22",
+  "district": "Aubing - Lochhausen - Langwied",
+  "unemployed": "715.5",
+  "shape": "mannlich",
+  "year": 2007,
+  "unemployedPercent": "5.9",
+  "population": "12099"
+}, {
+  "districtNumber": "24",
+  "district": "Feldmoching - Hasenbergl",
+  "unemployed": "1636.3",
+  "shape": "deutsch",
+  "year": 2007,
+  "unemployedPercent": "6.7",
+  "population": "24383"
+}, {
+  "districtNumber": "12",
+  "district": "Schwabing - Freimann",
+  "unemployed": "1085.5",
+  "shape": "weiblich",
+  "year": 2007,
+  "unemployedPercent": "4.7",
+  "population": "23140.8"
+}, {
+  "districtNumber": "12",
+  "district": "Schwabing - Freimann",
+  "unemployed": "935.5",
+  "shape": "mannlich",
+  "year": 2007,
+  "unemployedPercent": "4",
+  "population": "23681"
+}, {
+  "districtNumber": "2",
+  "district": "Hadern",
+  "unemployed": "776.5",
+  "shape": "mannlich",
+  "year": 2008,
+  "unemployedPercent": "5.4",
+  "population": "14248.8"
+}, {
+  "districtNumber": "1",
+  "district": "Moosach",
+  "unemployed": "1247.8",
+  "shape": "deutsch",
+  "year": 2008,
+  "unemployedPercent": "5.3",
+  "population": "23404"
+}, {
+  "districtNumber": "24",
+  "district": "Feldmoching - Hasenbergl",
+  "unemployed": "1195.3",
+  "shape": "mannlich",
+  "year": 2008,
+  "unemployedPercent": "6.4",
+  "population": "18726"
+}, {
+  "districtNumber": "19",
+  "district": "Thalkirchen - Obersendling - Forstenried - Furstenried - Solln",
+  "unemployed": "1236.3",
+  "shape": "deutsch",
+  "year": 2008,
+  "unemployedPercent": "3",
+  "population": "41395.3"
+}, {
+  "districtNumber": "17",
+  "district": "Obergiesing - Fasangarten",
+  "unemployed": "1189",
+  "shape": "deutsch",
+  "year": 2008,
+  "unemployedPercent": "5",
+  "population": "23748.5"
+}, {
+  "districtNumber": "2",
+  "district": "Hadern",
+  "unemployed": "886.3",
+  "shape": "auslandisch",
+  "year": 2008,
+  "unemployedPercent": "11.1",
+  "population": "7990.8"
+}, {
+  "districtNumber": "22",
+  "district": "Aubing - Lochhausen - Langwied",
+  "unemployed": "780.5",
+  "shape": "deutsch",
+  "year": 2008,
+  "unemployedPercent": "4.2",
+  "population": "18744.5"
+}, {
+  "districtNumber": "18",
+  "district": "Untergiesing - Harlaching",
+  "unemployed": "1013.8",
+  "shape": "deutsch",
+  "year": 2008,
+  "unemployedPercent": "3.9",
+  "population": "25745"
+}, {
+  "districtNumber": "25",
+  "district": "Laim",
+  "unemployed": "1203.8",
+  "shape": "deutsch",
+  "year": 2008,
+  "unemployedPercent": "4.6",
+  "population": "26318.8"
+}, {
+  "districtNumber": "7",
+  "district": "Sendling - Westpark",
+  "unemployed": "1274.8",
+  "shape": "weiblich",
+  "year": 2008,
+  "unemployedPercent": "7",
+  "population": "18286.5"
+}, {
+  "districtNumber": "12",
+  "district": "Schwabing - Freimann",
+  "unemployed": "708.5",
+  "shape": "auslandisch",
+  "year": 2008,
+  "unemployedPercent": "5.7",
+  "population": "12446.5"
+}, {
+  "districtNumber": "2",
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "unemployed": "976",
+  "shape": "deutsch",
+  "year": 2008,
+  "unemployedPercent": "3.7",
+  "population": "26540.8"
+}, {
+  "districtNumber": "8",
+  "district": "Schwanthalerhohe",
+  "unemployed": "754",
+  "shape": "deutsch",
+  "year": 2008,
+  "unemployedPercent": "5.9",
+  "population": "12875"
+}, {
+  "districtNumber": "5",
+  "district": "Au - Haidhausen",
+  "unemployed": "1032.3",
+  "shape": "deutsch",
+  "year": 2008,
+  "unemployedPercent": "3.3",
+  "population": "31649.3"
+}, {
+  "districtNumber": "24",
+  "district": "Feldmoching - Hasenbergl",
+  "unemployed": "1163.3",
+  "shape": "auslandisch",
+  "year": 2008,
+  "unemployedPercent": "9.9",
+  "population": "11697.8"
+}, {
+  "districtNumber": "11",
+  "district": "Milbertshofen - Am Hart",
+  "unemployed": "1844.8",
+  "shape": "auslandisch",
+  "year": 2008,
+  "unemployedPercent": "9.4",
+  "population": "19565.3"
+}, {
+  "districtNumber": "16",
+  "district": "Ramersdorf - Perlach",
+  "unemployed": "3279.5",
+  "shape": "weiblich",
+  "year": 2008,
+  "unemployedPercent": "9.2",
+  "population": "35498.3"
+}, {
+  "districtNumber": "1",
+  "district": "Moosach",
+  "unemployed": "1032.5",
+  "shape": "auslandisch",
+  "year": 2008,
+  "unemployedPercent": "10.3",
+  "population": "9995.3"
+}, {
+  "districtNumber": "12",
+  "district": "Schwabing - Freimann",
+  "unemployed": "1049",
+  "shape": "weiblich",
+  "year": 2008,
+  "unemployedPercent": "4.5",
+  "population": "23289.8"
+}, {
+  "districtNumber": "9",
+  "district": "Neuhausen - Nymphenburg",
+  "unemployed": "1487.5",
+  "shape": "deutsch",
+  "year": 2008,
+  "unemployedPercent": "3.1",
+  "population": "47265.5"
+}, {
+  "districtNumber": "2",
+  "district": "Hadern",
+  "unemployed": "920.3",
+  "shape": "deutsch",
+  "year": 2008,
+  "unemployedPercent": "4.2",
+  "population": "22149.3"
+}, {
+  "districtNumber": "17",
+  "district": "Obergiesing - Fasangarten",
+  "unemployed": "1032.5",
+  "shape": "mannlich",
+  "year": 2008,
+  "unemployedPercent": "5.8",
+  "population": "17768.8"
+}, {
+  "districtNumber": "1",
+  "district": "Altstadt - Lehel",
+  "unemployed": "167.5",
+  "shape": "weiblich",
+  "year": 2008,
+  "unemployedPercent": "2.4",
+  "population": "7018"
+}, {
+  "districtNumber": "11",
+  "district": "Milbertshofen - Am Hart",
+  "unemployed": "1919.3",
+  "shape": "deutsch",
+  "year": 2008,
+  "unemployedPercent": "6.7",
+  "population": "28595.5"
+}, {
+  "districtNumber": "22",
+  "district": "Aubing - Lochhausen - Langwied",
+  "unemployed": "682.5",
+  "shape": "weiblich",
+  "year": 2008,
+  "unemployedPercent": "5.6",
+  "population": "12243.8"
+}, {
+  "districtNumber": "13",
+  "district": "Bogenhausen",
+  "unemployed": "803.3",
+  "shape": "mannlich",
+  "year": 2008,
+  "unemployedPercent": "3.2",
+  "population": "25010.5"
+}, {
+  "districtNumber": "1",
+  "district": "Moosach",
+  "unemployed": "1239.8",
+  "shape": "weiblich",
+  "year": 2008,
+  "unemployedPercent": "7.5",
+  "population": "16490"
+}, {
+  "districtNumber": "22",
+  "district": "Aubing - Lochhausen - Langwied",
+  "unemployed": "543",
+  "shape": "auslandisch",
+  "year": 2008,
+  "unemployedPercent": "9.7",
+  "population": "5598.8"
+}, {
+  "districtNumber": "6",
+  "district": "Sendling",
+  "unemployed": "862",
+  "shape": "weiblich",
+  "year": 2008,
+  "unemployedPercent": "6.1",
+  "population": "14095.3"
+}, {
+  "districtNumber": "13",
+  "district": "Bogenhausen",
+  "unemployed": "1007.5",
+  "shape": "deutsch",
+  "year": 2008,
+  "unemployedPercent": "2.5",
+  "population": "40909.3"
+}, {
+  "districtNumber": "21",
+  "district": "Pasing - Obermenzing",
+  "unemployed": "898.5",
+  "shape": "weiblich",
+  "year": 2008,
+  "unemployedPercent": "4.1",
+  "population": "21834.3"
+}, {
+  "districtNumber": "16",
+  "district": "Ramersdorf - Perlach",
+  "unemployed": "2657.5",
+  "shape": "mannlich",
+  "year": 2008,
+  "unemployedPercent": "7.7",
+  "population": "34294.3"
+}, {
+  "districtNumber": "25",
+  "district": "Laim",
+  "unemployed": "975.3",
+  "shape": "mannlich",
+  "year": 2008,
+  "unemployedPercent": "5.6",
+  "population": "17406"
+}, {
+  "districtNumber": "24",
+  "district": "Feldmoching - Hasenbergl",
+  "unemployed": "1497.5",
+  "shape": "weiblich",
+  "year": 2008,
+  "unemployedPercent": "8.6",
+  "population": "17404.8"
+}, {
+  "districtNumber": "23",
+  "district": "Allach - Untermenzing",
+  "unemployed": "402",
+  "shape": "deutsch",
+  "year": 2008,
+  "unemployedPercent": "2.7",
+  "population": "14944"
+}, {
+  "districtNumber": "5",
+  "district": "Au - Haidhausen",
+  "unemployed": "844",
+  "shape": "weiblich",
+  "year": 2008,
+  "unemployedPercent": "4",
+  "population": "21141.5"
+}, {
+  "districtNumber": "21",
+  "district": "Pasing - Obermenzing",
+  "unemployed": "1012.3",
+  "shape": "deutsch",
+  "year": 2008,
+  "unemployedPercent": "2.9",
+  "population": "34442"
+}, {
+  "districtNumber": "17",
+  "district": "Obergiesing - Fasangarten",
+  "unemployed": "906",
+  "shape": "auslandisch",
+  "year": 2008,
+  "unemployedPercent": "8.1",
+  "population": "11127.3"
+}, {
+  "districtNumber": "2",
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "unemployed": "661",
+  "shape": "weiblich",
+  "year": 2008,
+  "unemployedPercent": "3.8",
+  "population": "17618.3"
+}, {
+  "districtNumber": "1",
+  "district": "Moosach",
+  "unemployed": "1040.5",
+  "shape": "mannlich",
+  "year": 2008,
+  "unemployedPercent": "6.2",
+  "population": "16909.3"
+}, {
+  "districtNumber": "11",
+  "district": "Milbertshofen - Am Hart",
+  "unemployed": "1767",
+  "shape": "mannlich",
+  "year": 2008,
+  "unemployedPercent": "7.1",
+  "population": "24992.8"
+}, {
+  "districtNumber": "14",
+  "district": "Berg am Laim",
+  "unemployed": "988.3",
+  "shape": "deutsch",
+  "year": 2008,
+  "unemployedPercent": "5.2",
+  "population": "19150"
+}, {
+  "districtNumber": "14",
+  "district": "Berg am Laim",
+  "unemployed": "968.3",
+  "shape": "weiblich",
+  "year": 2008,
+  "unemployedPercent": "7",
+  "population": "13851"
+}, {
+  "districtNumber": "15",
+  "district": "Trudering - Riem",
+  "unemployed": "754.3",
+  "shape": "mannlich",
+  "year": 2008,
+  "unemployedPercent": "3.9",
+  "population": "19253.5"
+}, {
+  "districtNumber": "4",
+  "district": "Schwabing - West",
+  "unemployed": "722",
+  "shape": "mannlich",
+  "year": 2008,
+  "unemployedPercent": "3.3",
+  "population": "22073.3"
+}, {
+  "districtNumber": "5",
+  "district": "Au - Haidhausen",
+  "unemployed": "634.5",
+  "shape": "auslandisch",
+  "year": 2008,
+  "unemployedPercent": "6.2",
+  "population": "10173.5"
+}, {
+  "districtNumber": "15",
+  "district": "Trudering - Riem",
+  "unemployed": "746",
+  "shape": "auslandisch",
+  "year": 2008,
+  "unemployedPercent": "9.5",
+  "population": "7887"
+}, {
+  "districtNumber": "23",
+  "district": "Allach - Untermenzing",
+  "unemployed": "331.3",
+  "shape": "mannlich",
+  "year": 2008,
+  "unemployedPercent": "3.5",
+  "population": "9408"
+}, {
+  "districtNumber": "13",
+  "district": "Bogenhausen",
+  "unemployed": "851.8",
+  "shape": "auslandisch",
+  "year": 2008,
+  "unemployedPercent": "7.5",
+  "population": "11298.8"
+}, {
+  "districtNumber": "8",
+  "district": "Schwanthalerhohe",
+  "unemployed": "624",
+  "shape": "auslandisch",
+  "year": 2008,
+  "unemployedPercent": "7.9",
+  "population": "7877"
+}, {
+  "districtNumber": "3",
+  "district": "Maxvorstadt",
+  "unemployed": "427.8",
+  "shape": "auslandisch",
+  "year": 2008,
+  "unemployedPercent": "4.4",
+  "population": "9829.8"
+}, {
+  "districtNumber": "4",
+  "district": "Schwabing - West",
+  "unemployed": "749.5",
+  "shape": "weiblich",
+  "year": 2008,
+  "unemployedPercent": "3.2",
+  "population": "23763.3"
+}, {
+  "districtNumber": "18",
+  "district": "Untergiesing - Harlaching",
+  "unemployed": "667.8",
+  "shape": "auslandisch",
+  "year": 2008,
+  "unemployedPercent": "8.4",
+  "population": "7989.3"
+}, {
+  "districtNumber": "6",
+  "district": "Sendling",
+  "unemployed": "887.5",
+  "shape": "deutsch",
+  "year": 2008,
+  "unemployedPercent": "4.3",
+  "population": "20443.3"
+}, {
+  "districtNumber": "3",
+  "district": "Maxvorstadt",
+  "unemployed": "586",
+  "shape": "weiblich",
+  "year": 2008,
+  "unemployedPercent": "3.1",
+  "population": "19143.8"
+}, {
+  "districtNumber": "25",
+  "district": "Laim",
+  "unemployed": "836.8",
+  "shape": "auslandisch",
+  "year": 2008,
+  "unemployedPercent": "9.2",
+  "population": "9090"
+}, {
+  "districtNumber": "3",
+  "district": "Maxvorstadt",
+  "unemployed": "660.3",
+  "shape": "mannlich",
+  "year": 2008,
+  "unemployedPercent": "3.3",
+  "population": "19808.3"
+}, {
+  "districtNumber": "6",
+  "district": "Sendling",
+  "unemployed": "752.8",
+  "shape": "auslandisch",
+  "year": 2008,
+  "unemployedPercent": "9.6",
+  "population": "7865.5"
+}, {
+  "districtNumber": "19",
+  "district": "Thalkirchen - Obersendling - Forstenried - Furstenried - Solln",
+  "unemployed": "1166",
+  "shape": "weiblich",
+  "year": 2008,
+  "unemployedPercent": "4.2",
+  "population": "27614.5"
+}, {
+  "districtNumber": "7",
+  "district": "Sendling - Westpark",
+  "unemployed": "1346.8",
+  "shape": "deutsch",
+  "year": 2008,
+  "unemployedPercent": "5.1",
+  "population": "26434.8"
+}, {
+  "districtNumber": "3",
+  "district": "Maxvorstadt",
+  "unemployed": "818.5",
+  "shape": "deutsch",
+  "year": 2008,
+  "unemployedPercent": "2.8",
+  "population": "29122.3"
+}, {
+  "districtNumber": "9",
+  "district": "Neuhausen - Nymphenburg",
+  "unemployed": "1024",
+  "shape": "auslandisch",
+  "year": 2008,
+  "unemployedPercent": "6.7",
+  "population": "15315.3"
+}, {
+  "districtNumber": "2",
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "unemployed": "605",
+  "shape": "auslandisch",
+  "year": 2008,
+  "unemployedPercent": "5.5",
+  "population": "11030.3"
+}, {
+  "districtNumber": "1",
+  "district": "Altstadt - Lehel",
+  "unemployed": "113.3",
+  "shape": "auslandisch",
+  "year": 2008,
+  "unemployedPercent": "3.1",
+  "population": "3677.8"
+}, {
+  "districtNumber": "24",
+  "district": "Feldmoching - Hasenbergl",
+  "unemployed": "1529.5",
+  "shape": "deutsch",
+  "year": 2008,
+  "unemployedPercent": "6.3",
+  "population": "24433"
+}, {
+  "districtNumber": "1",
+  "district": "Altstadt - Lehel",
+  "unemployed": "184.3",
+  "shape": "mannlich",
+  "year": 2008,
+  "unemployedPercent": "2.5",
+  "population": "7428.8"
+}, {
+  "districtNumber": "14",
+  "district": "Berg am Laim",
+  "unemployed": "879.3",
+  "shape": "auslandisch",
+  "year": 2008,
+  "unemployedPercent": "10.1",
+  "population": "8746.8"
+}, {
+  "districtNumber": "12",
+  "district": "Schwabing - Freimann",
+  "unemployed": "897.5",
+  "shape": "mannlich",
+  "year": 2008,
+  "unemployedPercent": "3.7",
+  "population": "24010"
+}, {
+  "districtNumber": "14",
+  "district": "Berg am Laim",
+  "unemployed": "899.3",
+  "shape": "mannlich",
+  "year": 2008,
+  "unemployedPercent": "6.4",
+  "population": "14045.8"
+}, {
+  "districtNumber": "21",
+  "district": "Pasing - Obermenzing",
+  "unemployed": "690.8",
+  "shape": "auslandisch",
+  "year": 2008,
+  "unemployedPercent": "7.9",
+  "population": "8752"
+}, {
+  "districtNumber": "23",
+  "district": "Allach - Untermenzing",
+  "unemployed": "298.5",
+  "shape": "weiblich",
+  "year": 2008,
+  "unemployedPercent": "3.2",
+  "population": "9246.3"
+}, {
+  "districtNumber": "18",
+  "district": "Untergiesing - Harlaching",
+  "unemployed": "959",
+  "shape": "mannlich",
+  "year": 2008,
+  "unemployedPercent": "5.8",
+  "population": "16512.8"
+}, {
+  "districtNumber": "9",
+  "district": "Neuhausen - Nymphenburg",
+  "unemployed": "1308",
+  "shape": "weiblich",
+  "year": 2008,
+  "unemployedPercent": "4.1",
+  "population": "32144.3"
+}, {
+  "districtNumber": "8",
+  "district": "Schwanthalerhohe",
+  "unemployed": "689.3",
+  "shape": "weiblich",
+  "year": 2008,
+  "unemployedPercent": "7",
+  "population": "9900.5"
+}, {
+  "districtNumber": "25",
+  "district": "Laim",
+  "unemployed": "1065.3",
+  "shape": "weiblich",
+  "year": 2008,
+  "unemployedPercent": "5.9",
+  "population": "18002.8"
+}, {
+  "districtNumber": "21",
+  "district": "Pasing - Obermenzing",
+  "unemployed": "804.5",
+  "shape": "mannlich",
+  "year": 2008,
+  "unemployedPercent": "3.8",
+  "population": "21359.8"
+}, {
+  "districtNumber": "8",
+  "district": "Schwanthalerhohe",
+  "unemployed": "688.8",
+  "shape": "mannlich",
+  "year": 2008,
+  "unemployedPercent": "6.3",
+  "population": "10851.5"
+}, {
+  "districtNumber": "2",
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "unemployed": "920",
+  "shape": "mannlich",
+  "year": 2008,
+  "unemployedPercent": "4.6",
+  "population": "19952.8"
+}, {
+  "districtNumber": "9",
+  "district": "Neuhausen - Nymphenburg",
+  "unemployed": "1203.5",
+  "shape": "mannlich",
+  "year": 2008,
+  "unemployedPercent": "4",
+  "population": "30436.5"
+}, {
+  "districtNumber": "4",
+  "district": "Schwabing - West",
+  "unemployed": "932.8",
+  "shape": "deutsch",
+  "year": 2008,
+  "unemployedPercent": "2.7",
+  "population": "35026.8"
+}, {
+  "districtNumber": "6",
+  "district": "Sendling",
+  "unemployed": "778.3",
+  "shape": "mannlich",
+  "year": 2008,
+  "unemployedPercent": "5.5",
+  "population": "14213.5"
+}, {
+  "districtNumber": "19",
+  "district": "Thalkirchen - Obersendling - Forstenried - Furstenried - Solln",
+  "unemployed": "944",
+  "shape": "auslandisch",
+  "year": 2008,
+  "unemployedPercent": "7.3",
+  "population": "12944.3"
+}, {
+  "districtNumber": "7",
+  "district": "Sendling - Westpark",
+  "unemployed": "1138.3",
+  "shape": "mannlich",
+  "year": 2008,
+  "unemployedPercent": "6.4",
+  "population": "17796.3"
+}, {
+  "districtNumber": "2",
+  "district": "Hadern",
+  "unemployed": "1030",
+  "shape": "weiblich",
+  "year": 2008,
+  "unemployedPercent": "6.5",
+  "population": "15891.3"
+}, {
+  "districtNumber": "18",
+  "district": "Untergiesing - Harlaching",
+  "unemployed": "722.5",
+  "shape": "weiblich",
+  "year": 2008,
+  "unemployedPercent": "4.2",
+  "population": "17221.5"
+}, {
+  "districtNumber": "16",
+  "district": "Ramersdorf - Perlach",
+  "unemployed": "2965",
+  "shape": "deutsch",
+  "year": 2008,
+  "unemployedPercent": "6.3",
+  "population": "47309.3"
+}, {
+  "districtNumber": "11",
+  "district": "Milbertshofen - Am Hart",
+  "unemployed": "1997",
+  "shape": "weiblich",
+  "year": 2008,
+  "unemployedPercent": "8.6",
+  "population": "23168"
+}, {
+  "districtNumber": "12",
+  "district": "Schwabing - Freimann",
+  "unemployed": "1238",
+  "shape": "deutsch",
+  "year": 2008,
+  "unemployedPercent": "3.6",
+  "population": "34853.3"
+}, {
+  "districtNumber": "4",
+  "district": "Schwabing - West",
+  "unemployed": "538.8",
+  "shape": "auslandisch",
+  "year": 2008,
+  "unemployedPercent": "5",
+  "population": "10809.8"
+}, {
+  "districtNumber": "15",
+  "district": "Trudering - Riem",
+  "unemployed": "952.3",
+  "shape": "weiblich",
+  "year": 2008,
+  "unemployedPercent": "4.9",
+  "population": "19620.5"
+}, {
+  "districtNumber": "19",
+  "district": "Thalkirchen - Obersendling - Forstenried - Furstenried - Solln",
+  "unemployed": "1014.3",
+  "shape": "mannlich",
+  "year": 2008,
+  "unemployedPercent": "3.8",
+  "population": "26725"
+}, {
+  "districtNumber": "22",
+  "district": "Aubing - Lochhausen - Langwied",
+  "unemployed": "641",
+  "shape": "mannlich",
+  "year": 2008,
+  "unemployedPercent": "5.3",
+  "population": "12099.5"
+}, {
+  "districtNumber": "16",
+  "district": "Ramersdorf - Perlach",
+  "unemployed": "2972",
+  "shape": "auslandisch",
+  "year": 2008,
+  "unemployedPercent": "13.2",
+  "population": "22483.3"
+}, {
+  "districtNumber": "13",
+  "district": "Bogenhausen",
+  "unemployed": "1056",
+  "shape": "weiblich",
+  "year": 2008,
+  "unemployedPercent": "3.9",
+  "population": "27197.5"
+}, {
+  "districtNumber": "17",
+  "district": "Obergiesing - Fasangarten",
+  "unemployed": "1062.5",
+  "shape": "weiblich",
+  "year": 2008,
+  "unemployedPercent": "6.2",
+  "population": "17107"
+}, {
+  "districtNumber": "5",
+  "district": "Au - Haidhausen",
+  "unemployed": "822.8",
+  "shape": "mannlich",
+  "year": 2008,
+  "unemployedPercent": "4",
+  "population": "20681.3"
+}, {
+  "districtNumber": "23",
+  "district": "Allach - Untermenzing",
+  "unemployed": "227.8",
+  "shape": "auslandisch",
+  "year": 2008,
+  "unemployedPercent": "6.1",
+  "population": "3710.3"
+}, {
+  "districtNumber": "7",
+  "district": "Sendling - Westpark",
+  "unemployed": "1066.3",
+  "shape": "auslandisch",
+  "year": 2008,
+  "unemployedPercent": "11.1",
+  "population": "9648"
+}, {
+  "districtNumber": "15",
+  "district": "Trudering - Riem",
+  "unemployed": "960.5",
+  "shape": "deutsch",
+  "year": 2008,
+  "unemployedPercent": "3.1",
+  "population": "30987"
+}, {
+  "districtNumber": "1",
+  "district": "Altstadt - Lehel",
+  "unemployed": "238.5",
+  "shape": "deutsch",
+  "year": 2008,
+  "unemployedPercent": "2.2",
+  "population": "10769"
+}, {
+  "districtNumber": "16",
+  "district": "Ramersdorf - Perlach",
+  "unemployed": "3391.5",
+  "shape": "weiblich",
+  "year": 2009,
+  "unemployedPercent": "9.6",
+  "population": "35147.8"
+}, {
+  "districtNumber": "6",
+  "district": "Sendling",
+  "unemployed": "875.5",
+  "shape": "weiblich",
+  "year": 2009,
+  "unemployedPercent": "6.2",
+  "population": "14040.8"
+}, {
+  "districtNumber": "4",
+  "district": "Schwabing - West",
+  "unemployed": "769.5",
+  "shape": "weiblich",
+  "year": 2009,
+  "unemployedPercent": "3.3",
+  "population": "23534.3"
+}, {
+  "districtNumber": "18",
+  "district": "Untergiesing - Harlaching",
+  "unemployed": "741",
+  "shape": "auslandisch",
+  "year": 2009,
+  "unemployedPercent": "9.8",
+  "population": "7575.3"
+}, {
+  "districtNumber": "18",
+  "district": "Untergiesing - Harlaching",
+  "unemployed": "1024.3",
+  "shape": "mannlich",
+  "year": 2009,
+  "unemployedPercent": "6.2",
+  "population": "16403.5"
+}, {
+  "districtNumber": "2",
+  "district": "Hadern",
+  "unemployed": "790.5",
+  "shape": "mannlich",
+  "year": 2009,
+  "unemployedPercent": "5.6",
+  "population": "14223"
+}, {
+  "districtNumber": "14",
+  "district": "Berg am Laim",
+  "unemployed": "960.3",
+  "shape": "auslandisch",
+  "year": 2009,
+  "unemployedPercent": "11.2",
+  "population": "8608.3"
+}, {
+  "districtNumber": "3",
+  "district": "Maxvorstadt",
+  "unemployed": "419.5",
+  "shape": "auslandisch",
+  "year": 2009,
+  "unemployedPercent": "4.5",
+  "population": "9335.8"
+}, {
+  "districtNumber": "3",
+  "district": "Maxvorstadt",
+  "unemployed": "666.5",
+  "shape": "mannlich",
+  "year": 2009,
+  "unemployedPercent": "3.4",
+  "population": "19640"
+}, {
+  "districtNumber": "17",
+  "district": "Obergiesing - Fasangarten",
+  "unemployed": "1177.8",
+  "shape": "deutsch",
+  "year": 2009,
+  "unemployedPercent": "5",
+  "population": "23729"
+}, {
+  "districtNumber": "9",
+  "district": "Neuhausen - Nymphenburg",
+  "unemployed": "1082.8",
+  "shape": "auslandisch",
+  "year": 2009,
+  "unemployedPercent": "7.2",
+  "population": "15104"
+}, {
+  "districtNumber": "2",
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "unemployed": "983.5",
+  "shape": "mannlich",
+  "year": 2009,
+  "unemployedPercent": "5.1",
+  "population": "19456.5"
+}, {
+  "districtNumber": "16",
+  "district": "Ramersdorf - Perlach",
+  "unemployed": "2803",
+  "shape": "mannlich",
+  "year": 2009,
+  "unemployedPercent": "8.3",
+  "population": "33959"
+}, {
+  "districtNumber": "19",
+  "district": "Thalkirchen - Obersendling - Forstenried - Furstenried - Solln",
+  "unemployed": "1282",
+  "shape": "deutsch",
+  "year": 2009,
+  "unemployedPercent": "3.1",
+  "population": "41086.3"
+}, {
+  "districtNumber": "18",
+  "district": "Untergiesing - Harlaching",
+  "unemployed": "1056.3",
+  "shape": "deutsch",
+  "year": 2009,
+  "unemployedPercent": "4.1",
+  "population": "25924"
+}, {
+  "districtNumber": "2",
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "unemployed": "992.5",
+  "shape": "deutsch",
+  "year": 2009,
+  "unemployedPercent": "3.7",
+  "population": "26757.5"
+}, {
+  "districtNumber": "9",
+  "district": "Neuhausen - Nymphenburg",
+  "unemployed": "1265.3",
+  "shape": "mannlich",
+  "year": 2009,
+  "unemployedPercent": "4.1",
+  "population": "30577.5"
+}, {
+  "districtNumber": "22",
+  "district": "Aubing - Lochhausen - Langwied",
+  "unemployed": "661.5",
+  "shape": "mannlich",
+  "year": 2009,
+  "unemployedPercent": "5.5",
+  "population": "12004.5"
+}, {
+  "districtNumber": "25",
+  "district": "Laim",
+  "unemployed": "1198",
+  "shape": "deutsch",
+  "year": 2009,
+  "unemployedPercent": "4.5",
+  "population": "26477.8"
+}, {
+  "districtNumber": "5",
+  "district": "Au - Haidhausen",
+  "unemployed": "842.3",
+  "shape": "mannlich",
+  "year": 2009,
+  "unemployedPercent": "4.1",
+  "population": "20433.5"
+}, {
+  "districtNumber": "15",
+  "district": "Trudering - Riem",
+  "unemployed": "792.3",
+  "shape": "auslandisch",
+  "year": 2009,
+  "unemployedPercent": "9.7",
+  "population": "8198.5"
+}, {
+  "districtNumber": "11",
+  "district": "Milbertshofen - Am Hart",
+  "unemployed": "1946.3",
+  "shape": "auslandisch",
+  "year": 2009,
+  "unemployedPercent": "10.1",
+  "population": "19364.5"
+}, {
+  "districtNumber": "8",
+  "district": "Schwanthalerhohe",
+  "unemployed": "683.5",
+  "shape": "mannlich",
+  "year": 2009,
+  "unemployedPercent": "6.3",
+  "population": "10919.8"
+}, {
+  "districtNumber": "14",
+  "district": "Berg am Laim",
+  "unemployed": "1012",
+  "shape": "deutsch",
+  "year": 2009,
+  "unemployedPercent": "5.3",
+  "population": "19037"
+}, {
+  "districtNumber": "19",
+  "district": "Thalkirchen - Obersendling - Forstenried - Furstenried - Solln",
+  "unemployed": "1005.5",
+  "shape": "auslandisch",
+  "year": 2009,
+  "unemployedPercent": "7.9",
+  "population": "12769.8"
+}, {
+  "districtNumber": "13",
+  "district": "Bogenhausen",
+  "unemployed": "850.5",
+  "shape": "auslandisch",
+  "year": 2009,
+  "unemployedPercent": "7.8",
+  "population": "10879.8"
+}, {
+  "districtNumber": "15",
+  "district": "Trudering - Riem",
+  "unemployed": "983.3",
+  "shape": "weiblich",
+  "year": 2009,
+  "unemployedPercent": "4.9",
+  "population": "20112.5"
+}, {
+  "districtNumber": "19",
+  "district": "Thalkirchen - Obersendling - Forstenried - Furstenried - Solln",
+  "unemployed": "1082.8",
+  "shape": "mannlich",
+  "year": 2009,
+  "unemployedPercent": "4.1",
+  "population": "26436.5"
+}, {
+  "districtNumber": "11",
+  "district": "Milbertshofen - Am Hart",
+  "unemployed": "1855",
+  "shape": "mannlich",
+  "year": 2009,
+  "unemployedPercent": "7.5",
+  "population": "24873.8"
+}, {
+  "districtNumber": "25",
+  "district": "Laim",
+  "unemployed": "834",
+  "shape": "auslandisch",
+  "year": 2009,
+  "unemployedPercent": "9.2",
+  "population": "9047.3"
+}, {
+  "districtNumber": "2",
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "unemployed": "670.3",
+  "shape": "auslandisch",
+  "year": 2009,
+  "unemployedPercent": "6.6",
+  "population": "10180.3"
+}, {
+  "districtNumber": "8",
+  "district": "Schwanthalerhohe",
+  "unemployed": "644.3",
+  "shape": "auslandisch",
+  "year": 2009,
+  "unemployedPercent": "8.4",
+  "population": "7638"
+}, {
+  "districtNumber": "23",
+  "district": "Allach - Untermenzing",
+  "unemployed": "427",
+  "shape": "deutsch",
+  "year": 2009,
+  "unemployedPercent": "2.8",
+  "population": "15024.3"
+}, {
+  "districtNumber": "1",
+  "district": "Altstadt - Lehel",
+  "unemployed": "238.8",
+  "shape": "deutsch",
+  "year": 2009,
+  "unemployedPercent": "2.2",
+  "population": "10690.8"
+}, {
+  "districtNumber": "5",
+  "district": "Au - Haidhausen",
+  "unemployed": "653.8",
+  "shape": "auslandisch",
+  "year": 2009,
+  "unemployedPercent": "6.7",
+  "population": "9711"
+}, {
+  "districtNumber": "6",
+  "district": "Sendling",
+  "unemployed": "790.8",
+  "shape": "auslandisch",
+  "year": 2009,
+  "unemployedPercent": "10.5",
+  "population": "7549.3"
+}, {
+  "districtNumber": "12",
+  "district": "Schwabing - Freimann",
+  "unemployed": "1048.3",
+  "shape": "weiblich",
+  "year": 2009,
+  "unemployedPercent": "4.6",
+  "population": "22969.3"
+}, {
+  "districtNumber": "22",
+  "district": "Aubing - Lochhausen - Langwied",
+  "unemployed": "710.8",
+  "shape": "weiblich",
+  "year": 2009,
+  "unemployedPercent": "5.8",
+  "population": "12156.5"
+}, {
+  "districtNumber": "8",
+  "district": "Schwanthalerhohe",
+  "unemployed": "679.3",
+  "shape": "weiblich",
+  "year": 2009,
+  "unemployedPercent": "6.7",
+  "population": "10084.8"
+}, {
+  "districtNumber": "5",
+  "district": "Au - Haidhausen",
+  "unemployed": "829",
+  "shape": "weiblich",
+  "year": 2009,
+  "unemployedPercent": "3.9",
+  "population": "21095.3"
+}, {
+  "districtNumber": "1",
+  "district": "Moosach",
+  "unemployed": "1130.8",
+  "shape": "auslandisch",
+  "year": 2009,
+  "unemployedPercent": "11.4",
+  "population": "9951"
+}, {
+  "districtNumber": "11",
+  "district": "Milbertshofen - Am Hart",
+  "unemployed": "2061.5",
+  "shape": "weiblich",
+  "year": 2009,
+  "unemployedPercent": "8.9",
+  "population": "23147.3"
+}, {
+  "districtNumber": "24",
+  "district": "Feldmoching - Hasenbergl",
+  "unemployed": "1495.8",
+  "shape": "weiblich",
+  "year": 2009,
+  "unemployedPercent": "8.6",
+  "population": "17348.3"
+}, {
+  "districtNumber": "7",
+  "district": "Sendling - Westpark",
+  "unemployed": "1182.5",
+  "shape": "mannlich",
+  "year": 2009,
+  "unemployedPercent": "6.7",
+  "population": "17650"
+}, {
+  "districtNumber": "1",
+  "district": "Moosach",
+  "unemployed": "1103.3",
+  "shape": "mannlich",
+  "year": 2009,
+  "unemployedPercent": "6.6",
+  "population": "16729.3"
+}, {
+  "districtNumber": "2",
+  "district": "Hadern",
+  "unemployed": "875",
+  "shape": "auslandisch",
+  "year": 2009,
+  "unemployedPercent": "11",
+  "population": "7971"
+}, {
+  "districtNumber": "1",
+  "district": "Altstadt - Lehel",
+  "unemployed": "105",
+  "shape": "auslandisch",
+  "year": 2009,
+  "unemployedPercent": "3.1",
+  "population": "3336.5"
+}, {
+  "districtNumber": "5",
+  "district": "Au - Haidhausen",
+  "unemployed": "1017.5",
+  "shape": "deutsch",
+  "year": 2009,
+  "unemployedPercent": "3.2",
+  "population": "31817.8"
+}, {
+  "districtNumber": "13",
+  "district": "Bogenhausen",
+  "unemployed": "796.8",
+  "shape": "mannlich",
+  "year": 2009,
+  "unemployedPercent": "3.2",
+  "population": "24603.8"
+}, {
+  "districtNumber": "24",
+  "district": "Feldmoching - Hasenbergl",
+  "unemployed": "1207",
+  "shape": "mannlich",
+  "year": 2009,
+  "unemployedPercent": "6.6",
+  "population": "18190"
+}, {
+  "districtNumber": "23",
+  "district": "Allach - Untermenzing",
+  "unemployed": "312.3",
+  "shape": "weiblich",
+  "year": 2009,
+  "unemployedPercent": "3.4",
+  "population": "9247.8"
+}, {
+  "districtNumber": "3",
+  "district": "Maxvorstadt",
+  "unemployed": "862.5",
+  "shape": "deutsch",
+  "year": 2009,
+  "unemployedPercent": "2.9",
+  "population": "29472.8"
+}, {
+  "districtNumber": "11",
+  "district": "Milbertshofen - Am Hart",
+  "unemployed": "1970.3",
+  "shape": "deutsch",
+  "year": 2009,
+  "unemployedPercent": "6.9",
+  "population": "28656.5"
+}, {
+  "districtNumber": "25",
+  "district": "Laim",
+  "unemployed": "993.3",
+  "shape": "mannlich",
+  "year": 2009,
+  "unemployedPercent": "5.7",
+  "population": "17465"
+}, {
+  "districtNumber": "17",
+  "district": "Obergiesing - Fasangarten",
+  "unemployed": "1082.8",
+  "shape": "mannlich",
+  "year": 2009,
+  "unemployedPercent": "6.2",
+  "population": "17583.8"
+}, {
+  "districtNumber": "9",
+  "district": "Neuhausen - Nymphenburg",
+  "unemployed": "1529.5",
+  "shape": "deutsch",
+  "year": 2009,
+  "unemployedPercent": "3.2",
+  "population": "47906"
+}, {
+  "districtNumber": "1",
+  "district": "Altstadt - Lehel",
+  "unemployed": "173.3",
+  "shape": "weiblich",
+  "year": 2009,
+  "unemployedPercent": "2.5",
+  "population": "6854.8"
+}, {
+  "districtNumber": "1",
+  "district": "Moosach",
+  "unemployed": "1268.8",
+  "shape": "weiblich",
+  "year": 2009,
+  "unemployedPercent": "7.7",
+  "population": "16399.8"
+}, {
+  "districtNumber": "7",
+  "district": "Sendling - Westpark",
+  "unemployed": "1335.8",
+  "shape": "deutsch",
+  "year": 2009,
+  "unemployedPercent": "5.1",
+  "population": "26408"
+}, {
+  "districtNumber": "19",
+  "district": "Thalkirchen - Obersendling - Forstenried - Furstenried - Solln",
+  "unemployed": "1204.8",
+  "shape": "weiblich",
+  "year": 2009,
+  "unemployedPercent": "4.4",
+  "population": "27419.5"
+}, {
+  "districtNumber": "25",
+  "district": "Laim",
+  "unemployed": "1038.8",
+  "shape": "weiblich",
+  "year": 2009,
+  "unemployedPercent": "5.8",
+  "population": "18060"
+}, {
+  "districtNumber": "1",
+  "district": "Moosach",
+  "unemployed": "1241.3",
+  "shape": "deutsch",
+  "year": 2009,
+  "unemployedPercent": "5.4",
+  "population": "23178"
+}, {
+  "districtNumber": "21",
+  "district": "Pasing - Obermenzing",
+  "unemployed": "1068.3",
+  "shape": "deutsch",
+  "year": 2009,
+  "unemployedPercent": "3.1",
+  "population": "34387.8"
+}, {
+  "districtNumber": "16",
+  "district": "Ramersdorf - Perlach",
+  "unemployed": "3107.5",
+  "shape": "auslandisch",
+  "year": 2009,
+  "unemployedPercent": "13.9",
+  "population": "22312.3"
+}, {
+  "districtNumber": "8",
+  "district": "Schwanthalerhohe",
+  "unemployed": "718.5",
+  "shape": "deutsch",
+  "year": 2009,
+  "unemployedPercent": "5.4",
+  "population": "13366.5"
+}, {
+  "districtNumber": "7",
+  "district": "Sendling - Westpark",
+  "unemployed": "1161.3",
+  "shape": "auslandisch",
+  "year": 2009,
+  "unemployedPercent": "12.2",
+  "population": "9505.5"
+}, {
+  "districtNumber": "17",
+  "district": "Obergiesing - Fasangarten",
+  "unemployed": "946",
+  "shape": "auslandisch",
+  "year": 2009,
+  "unemployedPercent": "8.7",
+  "population": "10935.8"
+}, {
+  "districtNumber": "22",
+  "district": "Aubing - Lochhausen - Langwied",
+  "unemployed": "784",
+  "shape": "deutsch",
+  "year": 2009,
+  "unemployedPercent": "4.2",
+  "population": "18596.3"
+}, {
+  "districtNumber": "4",
+  "district": "Schwabing - West",
+  "unemployed": "938.8",
+  "shape": "deutsch",
+  "year": 2009,
+  "unemployedPercent": "2.7",
+  "population": "35048.3"
+}, {
+  "districtNumber": "21",
+  "district": "Pasing - Obermenzing",
+  "unemployed": "794",
+  "shape": "auslandisch",
+  "year": 2009,
+  "unemployedPercent": "9.3",
+  "population": "8551"
+}, {
+  "districtNumber": "13",
+  "district": "Bogenhausen",
+  "unemployed": "973.5",
+  "shape": "deutsch",
+  "year": 2009,
+  "unemployedPercent": "2.4",
+  "population": "40472"
+}, {
+  "districtNumber": "24",
+  "district": "Feldmoching - Hasenbergl",
+  "unemployed": "1173.8",
+  "shape": "auslandisch",
+  "year": 2009,
+  "unemployedPercent": "10.4",
+  "population": "11286.8"
+}, {
+  "districtNumber": "18",
+  "district": "Untergiesing - Harlaching",
+  "unemployed": "773",
+  "shape": "weiblich",
+  "year": 2009,
+  "unemployedPercent": "4.5",
+  "population": "17095.8"
+}, {
+  "districtNumber": "16",
+  "district": "Ramersdorf - Perlach",
+  "unemployed": "3087",
+  "shape": "deutsch",
+  "year": 2009,
+  "unemployedPercent": "6.6",
+  "population": "46794.5"
+}, {
+  "districtNumber": "13",
+  "district": "Bogenhausen",
+  "unemployed": "1027.3",
+  "shape": "weiblich",
+  "year": 2009,
+  "unemployedPercent": "3.8",
+  "population": "26748"
+}, {
+  "districtNumber": "23",
+  "district": "Allach - Untermenzing",
+  "unemployed": "234.8",
+  "shape": "auslandisch",
+  "year": 2009,
+  "unemployedPercent": "6.6",
+  "population": "3569.5"
+}, {
+  "districtNumber": "12",
+  "district": "Schwabing - Freimann",
+  "unemployed": "1270.8",
+  "shape": "deutsch",
+  "year": 2009,
+  "unemployedPercent": "3.7",
+  "population": "34756.5"
+}, {
+  "districtNumber": "24",
+  "district": "Feldmoching - Hasenbergl",
+  "unemployed": "1529",
+  "shape": "deutsch",
+  "year": 2009,
+  "unemployedPercent": "6.3",
+  "population": "24251.5"
+}, {
+  "districtNumber": "22",
+  "district": "Aubing - Lochhausen - Langwied",
+  "unemployed": "588.3",
+  "shape": "auslandisch",
+  "year": 2009,
+  "unemployedPercent": "10.6",
+  "population": "5564.8"
+}, {
+  "districtNumber": "21",
+  "district": "Pasing - Obermenzing",
+  "unemployed": "957.3",
+  "shape": "weiblich",
+  "year": 2009,
+  "unemployedPercent": "4.4",
+  "population": "21771.3"
+}, {
+  "districtNumber": "12",
+  "district": "Schwabing - Freimann",
+  "unemployed": "734.3",
+  "shape": "auslandisch",
+  "year": 2009,
+  "unemployedPercent": "6.1",
+  "population": "11956.3"
+}, {
+  "districtNumber": "15",
+  "district": "Trudering - Riem",
+  "unemployed": "993.8",
+  "shape": "deutsch",
+  "year": 2009,
+  "unemployedPercent": "3.1",
+  "population": "31707.3"
+}, {
+  "districtNumber": "2",
+  "district": "Hadern",
+  "unemployed": "950.5",
+  "shape": "deutsch",
+  "year": 2009,
+  "unemployedPercent": "4.3",
+  "population": "22028"
+}, {
+  "districtNumber": "12",
+  "district": "Schwabing - Freimann",
+  "unemployed": "956.8",
+  "shape": "mannlich",
+  "year": 2009,
+  "unemployedPercent": "4",
+  "population": "23743.5"
+}, {
+  "districtNumber": "21",
+  "district": "Pasing - Obermenzing",
+  "unemployed": "905",
+  "shape": "mannlich",
+  "year": 2009,
+  "unemployedPercent": "4.3",
+  "population": "21167.5"
+}, {
+  "districtNumber": "7",
+  "district": "Sendling - Westpark",
+  "unemployed": "1314.5",
+  "shape": "weiblich",
+  "year": 2009,
+  "unemployedPercent": "7.2",
+  "population": "18263.5"
+}, {
+  "districtNumber": "2",
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "unemployed": "679.3",
+  "shape": "weiblich",
+  "year": 2009,
+  "unemployedPercent": "3.9",
+  "population": "17481.3"
+}, {
+  "districtNumber": "9",
+  "district": "Neuhausen - Nymphenburg",
+  "unemployed": "1347",
+  "shape": "weiblich",
+  "year": 2009,
+  "unemployedPercent": "4.2",
+  "population": "32432.5"
+}, {
+  "districtNumber": "6",
+  "district": "Sendling",
+  "unemployed": "931.8",
+  "shape": "deutsch",
+  "year": 2009,
+  "unemployedPercent": "4.5",
+  "population": "20659"
+}, {
+  "districtNumber": "4",
+  "district": "Schwabing - West",
+  "unemployed": "576.3",
+  "shape": "auslandisch",
+  "year": 2009,
+  "unemployedPercent": "5.6",
+  "population": "10310.5"
+}, {
+  "districtNumber": "3",
+  "district": "Maxvorstadt",
+  "unemployed": "615.5",
+  "shape": "weiblich",
+  "year": 2009,
+  "unemployedPercent": "3.2",
+  "population": "19168.5"
+}, {
+  "districtNumber": "17",
+  "district": "Obergiesing - Fasangarten",
+  "unemployed": "1041",
+  "shape": "weiblich",
+  "year": 2009,
+  "unemployedPercent": "6.1",
+  "population": "17081"
+}, {
+  "districtNumber": "14",
+  "district": "Berg am Laim",
+  "unemployed": "1029.8",
+  "shape": "weiblich",
+  "year": 2009,
+  "unemployedPercent": "7.5",
+  "population": "13800"
+}, {
+  "districtNumber": "1",
+  "district": "Altstadt - Lehel",
+  "unemployed": "170.5",
+  "shape": "mannlich",
+  "year": 2009,
+  "unemployedPercent": "2.4",
+  "population": "7172.5"
+}, {
+  "districtNumber": "23",
+  "district": "Allach - Untermenzing",
+  "unemployed": "349.5",
+  "shape": "mannlich",
+  "year": 2009,
+  "unemployedPercent": "3.7",
+  "population": "9346"
+}, {
+  "districtNumber": "6",
+  "district": "Sendling",
+  "unemployed": "847",
+  "shape": "mannlich",
+  "year": 2009,
+  "unemployedPercent": "6",
+  "population": "14167.5"
+}, {
+  "districtNumber": "4",
+  "district": "Schwabing - West",
+  "unemployed": "745.5",
+  "shape": "mannlich",
+  "year": 2009,
+  "unemployedPercent": "3.4",
+  "population": "21824.5"
+}, {
+  "districtNumber": "14",
+  "district": "Berg am Laim",
+  "unemployed": "942.5",
+  "shape": "mannlich",
+  "year": 2009,
+  "unemployedPercent": "6.8",
+  "population": "13845.3"
+}, {
+  "districtNumber": "15",
+  "district": "Trudering - Riem",
+  "unemployed": "802.8",
+  "shape": "mannlich",
+  "year": 2009,
+  "unemployedPercent": "4.1",
+  "population": "19793.3"
+}, {
+  "districtNumber": "2",
+  "district": "Hadern",
+  "unemployed": "1035",
+  "shape": "weiblich",
+  "year": 2009,
+  "unemployedPercent": "6.6",
+  "population": "15776"
+}, {
+  "districtNumber": "16",
+  "district": "Ramersdorf - Perlach",
+  "unemployed": "2960",
+  "shape": "mannlich",
+  "year": 2010,
+  "unemployedPercent": "8.7",
+  "population": "34093.3"
+}, {
+  "districtNumber": "1",
+  "district": "Altstadt - Lehel",
+  "unemployed": "177.5",
+  "shape": "weiblich",
+  "year": 2010,
+  "unemployedPercent": "2.6",
+  "population": "6886.3"
+}, {
+  "districtNumber": "7",
+  "district": "Sendling - Westpark",
+  "unemployed": "1291.8",
+  "shape": "auslandisch",
+  "year": 2010,
+  "unemployedPercent": "13.3",
+  "population": "9716"
+}, {
+  "districtNumber": "6",
+  "district": "Sendling",
+  "unemployed": "961",
+  "shape": "deutsch",
+  "year": 2010,
+  "unemployedPercent": "4.6",
+  "population": "20874.8"
+}, {
+  "districtNumber": "5",
+  "district": "Au - Haidhausen",
+  "unemployed": "829.3",
+  "shape": "mannlich",
+  "year": 2010,
+  "unemployedPercent": "4",
+  "population": "20532.5"
+}, {
+  "districtNumber": "4",
+  "district": "Schwabing - West",
+  "unemployed": "788.8",
+  "shape": "weiblich",
+  "year": 2010,
+  "unemployedPercent": "3.3",
+  "population": "23677.8"
+}, {
+  "districtNumber": "21",
+  "district": "Pasing - Obermenzing",
+  "unemployed": "1091.3",
+  "shape": "deutsch",
+  "year": 2010,
+  "unemployedPercent": "3.2",
+  "population": "34563.5"
+}, {
+  "districtNumber": "15",
+  "district": "Trudering - Riem",
+  "unemployed": "1045",
+  "shape": "weiblich",
+  "year": 2010,
+  "unemployedPercent": "5",
+  "population": "20727.8"
+}, {
+  "districtNumber": "3",
+  "district": "Maxvorstadt",
+  "unemployed": "666",
+  "shape": "mannlich",
+  "year": 2010,
+  "unemployedPercent": "3.4",
+  "population": "19770.8"
+}, {
+  "districtNumber": "11",
+  "district": "Milbertshofen - Am Hart",
+  "unemployed": "2120",
+  "shape": "auslandisch",
+  "year": 2010,
+  "unemployedPercent": "10.6",
+  "population": "19956.5"
+}, {
+  "districtNumber": "17",
+  "district": "Obergiesing - Fasangarten",
+  "unemployed": "1190.5",
+  "shape": "mannlich",
+  "year": 2010,
+  "unemployedPercent": "6.6",
+  "population": "17955.8"
+}, {
+  "districtNumber": "13",
+  "district": "Bogenhausen",
+  "unemployed": "814.5",
+  "shape": "mannlich",
+  "year": 2010,
+  "unemployedPercent": "3.3",
+  "population": "24603.3"
+}, {
+  "districtNumber": "2",
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "unemployed": "988.3",
+  "shape": "mannlich",
+  "year": 2010,
+  "unemployedPercent": "5.1",
+  "population": "19428.8"
+}, {
+  "districtNumber": "6",
+  "district": "Sendling",
+  "unemployed": "885.5",
+  "shape": "mannlich",
+  "year": 2010,
+  "unemployedPercent": "6.2",
+  "population": "14306.3"
+}, {
+  "districtNumber": "4",
+  "district": "Schwabing - West",
+  "unemployed": "755.8",
+  "shape": "mannlich",
+  "year": 2010,
+  "unemployedPercent": "3.4",
+  "population": "21915.8"
+}, {
+  "districtNumber": "1",
+  "district": "Altstadt - Lehel",
+  "unemployed": "171.3",
+  "shape": "mannlich",
+  "year": 2010,
+  "unemployedPercent": "2.4",
+  "population": "7145"
+}, {
+  "districtNumber": "25",
+  "district": "Laim",
+  "unemployed": "1045.3",
+  "shape": "weiblich",
+  "year": 2010,
+  "unemployedPercent": "5.7",
+  "population": "18184.8"
+}, {
+  "districtNumber": "3",
+  "district": "Maxvorstadt",
+  "unemployed": "837",
+  "shape": "deutsch",
+  "year": 2010,
+  "unemployedPercent": "2.8",
+  "population": "29603"
+}, {
+  "districtNumber": "11",
+  "district": "Milbertshofen - Am Hart",
+  "unemployed": "2028.8",
+  "shape": "deutsch",
+  "year": 2010,
+  "unemployedPercent": "7",
+  "population": "28900.5"
+}, {
+  "districtNumber": "18",
+  "district": "Untergiesing - Harlaching",
+  "unemployed": "1053",
+  "shape": "deutsch",
+  "year": 2010,
+  "unemployedPercent": "4",
+  "population": "26108.8"
+}, {
+  "districtNumber": "8",
+  "district": "Schwanthalerhohe",
+  "unemployed": "701.8",
+  "shape": "weiblich",
+  "year": 2010,
+  "unemployedPercent": "6.9",
+  "population": "10153.8"
+}, {
+  "districtNumber": "9",
+  "district": "Neuhausen - Nymphenburg",
+  "unemployed": "1540.3",
+  "shape": "deutsch",
+  "year": 2010,
+  "unemployedPercent": "3.2",
+  "population": "48595.8"
+}, {
+  "districtNumber": "23",
+  "district": "Allach - Untermenzing",
+  "unemployed": "450.5",
+  "shape": "deutsch",
+  "year": 2010,
+  "unemployedPercent": "3",
+  "population": "15203"
+}, {
+  "districtNumber": "1",
+  "district": "Moosach",
+  "unemployed": "1280.8",
+  "shape": "weiblich",
+  "year": 2010,
+  "unemployedPercent": "7.8",
+  "population": "16455.5"
+}, {
+  "districtNumber": "18",
+  "district": "Untergiesing - Harlaching",
+  "unemployed": "783.8",
+  "shape": "weiblich",
+  "year": 2010,
+  "unemployedPercent": "4.6",
+  "population": "17139.8"
+}, {
+  "districtNumber": "14",
+  "district": "Berg am Laim",
+  "unemployed": "1052",
+  "shape": "deutsch",
+  "year": 2010,
+  "unemployedPercent": "5.5",
+  "population": "19103"
+}, {
+  "districtNumber": "1",
+  "district": "Moosach",
+  "unemployed": "1165",
+  "shape": "mannlich",
+  "year": 2010,
+  "unemployedPercent": "7",
+  "population": "16726"
+}, {
+  "districtNumber": "7",
+  "district": "Sendling - Westpark",
+  "unemployed": "1402.3",
+  "shape": "weiblich",
+  "year": 2010,
+  "unemployedPercent": "7.6",
+  "population": "18381.3"
+}, {
+  "districtNumber": "16",
+  "district": "Ramersdorf - Perlach",
+  "unemployed": "3097.8",
+  "shape": "deutsch",
+  "year": 2010,
+  "unemployedPercent": "6.7",
+  "population": "46383.3"
+}, {
+  "districtNumber": "12",
+  "district": "Schwabing - Freimann",
+  "unemployed": "1073",
+  "shape": "weiblich",
+  "year": 2010,
+  "unemployedPercent": "4.6",
+  "population": "23210.3"
+}, {
+  "districtNumber": "24",
+  "district": "Feldmoching - Hasenbergl",
+  "unemployed": "1296.3",
+  "shape": "mannlich",
+  "year": 2010,
+  "unemployedPercent": "7",
+  "population": "18538.3"
+}, {
+  "districtNumber": "1",
+  "district": "Altstadt - Lehel",
+  "unemployed": "242.5",
+  "shape": "deutsch",
+  "year": 2010,
+  "unemployedPercent": "2.3",
+  "population": "10722.5"
+}, {
+  "districtNumber": "4",
+  "district": "Schwabing - West",
+  "unemployed": "918.3",
+  "shape": "deutsch",
+  "year": 2010,
+  "unemployedPercent": "2.6",
+  "population": "35211.8"
+}, {
+  "districtNumber": "15",
+  "district": "Trudering - Riem",
+  "unemployed": "866",
+  "shape": "mannlich",
+  "year": 2010,
+  "unemployedPercent": "4.2",
+  "population": "20524.3"
+}, {
+  "districtNumber": "2",
+  "district": "Hadern",
+  "unemployed": "1079.5",
+  "shape": "weiblich",
+  "year": 2010,
+  "unemployedPercent": "6.8",
+  "population": "15819"
+}, {
+  "districtNumber": "12",
+  "district": "Schwabing - Freimann",
+  "unemployed": "957",
+  "shape": "mannlich",
+  "year": 2010,
+  "unemployedPercent": "4",
+  "population": "23995"
+}, {
+  "districtNumber": "2",
+  "district": "Hadern",
+  "unemployed": "845",
+  "shape": "mannlich",
+  "year": 2010,
+  "unemployedPercent": "5.9",
+  "population": "14259.3"
+}, {
+  "districtNumber": "7",
+  "district": "Sendling - Westpark",
+  "unemployed": "1237.3",
+  "shape": "mannlich",
+  "year": 2010,
+  "unemployedPercent": "7",
+  "population": "17668"
+}, {
+  "districtNumber": "16",
+  "district": "Ramersdorf - Perlach",
+  "unemployed": "3511",
+  "shape": "weiblich",
+  "year": 2010,
+  "unemployedPercent": "10",
+  "population": "35134"
+}, {
+  "districtNumber": "15",
+  "district": "Trudering - Riem",
+  "unemployed": "1027.3",
+  "shape": "deutsch",
+  "year": 2010,
+  "unemployedPercent": "3.2",
+  "population": "32426.5"
+}, {
+  "districtNumber": "24",
+  "district": "Feldmoching - Hasenbergl",
+  "unemployed": "1568.3",
+  "shape": "weiblich",
+  "year": 2010,
+  "unemployedPercent": "8.9",
+  "population": "17572.3"
+}, {
+  "districtNumber": "2",
+  "district": "Hadern",
+  "unemployed": "984.5",
+  "shape": "deutsch",
+  "year": 2010,
+  "unemployedPercent": "4.5",
+  "population": "21957.5"
+}, {
+  "districtNumber": "12",
+  "district": "Schwabing - Freimann",
+  "unemployed": "1257.8",
+  "shape": "deutsch",
+  "year": 2010,
+  "unemployedPercent": "3.6",
+  "population": "34919.8"
+}, {
+  "districtNumber": "25",
+  "district": "Laim",
+  "unemployed": "1197.3",
+  "shape": "deutsch",
+  "year": 2010,
+  "unemployedPercent": "4.5",
+  "population": "26614.8"
+}, {
+  "districtNumber": "9",
+  "district": "Neuhausen - Nymphenburg",
+  "unemployed": "1378",
+  "shape": "weiblich",
+  "year": 2010,
+  "unemployedPercent": "4.2",
+  "population": "32966.3"
+}, {
+  "districtNumber": "19",
+  "district": "Thalkirchen - Obersendling - Forstenried - Furstenried - Solln",
+  "unemployed": "1306.5",
+  "shape": "weiblich",
+  "year": 2010,
+  "unemployedPercent": "4.7",
+  "population": "27585.5"
+}, {
+  "districtNumber": "12",
+  "district": "Schwabing - Freimann",
+  "unemployed": "772.3",
+  "shape": "auslandisch",
+  "year": 2010,
+  "unemployedPercent": "6.3",
+  "population": "12285.5"
+}, {
+  "districtNumber": "13",
+  "district": "Bogenhausen",
+  "unemployed": "1013.5",
+  "shape": "deutsch",
+  "year": 2010,
+  "unemployedPercent": "2.5",
+  "population": "40306.8"
+}, {
+  "districtNumber": "22",
+  "district": "Aubing - Lochhausen - Langwied",
+  "unemployed": "783.5",
+  "shape": "deutsch",
+  "year": 2010,
+  "unemployedPercent": "4.2",
+  "population": "18592.3"
+}, {
+  "districtNumber": "2",
+  "district": "Hadern",
+  "unemployed": "940",
+  "shape": "auslandisch",
+  "year": 2010,
+  "unemployedPercent": "11.6",
+  "population": "8120.8"
+}, {
+  "districtNumber": "11",
+  "district": "Milbertshofen - Am Hart",
+  "unemployed": "1952",
+  "shape": "mannlich",
+  "year": 2010,
+  "unemployedPercent": "7.7",
+  "population": "25306.3"
+}, {
+  "districtNumber": "8",
+  "district": "Schwanthalerhohe",
+  "unemployed": "661",
+  "shape": "auslandisch",
+  "year": 2010,
+  "unemployedPercent": "8.7",
+  "population": "7570"
+}, {
+  "districtNumber": "17",
+  "district": "Obergiesing - Fasangarten",
+  "unemployed": "1215.5",
+  "shape": "deutsch",
+  "year": 2010,
+  "unemployedPercent": "5.1",
+  "population": "23991.8"
+}, {
+  "districtNumber": "7",
+  "district": "Sendling - Westpark",
+  "unemployed": "1347.8",
+  "shape": "deutsch",
+  "year": 2010,
+  "unemployedPercent": "5.1",
+  "population": "26333.3"
+}, {
+  "districtNumber": "18",
+  "district": "Untergiesing - Harlaching",
+  "unemployed": "1032.8",
+  "shape": "mannlich",
+  "year": 2010,
+  "unemployedPercent": "6.2",
+  "population": "16673.8"
+}, {
+  "districtNumber": "15",
+  "district": "Trudering - Riem",
+  "unemployed": "883.8",
+  "shape": "auslandisch",
+  "year": 2010,
+  "unemployedPercent": "10",
+  "population": "8825.5"
+}, {
+  "districtNumber": "21",
+  "district": "Pasing - Obermenzing",
+  "unemployed": "1009.3",
+  "shape": "weiblich",
+  "year": 2010,
+  "unemployedPercent": "4.6",
+  "population": "21954.8"
+}, {
+  "districtNumber": "21",
+  "district": "Pasing - Obermenzing",
+  "unemployed": "973.3",
+  "shape": "mannlich",
+  "year": 2010,
+  "unemployedPercent": "4.5",
+  "population": "21428"
+}, {
+  "districtNumber": "25",
+  "district": "Laim",
+  "unemployed": "896.5",
+  "shape": "auslandisch",
+  "year": 2010,
+  "unemployedPercent": "9.7",
+  "population": "9240.8"
+}, {
+  "districtNumber": "21",
+  "district": "Pasing - Obermenzing",
+  "unemployed": "891.3",
+  "shape": "auslandisch",
+  "year": 2010,
+  "unemployedPercent": "10.1",
+  "population": "8819.3"
+}, {
+  "districtNumber": "2",
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "unemployed": "692.3",
+  "shape": "weiblich",
+  "year": 2010,
+  "unemployedPercent": "3.9",
+  "population": "17664"
+}, {
+  "districtNumber": "17",
+  "district": "Obergiesing - Fasangarten",
+  "unemployed": "1085.5",
+  "shape": "weiblich",
+  "year": 2010,
+  "unemployedPercent": "6.3",
+  "population": "17188.5"
+}, {
+  "districtNumber": "24",
+  "district": "Feldmoching - Hasenbergl",
+  "unemployed": "1300.3",
+  "shape": "auslandisch",
+  "year": 2010,
+  "unemployedPercent": "11",
+  "population": "11826.5"
+}, {
+  "districtNumber": "9",
+  "district": "Neuhausen - Nymphenburg",
+  "unemployed": "1306.5",
+  "shape": "mannlich",
+  "year": 2010,
+  "unemployedPercent": "4.2",
+  "population": "30990.8"
+}, {
+  "districtNumber": "16",
+  "district": "Ramersdorf - Perlach",
+  "unemployed": "3373.3",
+  "shape": "auslandisch",
+  "year": 2010,
+  "unemployedPercent": "14.8",
+  "population": "22844"
+}, {
+  "districtNumber": "2",
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "unemployed": "995.8",
+  "shape": "deutsch",
+  "year": 2010,
+  "unemployedPercent": "3.7",
+  "population": "26948.5"
+}, {
+  "districtNumber": "14",
+  "district": "Berg am Laim",
+  "unemployed": "1126.5",
+  "shape": "weiblich",
+  "year": 2010,
+  "unemployedPercent": "8",
+  "population": "14010.5"
+}, {
+  "districtNumber": "19",
+  "district": "Thalkirchen - Obersendling - Forstenried - Furstenried - Solln",
+  "unemployed": "1203",
+  "shape": "mannlich",
+  "year": 2010,
+  "unemployedPercent": "4.5",
+  "population": "26467.3"
+}, {
+  "districtNumber": "25",
+  "district": "Laim",
+  "unemployed": "1048.5",
+  "shape": "mannlich",
+  "year": 2010,
+  "unemployedPercent": "5.9",
+  "population": "17670.8"
+}, {
+  "districtNumber": "22",
+  "district": "Aubing - Lochhausen - Langwied",
+  "unemployed": "764.8",
+  "shape": "weiblich",
+  "year": 2010,
+  "unemployedPercent": "6.2",
+  "population": "12252"
+}, {
+  "districtNumber": "23",
+  "district": "Allach - Untermenzing",
+  "unemployed": "369.3",
+  "shape": "weiblich",
+  "year": 2010,
+  "unemployedPercent": "3.9",
+  "population": "9389.8"
+}, {
+  "districtNumber": "2",
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "unemployed": "684.8",
+  "shape": "auslandisch",
+  "year": 2010,
+  "unemployedPercent": "6.8",
+  "population": "10144.3"
+}, {
+  "districtNumber": "9",
+  "district": "Neuhausen - Nymphenburg",
+  "unemployed": "1144.3",
+  "shape": "auslandisch",
+  "year": 2010,
+  "unemployedPercent": "7.4",
+  "population": "15361.3"
+}, {
+  "districtNumber": "1",
+  "district": "Moosach",
+  "unemployed": "1235",
+  "shape": "deutsch",
+  "year": 2010,
+  "unemployedPercent": "5.4",
+  "population": "22969.5"
+}, {
+  "districtNumber": "13",
+  "district": "Bogenhausen",
+  "unemployed": "850",
+  "shape": "auslandisch",
+  "year": 2010,
+  "unemployedPercent": "7.7",
+  "population": "11050.3"
+}, {
+  "districtNumber": "13",
+  "district": "Bogenhausen",
+  "unemployed": "1049",
+  "shape": "weiblich",
+  "year": 2010,
+  "unemployedPercent": "3.9",
+  "population": "26753.8"
+}, {
+  "districtNumber": "3",
+  "district": "Maxvorstadt",
+  "unemployed": "587.5",
+  "shape": "weiblich",
+  "year": 2010,
+  "unemployedPercent": "3",
+  "population": "19269"
+}, {
+  "districtNumber": "23",
+  "district": "Allach - Untermenzing",
+  "unemployed": "287",
+  "shape": "auslandisch",
+  "year": 2010,
+  "unemployedPercent": "7.8",
+  "population": "3685.3"
+}, {
+  "districtNumber": "22",
+  "district": "Aubing - Lochhausen - Langwied",
+  "unemployed": "669.5",
+  "shape": "auslandisch",
+  "year": 2010,
+  "unemployedPercent": "11.5",
+  "population": "5832.3"
+}, {
+  "districtNumber": "19",
+  "district": "Thalkirchen - Obersendling - Forstenried - Furstenried - Solln",
+  "unemployed": "1368.3",
+  "shape": "deutsch",
+  "year": 2010,
+  "unemployedPercent": "3.3",
+  "population": "40973.3"
+}, {
+  "districtNumber": "22",
+  "district": "Aubing - Lochhausen - Langwied",
+  "unemployed": "688.3",
+  "shape": "mannlich",
+  "year": 2010,
+  "unemployedPercent": "5.7",
+  "population": "12172.5"
+}, {
+  "districtNumber": "8",
+  "district": "Schwanthalerhohe",
+  "unemployed": "726",
+  "shape": "deutsch",
+  "year": 2010,
+  "unemployedPercent": "5.3",
+  "population": "13575.3"
+}, {
+  "districtNumber": "5",
+  "district": "Au - Haidhausen",
+  "unemployed": "796.5",
+  "shape": "weiblich",
+  "year": 2010,
+  "unemployedPercent": "3.7",
+  "population": "21344"
+}, {
+  "districtNumber": "1",
+  "district": "Altstadt - Lehel",
+  "unemployed": "106.3",
+  "shape": "auslandisch",
+  "year": 2010,
+  "unemployedPercent": "3.2",
+  "population": "3308.8"
+}, {
+  "districtNumber": "18",
+  "district": "Untergiesing - Harlaching",
+  "unemployed": "763.5",
+  "shape": "auslandisch",
+  "year": 2010,
+  "unemployedPercent": "9.9",
+  "population": "7704.8"
+}, {
+  "districtNumber": "24",
+  "district": "Feldmoching - Hasenbergl",
+  "unemployed": "1564.3",
+  "shape": "deutsch",
+  "year": 2010,
+  "unemployedPercent": "6.4",
+  "population": "24284"
+}, {
+  "districtNumber": "8",
+  "district": "Schwanthalerhohe",
+  "unemployed": "685.3",
+  "shape": "mannlich",
+  "year": 2010,
+  "unemployedPercent": "6.2",
+  "population": "10991.5"
+}, {
+  "districtNumber": "14",
+  "district": "Berg am Laim",
+  "unemployed": "1089.5",
+  "shape": "auslandisch",
+  "year": 2010,
+  "unemployedPercent": "12.3",
+  "population": "8837.3"
+}, {
+  "districtNumber": "6",
+  "district": "Sendling",
+  "unemployed": "889.3",
+  "shape": "weiblich",
+  "year": 2010,
+  "unemployedPercent": "6.3",
+  "population": "14131"
+}, {
+  "districtNumber": "5",
+  "district": "Au - Haidhausen",
+  "unemployed": "971.8",
+  "shape": "deutsch",
+  "year": 2010,
+  "unemployedPercent": "3",
+  "population": "32042.8"
+}, {
+  "districtNumber": "1",
+  "district": "Moosach",
+  "unemployed": "1210.8",
+  "shape": "auslandisch",
+  "year": 2010,
+  "unemployedPercent": "11.9",
+  "population": "10212"
+}, {
+  "districtNumber": "23",
+  "district": "Allach - Untermenzing",
+  "unemployed": "368.3",
+  "shape": "mannlich",
+  "year": 2010,
+  "unemployedPercent": "3.9",
+  "population": "9498.5"
+}, {
+  "districtNumber": "6",
+  "district": "Sendling",
+  "unemployed": "813.8",
+  "shape": "auslandisch",
+  "year": 2010,
+  "unemployedPercent": "10.8",
+  "population": "7562.5"
+}, {
+  "districtNumber": "4",
+  "district": "Schwabing - West",
+  "unemployed": "626.3",
+  "shape": "auslandisch",
+  "year": 2010,
+  "unemployedPercent": "6",
+  "population": "10381.8"
+}, {
+  "districtNumber": "3",
+  "district": "Maxvorstadt",
+  "unemployed": "416.5",
+  "shape": "auslandisch",
+  "year": 2010,
+  "unemployedPercent": "4.4",
+  "population": "9436.8"
+}, {
+  "districtNumber": "11",
+  "district": "Milbertshofen - Am Hart",
+  "unemployed": "2196.8",
+  "shape": "weiblich",
+  "year": 2010,
+  "unemployedPercent": "9.3",
+  "population": "23550.8"
+}, {
+  "districtNumber": "14",
+  "district": "Berg am Laim",
+  "unemployed": "1015",
+  "shape": "mannlich",
+  "year": 2010,
+  "unemployedPercent": "7.3",
+  "population": "13929.8"
+}, {
+  "districtNumber": "19",
+  "district": "Thalkirchen - Obersendling - Forstenried - Furstenried - Solln",
+  "unemployed": "1141.3",
+  "shape": "auslandisch",
+  "year": 2010,
+  "unemployedPercent": "8.7",
+  "population": "13079.5"
+}, {
+  "districtNumber": "17",
+  "district": "Obergiesing - Fasangarten",
+  "unemployed": "1060.5",
+  "shape": "auslandisch",
+  "year": 2010,
+  "unemployedPercent": "9.5",
+  "population": "11152.5"
+}, {
+  "districtNumber": "5",
+  "district": "Au - Haidhausen",
+  "unemployed": "654",
+  "shape": "auslandisch",
+  "year": 2010,
+  "unemployedPercent": "6.7",
+  "population": "9833.8"
+}, {
+  "districtNumber": "22",
+  "district": "Aubing - Lochhausen - Langwied",
+  "unemployed": "750.8",
+  "shape": "deutsch",
+  "year": 2011,
+  "unemployedPercent": "4",
+  "population": "18742.8"
+}, {
+  "districtNumber": "5",
+  "district": "Au - Haidhausen",
+  "unemployed": "900",
+  "shape": "deutsch",
+  "year": 2011,
+  "unemployedPercent": "2.8",
+  "population": "32367"
+}, {
+  "districtNumber": "21",
+  "district": "Pasing - Obermenzing",
+  "unemployed": "1035.3",
+  "shape": "deutsch",
+  "year": 2011,
+  "unemployedPercent": "3",
+  "population": "35052.8"
+}, {
+  "districtNumber": "5",
+  "district": "Au - Haidhausen",
+  "unemployed": "645.3",
+  "shape": "auslandisch",
+  "year": 2011,
+  "unemployedPercent": "6.3",
+  "population": "10181"
+}, {
+  "districtNumber": "23",
+  "district": "Allach - Untermenzing",
+  "unemployed": "365",
+  "shape": "weiblich",
+  "year": 2011,
+  "unemployedPercent": "3.8",
+  "population": "9544.8"
+}, {
+  "districtNumber": "21",
+  "district": "Pasing - Obermenzing",
+  "unemployed": "938.3",
+  "shape": "mannlich",
+  "year": 2011,
+  "unemployedPercent": "4.2",
+  "population": "22087.5"
+}, {
+  "districtNumber": "8",
+  "district": "Schwanthalerhohe",
+  "unemployed": "653.5",
+  "shape": "deutsch",
+  "year": 2011,
+  "unemployedPercent": "4.7",
+  "population": "13807.3"
+}, {
+  "districtNumber": "12",
+  "district": "Schwabing - Freimann",
+  "unemployed": "739.3",
+  "shape": "auslandisch",
+  "year": 2011,
+  "unemployedPercent": "5.7",
+  "population": "13066.8"
+}, {
+  "districtNumber": "11",
+  "district": "Milbertshofen - Am Hart",
+  "unemployed": "1906.5",
+  "shape": "mannlich",
+  "year": 2011,
+  "unemployedPercent": "7.4",
+  "population": "25880"
+}, {
+  "districtNumber": "8",
+  "district": "Schwanthalerhohe",
+  "unemployed": "661",
+  "shape": "auslandisch",
+  "year": 2011,
+  "unemployedPercent": "8.6",
+  "population": "7675.8"
+}, {
+  "districtNumber": "7",
+  "district": "Sendling - Westpark",
+  "unemployed": "1249.8",
+  "shape": "deutsch",
+  "year": 2011,
+  "unemployedPercent": "4.8",
+  "population": "26244.5"
+}, {
+  "districtNumber": "21",
+  "district": "Pasing - Obermenzing",
+  "unemployed": "915.8",
+  "shape": "auslandisch",
+  "year": 2011,
+  "unemployedPercent": "9.6",
+  "population": "9489.8"
+}, {
+  "districtNumber": "12",
+  "district": "Schwabing - Freimann",
+  "unemployed": "1175",
+  "shape": "deutsch",
+  "year": 2011,
+  "unemployedPercent": "3.3",
+  "population": "35355.8"
+}, {
+  "districtNumber": "23",
+  "district": "Allach - Untermenzing",
+  "unemployed": "360",
+  "shape": "mannlich",
+  "year": 2011,
+  "unemployedPercent": "3.7",
+  "population": "9728.5"
+}, {
+  "districtNumber": "3",
+  "district": "Maxvorstadt",
+  "unemployed": "613",
+  "shape": "mannlich",
+  "year": 2011,
+  "unemployedPercent": "3.1",
+  "population": "20026.8"
+}, {
+  "districtNumber": "22",
+  "district": "Aubing - Lochhausen - Langwied",
+  "unemployed": "710.8",
+  "shape": "auslandisch",
+  "year": 2011,
+  "unemployedPercent": "11.3",
+  "population": "6281"
+}, {
+  "districtNumber": "9",
+  "district": "Neuhausen - Nymphenburg",
+  "unemployed": "1251",
+  "shape": "mannlich",
+  "year": 2011,
+  "unemployedPercent": "3.9",
+  "population": "31886.5"
+}, {
+  "districtNumber": "11",
+  "district": "Milbertshofen - Am Hart",
+  "unemployed": "2198.8",
+  "shape": "weiblich",
+  "year": 2011,
+  "unemployedPercent": "9.2",
+  "population": "23814.5"
+}, {
+  "districtNumber": "23",
+  "district": "Allach - Untermenzing",
+  "unemployed": "437.5",
+  "shape": "deutsch",
+  "year": 2011,
+  "unemployedPercent": "2.8",
+  "population": "15375.3"
+}, {
+  "districtNumber": "11",
+  "district": "Milbertshofen - Am Hart",
+  "unemployed": "1961.8",
+  "shape": "deutsch",
+  "year": 2011,
+  "unemployedPercent": "6.8",
+  "population": "28958.8"
+}, {
+  "districtNumber": "13",
+  "district": "Bogenhausen",
+  "unemployed": "829.5",
+  "shape": "auslandisch",
+  "year": 2011,
+  "unemployedPercent": "7.1",
+  "population": "11655.5"
+}, {
+  "districtNumber": "21",
+  "district": "Pasing - Obermenzing",
+  "unemployed": "1012.8",
+  "shape": "weiblich",
+  "year": 2011,
+  "unemployedPercent": "4.5",
+  "population": "22455"
+}, {
+  "districtNumber": "23",
+  "district": "Allach - Untermenzing",
+  "unemployed": "287.5",
+  "shape": "auslandisch",
+  "year": 2011,
+  "unemployedPercent": "7.4",
+  "population": "3898"
+}, {
+  "districtNumber": "2",
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "unemployed": "905.3",
+  "shape": "mannlich",
+  "year": 2011,
+  "unemployedPercent": "4.6",
+  "population": "19865"
+}, {
+  "districtNumber": "11",
+  "district": "Milbertshofen - Am Hart",
+  "unemployed": "2143.5",
+  "shape": "auslandisch",
+  "year": 2011,
+  "unemployedPercent": "10.3",
+  "population": "20735.8"
+}, {
+  "districtNumber": "17",
+  "district": "Obergiesing - Fasangarten",
+  "unemployed": "1140.8",
+  "shape": "mannlich",
+  "year": 2011,
+  "unemployedPercent": "6",
+  "population": "18926"
+}, {
+  "districtNumber": "14",
+  "district": "Berg am Laim",
+  "unemployed": "971.3",
+  "shape": "mannlich",
+  "year": 2011,
+  "unemployedPercent": "6.8",
+  "population": "14368.5"
+}, {
+  "districtNumber": "12",
+  "district": "Schwabing - Freimann",
+  "unemployed": "1019.8",
+  "shape": "weiblich",
+  "year": 2011,
+  "unemployedPercent": "4.3",
+  "population": "23671"
+}, {
+  "districtNumber": "1",
+  "district": "Altstadt - Lehel",
+  "unemployed": "96.8",
+  "shape": "auslandisch",
+  "year": 2011,
+  "unemployedPercent": "2.7",
+  "population": "3552"
+}, {
+  "districtNumber": "17",
+  "district": "Obergiesing - Fasangarten",
+  "unemployed": "1171.8",
+  "shape": "deutsch",
+  "year": 2011,
+  "unemployedPercent": "4.7",
+  "population": "24727.5"
+}, {
+  "districtNumber": "25",
+  "district": "Laim",
+  "unemployed": "1131.5",
+  "shape": "deutsch",
+  "year": 2011,
+  "unemployedPercent": "4.2",
+  "population": "26961.8"
+}, {
+  "districtNumber": "2",
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "unemployed": "907.3",
+  "shape": "deutsch",
+  "year": 2011,
+  "unemployedPercent": "3.3",
+  "population": "27381.8"
+}, {
+  "districtNumber": "6",
+  "district": "Sendling",
+  "unemployed": "888.5",
+  "shape": "deutsch",
+  "year": 2011,
+  "unemployedPercent": "4.2",
+  "population": "21099"
+}, {
+  "districtNumber": "13",
+  "district": "Bogenhausen",
+  "unemployed": "797",
+  "shape": "mannlich",
+  "year": 2011,
+  "unemployedPercent": "3.2",
+  "population": "25243"
+}, {
+  "districtNumber": "5",
+  "district": "Au - Haidhausen",
+  "unemployed": "784.5",
+  "shape": "mannlich",
+  "year": 2011,
+  "unemployedPercent": "3.8",
+  "population": "20830"
+}, {
+  "districtNumber": "16",
+  "district": "Ramersdorf - Perlach",
+  "unemployed": "3328.3",
+  "shape": "auslandisch",
+  "year": 2011,
+  "unemployedPercent": "14",
+  "population": "23814"
+}, {
+  "districtNumber": "24",
+  "district": "Feldmoching - Hasenbergl",
+  "unemployed": "1276.5",
+  "shape": "auslandisch",
+  "year": 2011,
+  "unemployedPercent": "10.2",
+  "population": "12565"
+}, {
+  "districtNumber": "6",
+  "district": "Sendling",
+  "unemployed": "862.3",
+  "shape": "mannlich",
+  "year": 2011,
+  "unemployedPercent": "5.9",
+  "population": "14634.3"
+}, {
+  "districtNumber": "25",
+  "district": "Laim",
+  "unemployed": "1018",
+  "shape": "mannlich",
+  "year": 2011,
+  "unemployedPercent": "5.6",
+  "population": "18111.5"
+}, {
+  "districtNumber": "9",
+  "district": "Neuhausen - Nymphenburg",
+  "unemployed": "1133.5",
+  "shape": "auslandisch",
+  "year": 2011,
+  "unemployedPercent": "7",
+  "population": "16165"
+}, {
+  "districtNumber": "2",
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "unemployed": "637.5",
+  "shape": "auslandisch",
+  "year": 2011,
+  "unemployedPercent": "6",
+  "population": "10550"
+}, {
+  "districtNumber": "8",
+  "district": "Schwanthalerhohe",
+  "unemployed": "626.3",
+  "shape": "mannlich",
+  "year": 2011,
+  "unemployedPercent": "5.6",
+  "population": "11150.3"
+}, {
+  "districtNumber": "16",
+  "district": "Ramersdorf - Perlach",
+  "unemployed": "2953.5",
+  "shape": "deutsch",
+  "year": 2011,
+  "unemployedPercent": "6.4",
+  "population": "46261.3"
+}, {
+  "districtNumber": "19",
+  "district": "Thalkirchen - Obersendling - Forstenried - Furstenried - Solln",
+  "unemployed": "1165",
+  "shape": "auslandisch",
+  "year": 2011,
+  "unemployedPercent": "8.3",
+  "population": "13986.3"
+}, {
+  "districtNumber": "18",
+  "district": "Untergiesing - Harlaching",
+  "unemployed": "965.3",
+  "shape": "deutsch",
+  "year": 2011,
+  "unemployedPercent": "3.7",
+  "population": "26315"
+}, {
+  "districtNumber": "19",
+  "district": "Thalkirchen - Obersendling - Forstenried - Furstenried - Solln",
+  "unemployed": "1182",
+  "shape": "mannlich",
+  "year": 2011,
+  "unemployedPercent": "4.4",
+  "population": "27124.8"
+}, {
+  "districtNumber": "24",
+  "district": "Feldmoching - Hasenbergl",
+  "unemployed": "1463.3",
+  "shape": "deutsch",
+  "year": 2011,
+  "unemployedPercent": "5.9",
+  "population": "24624.3"
+}, {
+  "districtNumber": "24",
+  "district": "Feldmoching - Hasenbergl",
+  "unemployed": "1499.8",
+  "shape": "weiblich",
+  "year": 2011,
+  "unemployedPercent": "8.4",
+  "population": "17877.8"
+}, {
+  "districtNumber": "17",
+  "district": "Obergiesing - Fasangarten",
+  "unemployed": "1083.3",
+  "shape": "weiblich",
+  "year": 2011,
+  "unemployedPercent": "6.1",
+  "population": "17648.5"
+}, {
+  "districtNumber": "2",
+  "district": "Hadern",
+  "unemployed": "923.5",
+  "shape": "auslandisch",
+  "year": 2011,
+  "unemployedPercent": "11",
+  "population": "8400.5"
+}, {
+  "districtNumber": "1",
+  "district": "Altstadt - Lehel",
+  "unemployed": "160.3",
+  "shape": "mannlich",
+  "year": 2011,
+  "unemployedPercent": "2.2",
+  "population": "7352.8"
+}, {
+  "districtNumber": "17",
+  "district": "Obergiesing - Fasangarten",
+  "unemployed": "1052.3",
+  "shape": "auslandisch",
+  "year": 2011,
+  "unemployedPercent": "8.9",
+  "population": "11847"
+}, {
+  "districtNumber": "1",
+  "district": "Moosach",
+  "unemployed": "1135.3",
+  "shape": "mannlich",
+  "year": 2011,
+  "unemployedPercent": "6.6",
+  "population": "17157.3"
+}, {
+  "districtNumber": "25",
+  "district": "Laim",
+  "unemployed": "1038.8",
+  "shape": "weiblich",
+  "year": 2011,
+  "unemployedPercent": "5.6",
+  "population": "18527"
+}, {
+  "districtNumber": "24",
+  "district": "Feldmoching - Hasenbergl",
+  "unemployed": "1240",
+  "shape": "mannlich",
+  "year": 2011,
+  "unemployedPercent": "6.4",
+  "population": "19311.5"
+}, {
+  "districtNumber": "4",
+  "district": "Schwabing - West",
+  "unemployed": "678.8",
+  "shape": "mannlich",
+  "year": 2011,
+  "unemployedPercent": "3",
+  "population": "22306.5"
+}, {
+  "districtNumber": "13",
+  "district": "Bogenhausen",
+  "unemployed": "1015.3",
+  "shape": "weiblich",
+  "year": 2011,
+  "unemployedPercent": "3.7",
+  "population": "27153.3"
+}, {
+  "districtNumber": "6",
+  "district": "Sendling",
+  "unemployed": "820",
+  "shape": "auslandisch",
+  "year": 2011,
+  "unemployedPercent": "10.4",
+  "population": "7857.5"
+}, {
+  "districtNumber": "19",
+  "district": "Thalkirchen - Obersendling - Forstenried - Furstenried - Solln",
+  "unemployed": "1333.8",
+  "shape": "weiblich",
+  "year": 2011,
+  "unemployedPercent": "4.8",
+  "population": "28007.3"
+}, {
+  "districtNumber": "15",
+  "district": "Trudering - Riem",
+  "unemployed": "953.5",
+  "shape": "mannlich",
+  "year": 2011,
+  "unemployedPercent": "4.4",
+  "population": "21491"
+}, {
+  "districtNumber": "3",
+  "district": "Maxvorstadt",
+  "unemployed": "569.8",
+  "shape": "weiblich",
+  "year": 2011,
+  "unemployedPercent": "2.9",
+  "population": "19547.8"
+}, {
+  "districtNumber": "9",
+  "district": "Neuhausen - Nymphenburg",
+  "unemployed": "1361.3",
+  "shape": "weiblich",
+  "year": 2011,
+  "unemployedPercent": "4",
+  "population": "33685.8"
+}, {
+  "districtNumber": "3",
+  "district": "Maxvorstadt",
+  "unemployed": "398.5",
+  "shape": "auslandisch",
+  "year": 2011,
+  "unemployedPercent": "4.1",
+  "population": "9739"
+}, {
+  "districtNumber": "16",
+  "district": "Ramersdorf - Perlach",
+  "unemployed": "3435",
+  "shape": "weiblich",
+  "year": 2011,
+  "unemployedPercent": "9.7",
+  "population": "35434.3"
+}, {
+  "districtNumber": "7",
+  "district": "Sendling - Westpark",
+  "unemployed": "1216",
+  "shape": "mannlich",
+  "year": 2011,
+  "unemployedPercent": "6.8",
+  "population": "17988.5"
+}, {
+  "districtNumber": "2",
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "unemployed": "639.5",
+  "shape": "weiblich",
+  "year": 2011,
+  "unemployedPercent": "3.5",
+  "population": "18066.8"
+}, {
+  "districtNumber": "14",
+  "district": "Berg am Laim",
+  "unemployed": "1019.5",
+  "shape": "deutsch",
+  "year": 2011,
+  "unemployedPercent": "5.2",
+  "population": "19454.8"
+}, {
+  "districtNumber": "25",
+  "district": "Laim",
+  "unemployed": "925.3",
+  "shape": "auslandisch",
+  "year": 2011,
+  "unemployedPercent": "9.6",
+  "population": "9676.8"
+}, {
+  "districtNumber": "22",
+  "district": "Aubing - Lochhausen - Langwied",
+  "unemployed": "777.8",
+  "shape": "weiblich",
+  "year": 2011,
+  "unemployedPercent": "6.2",
+  "population": "12522.5"
+}, {
+  "districtNumber": "15",
+  "district": "Trudering - Riem",
+  "unemployed": "1202.3",
+  "shape": "weiblich",
+  "year": 2011,
+  "unemployedPercent": "5.6",
+  "population": "21402.3"
+}, {
+  "districtNumber": "4",
+  "district": "Schwabing - West",
+  "unemployed": "534.8",
+  "shape": "auslandisch",
+  "year": 2011,
+  "unemployedPercent": "5",
+  "population": "10776.8"
+}, {
+  "districtNumber": "12",
+  "district": "Schwabing - Freimann",
+  "unemployed": "894.5",
+  "shape": "mannlich",
+  "year": 2011,
+  "unemployedPercent": "3.6",
+  "population": "24751.5"
+}, {
+  "districtNumber": "1",
+  "district": "Altstadt - Lehel",
+  "unemployed": "159",
+  "shape": "weiblich",
+  "year": 2011,
+  "unemployedPercent": "2.3",
+  "population": "7059.3"
+}, {
+  "districtNumber": "4",
+  "district": "Schwabing - West",
+  "unemployed": "675.8",
+  "shape": "weiblich",
+  "year": 2011,
+  "unemployedPercent": "2.8",
+  "population": "23949.3"
+}, {
+  "districtNumber": "22",
+  "district": "Aubing - Lochhausen - Langwied",
+  "unemployed": "683.8",
+  "shape": "mannlich",
+  "year": 2011,
+  "unemployedPercent": "5.5",
+  "population": "12501.3"
+}, {
+  "districtNumber": "9",
+  "district": "Neuhausen - Nymphenburg",
+  "unemployed": "1478.8",
+  "shape": "deutsch",
+  "year": 2011,
+  "unemployedPercent": "3",
+  "population": "49407.3"
+}, {
+  "districtNumber": "18",
+  "district": "Untergiesing - Harlaching",
+  "unemployed": "972.3",
+  "shape": "mannlich",
+  "year": 2011,
+  "unemployedPercent": "5.7",
+  "population": "17088.3"
+}, {
+  "districtNumber": "14",
+  "district": "Berg am Laim",
+  "unemployed": "1132.8",
+  "shape": "weiblich",
+  "year": 2011,
+  "unemployedPercent": "7.9",
+  "population": "14337"
+}, {
+  "districtNumber": "19",
+  "district": "Thalkirchen - Obersendling - Forstenried - Furstenried - Solln",
+  "unemployed": "1350.8",
+  "shape": "deutsch",
+  "year": 2011,
+  "unemployedPercent": "3.3",
+  "population": "41145.8"
+}, {
+  "districtNumber": "15",
+  "district": "Trudering - Riem",
+  "unemployed": "1080.5",
+  "shape": "deutsch",
+  "year": 2011,
+  "unemployedPercent": "3.3",
+  "population": "33107"
+}, {
+  "districtNumber": "2",
+  "district": "Hadern",
+  "unemployed": "1052.3",
+  "shape": "weiblich",
+  "year": 2011,
+  "unemployedPercent": "6.6",
+  "population": "16044"
+}, {
+  "districtNumber": "8",
+  "district": "Schwanthalerhohe",
+  "unemployed": "688.3",
+  "shape": "weiblich",
+  "year": 2011,
+  "unemployedPercent": "6.7",
+  "population": "10332.8"
+}, {
+  "districtNumber": "13",
+  "district": "Bogenhausen",
+  "unemployed": "982.8",
+  "shape": "deutsch",
+  "year": 2011,
+  "unemployedPercent": "2.4",
+  "population": "40740.8"
+}, {
+  "districtNumber": "6",
+  "district": "Sendling",
+  "unemployed": "846.3",
+  "shape": "weiblich",
+  "year": 2011,
+  "unemployedPercent": "5.9",
+  "population": "14322.3"
+}, {
+  "districtNumber": "15",
+  "district": "Trudering - Riem",
+  "unemployed": "1075.3",
+  "shape": "auslandisch",
+  "year": 2011,
+  "unemployedPercent": "11",
+  "population": "9786.3"
+}, {
+  "districtNumber": "2",
+  "district": "Hadern",
+  "unemployed": "817.8",
+  "shape": "mannlich",
+  "year": 2011,
+  "unemployedPercent": "5.6",
+  "population": "14487.8"
+}, {
+  "districtNumber": "2",
+  "district": "Hadern",
+  "unemployed": "946.5",
+  "shape": "deutsch",
+  "year": 2011,
+  "unemployedPercent": "4.3",
+  "population": "22131.3"
+}, {
+  "districtNumber": "18",
+  "district": "Untergiesing - Harlaching",
+  "unemployed": "755.5",
+  "shape": "weiblich",
+  "year": 2011,
+  "unemployedPercent": "4.3",
+  "population": "17418.3"
+}, {
+  "districtNumber": "14",
+  "district": "Berg am Laim",
+  "unemployed": "1084.5",
+  "shape": "auslandisch",
+  "year": 2011,
+  "unemployedPercent": "11.7",
+  "population": "9250.8"
+}, {
+  "districtNumber": "18",
+  "district": "Untergiesing - Harlaching",
+  "unemployed": "762.5",
+  "shape": "auslandisch",
+  "year": 2011,
+  "unemployedPercent": "9.3",
+  "population": "8191.5"
+}, {
+  "districtNumber": "3",
+  "district": "Maxvorstadt",
+  "unemployed": "784.3",
+  "shape": "deutsch",
+  "year": 2011,
+  "unemployedPercent": "2.6",
+  "population": "29835.5"
+}, {
+  "districtNumber": "16",
+  "district": "Ramersdorf - Perlach",
+  "unemployed": "2846.8",
+  "shape": "mannlich",
+  "year": 2011,
+  "unemployedPercent": "8.2",
+  "population": "34641"
+}, {
+  "districtNumber": "4",
+  "district": "Schwabing - West",
+  "unemployed": "819.8",
+  "shape": "deutsch",
+  "year": 2011,
+  "unemployedPercent": "2.3",
+  "population": "35479"
+}, {
+  "districtNumber": "1",
+  "district": "Altstadt - Lehel",
+  "unemployed": "222.5",
+  "shape": "deutsch",
+  "year": 2011,
+  "unemployedPercent": "2",
+  "population": "10860"
+}, {
+  "districtNumber": "5",
+  "district": "Au - Haidhausen",
+  "unemployed": "760.8",
+  "shape": "weiblich",
+  "year": 2011,
+  "unemployedPercent": "3.5",
+  "population": "21718"
+}, {
+  "districtNumber": "7",
+  "district": "Sendling - Westpark",
+  "unemployed": "1379.5",
+  "shape": "weiblich",
+  "year": 2011,
+  "unemployedPercent": "7.5",
+  "population": "18460.3"
+}, {
+  "districtNumber": "1",
+  "district": "Moosach",
+  "unemployed": "1178.8",
+  "shape": "deutsch",
+  "year": 2011,
+  "unemployedPercent": "5.1",
+  "population": "22999.5"
+}, {
+  "districtNumber": "1",
+  "district": "Moosach",
+  "unemployed": "1240.3",
+  "shape": "weiblich",
+  "year": 2011,
+  "unemployedPercent": "7.5",
+  "population": "16640.3"
+}, {
+  "districtNumber": "7",
+  "district": "Sendling - Westpark",
+  "unemployed": "1345.8",
+  "shape": "auslandisch",
+  "year": 2011,
+  "unemployedPercent": "13.2",
+  "population": "10204.3"
+}, {
+  "districtNumber": "1",
+  "district": "Moosach",
+  "unemployed": "1196.8",
+  "shape": "auslandisch",
+  "year": 2011,
+  "unemployedPercent": "11.1",
+  "population": "10798"
+}, {
+  "districtNumber": "9",
+  "district": "Neuhausen - Nymphenburg",
+  "unemployed": "1262",
+  "shape": "mannlich",
+  "year": 2012,
+  "unemployedPercent": "3.8",
+  "population": "33007.8"
+}, {
+  "districtNumber": "17",
+  "district": "Obergiesing - Fasangarten",
+  "unemployed": "1063",
+  "shape": "mannlich",
+  "year": 2012,
+  "unemployedPercent": "5.5",
+  "population": "19452.3"
+}, {
+  "districtNumber": "7",
+  "district": "Sendling - Westpark",
+  "unemployed": "1334.5",
+  "shape": "weiblich",
+  "year": 2012,
+  "unemployedPercent": "7.1",
+  "population": "18725.8"
+}, {
+  "districtNumber": "12",
+  "district": "Schwabing - Freimann",
+  "unemployed": "1015.5",
+  "shape": "weiblich",
+  "year": 2012,
+  "unemployedPercent": "4.2",
+  "population": "24045.8"
+}, {
+  "districtNumber": "2",
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "unemployed": "875.8",
+  "shape": "mannlich",
+  "year": 2012,
+  "unemployedPercent": "4.3",
+  "population": "20489.8"
+}, {
+  "districtNumber": "12",
+  "district": "Schwabing - Freimann",
+  "unemployed": "1135",
+  "shape": "deutsch",
+  "year": 2012,
+  "unemployedPercent": "3.2",
+  "population": "35604"
+}, {
+  "districtNumber": "24",
+  "district": "Feldmoching - Hasenbergl",
+  "unemployed": "1231.5",
+  "shape": "mannlich",
+  "year": 2012,
+  "unemployedPercent": "6.2",
+  "population": "19887.8"
+}, {
+  "districtNumber": "14",
+  "district": "Berg am Laim",
+  "unemployed": "978",
+  "shape": "mannlich",
+  "year": 2012,
+  "unemployedPercent": "6.7",
+  "population": "14672.8"
+}, {
+  "districtNumber": "23",
+  "district": "Allach - Untermenzing",
+  "unemployed": "377",
+  "shape": "weiblich",
+  "year": 2012,
+  "unemployedPercent": "3.9",
+  "population": "9767.5"
+}, {
+  "districtNumber": "3",
+  "district": "Maxvorstadt",
+  "unemployed": "588.5",
+  "shape": "mannlich",
+  "year": 2012,
+  "unemployedPercent": "2.9",
+  "population": "20520.8"
+}, {
+  "districtNumber": "12",
+  "district": "Schwabing - Freimann",
+  "unemployed": "765.8",
+  "shape": "auslandisch",
+  "year": 2012,
+  "unemployedPercent": "5.5",
+  "population": "13952.5"
+}, {
+  "districtNumber": "7",
+  "district": "Sendling - Westpark",
+  "unemployed": "1166.3",
+  "shape": "deutsch",
+  "year": 2012,
+  "unemployedPercent": "4.4",
+  "population": "26400"
+}, {
+  "districtNumber": "22",
+  "district": "Aubing - Lochhausen - Langwied",
+  "unemployed": "738.8",
+  "shape": "deutsch",
+  "year": 2012,
+  "unemployedPercent": "3.9",
+  "population": "19089.8"
+}, {
+  "districtNumber": "1",
+  "district": "Moosach",
+  "unemployed": "1142.3",
+  "shape": "deutsch",
+  "year": 2012,
+  "unemployedPercent": "5",
+  "population": "23067.5"
+}, {
+  "districtNumber": "1",
+  "district": "Moosach",
+  "unemployed": "1121.3",
+  "shape": "auslandisch",
+  "year": 2012,
+  "unemployedPercent": "9.9",
+  "population": "11309.3"
+}, {
+  "districtNumber": "5",
+  "district": "Au - Haidhausen",
+  "unemployed": "846.5",
+  "shape": "deutsch",
+  "year": 2012,
+  "unemployedPercent": "2.6",
+  "population": "32813.3"
+}, {
+  "districtNumber": "1",
+  "district": "Moosach",
+  "unemployed": "1186.3",
+  "shape": "weiblich",
+  "year": 2012,
+  "unemployedPercent": "7",
+  "population": "16870"
+}, {
+  "districtNumber": "1",
+  "district": "Moosach",
+  "unemployed": "1077.3",
+  "shape": "mannlich",
+  "year": 2012,
+  "unemployedPercent": "6.2",
+  "population": "17506.8"
+}, {
+  "districtNumber": "8",
+  "district": "Schwanthalerhohe",
+  "unemployed": "646.8",
+  "shape": "deutsch",
+  "year": 2012,
+  "unemployedPercent": "4.6",
+  "population": "14212.8"
+}, {
+  "districtNumber": "22",
+  "district": "Aubing - Lochhausen - Langwied",
+  "unemployed": "786.8",
+  "shape": "weiblich",
+  "year": 2012,
+  "unemployedPercent": "6.1",
+  "population": "12881"
+}, {
+  "districtNumber": "8",
+  "district": "Schwanthalerhohe",
+  "unemployed": "688.8",
+  "shape": "weiblich",
+  "year": 2012,
+  "unemployedPercent": "6.5",
+  "population": "10610.5"
+}, {
+  "districtNumber": "22",
+  "district": "Aubing - Lochhausen - Langwied",
+  "unemployed": "739",
+  "shape": "auslandisch",
+  "year": 2012,
+  "unemployedPercent": "10.9",
+  "population": "6809.8"
+}, {
+  "districtNumber": "8",
+  "district": "Schwanthalerhohe",
+  "unemployed": "683.8",
+  "shape": "auslandisch",
+  "year": 2012,
+  "unemployedPercent": "8.5",
+  "population": "8012.5"
+}, {
+  "districtNumber": "13",
+  "district": "Bogenhausen",
+  "unemployed": "781.8",
+  "shape": "auslandisch",
+  "year": 2012,
+  "unemployedPercent": "6.2",
+  "population": "12677"
+}, {
+  "districtNumber": "13",
+  "district": "Bogenhausen",
+  "unemployed": "911.3",
+  "shape": "deutsch",
+  "year": 2012,
+  "unemployedPercent": "2.2",
+  "population": "40931.8"
+}, {
+  "districtNumber": "5",
+  "district": "Au - Haidhausen",
+  "unemployed": "618.5",
+  "shape": "auslandisch",
+  "year": 2012,
+  "unemployedPercent": "5.9",
+  "population": "10559.8"
+}, {
+  "districtNumber": "1",
+  "district": "Altstadt - Lehel",
+  "unemployed": "135.8",
+  "shape": "weiblich",
+  "year": 2012,
+  "unemployedPercent": "1.9",
+  "population": "7192.5"
+}, {
+  "districtNumber": "7",
+  "district": "Sendling - Westpark",
+  "unemployed": "1309.3",
+  "shape": "auslandisch",
+  "year": 2012,
+  "unemployedPercent": "12",
+  "population": "10946.5"
+}, {
+  "districtNumber": "6",
+  "district": "Sendling",
+  "unemployed": "827.5",
+  "shape": "mannlich",
+  "year": 2012,
+  "unemployedPercent": "5.6",
+  "population": "14853.5"
+}, {
+  "districtNumber": "4",
+  "district": "Schwabing - West",
+  "unemployed": "666.5",
+  "shape": "mannlich",
+  "year": 2012,
+  "unemployedPercent": "2.9",
+  "population": "22689"
+}, {
+  "districtNumber": "23",
+  "district": "Allach - Untermenzing",
+  "unemployed": "342.8",
+  "shape": "mannlich",
+  "year": 2012,
+  "unemployedPercent": "3.4",
+  "population": "9939.5"
+}, {
+  "districtNumber": "12",
+  "district": "Schwabing - Freimann",
+  "unemployed": "885.3",
+  "shape": "mannlich",
+  "year": 2012,
+  "unemployedPercent": "3.5",
+  "population": "25510.8"
+}, {
+  "districtNumber": "16",
+  "district": "Ramersdorf - Perlach",
+  "unemployed": "2669.3",
+  "shape": "mannlich",
+  "year": 2012,
+  "unemployedPercent": "7.6",
+  "population": "35173.5"
+}, {
+  "districtNumber": "21",
+  "district": "Pasing - Obermenzing",
+  "unemployed": "910.3",
+  "shape": "mannlich",
+  "year": 2012,
+  "unemployedPercent": "4",
+  "population": "22523"
+}, {
+  "districtNumber": "15",
+  "district": "Trudering - Riem",
+  "unemployed": "949.5",
+  "shape": "mannlich",
+  "year": 2012,
+  "unemployedPercent": "4.4",
+  "population": "21794"
+}, {
+  "districtNumber": "3",
+  "district": "Maxvorstadt",
+  "unemployed": "381.3",
+  "shape": "auslandisch",
+  "year": 2012,
+  "unemployedPercent": "3.7",
+  "population": "10369.3"
+}, {
+  "districtNumber": "7",
+  "district": "Sendling - Westpark",
+  "unemployed": "1141",
+  "shape": "mannlich",
+  "year": 2012,
+  "unemployedPercent": "6.1",
+  "population": "18620.8"
+}, {
+  "districtNumber": "21",
+  "district": "Pasing - Obermenzing",
+  "unemployed": "930",
+  "shape": "auslandisch",
+  "year": 2012,
+  "unemployedPercent": "9.1",
+  "population": "10173"
+}, {
+  "districtNumber": "11",
+  "district": "Milbertshofen - Am Hart",
+  "unemployed": "1845.8",
+  "shape": "mannlich",
+  "year": 2012,
+  "unemployedPercent": "6.9",
+  "population": "26898.5"
+}, {
+  "districtNumber": "1",
+  "district": "Altstadt - Lehel",
+  "unemployed": "146.8",
+  "shape": "mannlich",
+  "year": 2012,
+  "unemployedPercent": "1.9",
+  "population": "7562.5"
+}, {
+  "districtNumber": "18",
+  "district": "Untergiesing - Harlaching",
+  "unemployed": "929.3",
+  "shape": "mannlich",
+  "year": 2012,
+  "unemployedPercent": "5.3",
+  "population": "17387.3"
+}, {
+  "districtNumber": "18",
+  "district": "Untergiesing - Harlaching",
+  "unemployed": "750.3",
+  "shape": "auslandisch",
+  "year": 2012,
+  "unemployedPercent": "8.7",
+  "population": "8630.5"
+}, {
+  "districtNumber": "3",
+  "district": "Maxvorstadt",
+  "unemployed": "537.5",
+  "shape": "weiblich",
+  "year": 2012,
+  "unemployedPercent": "2.7",
+  "population": "19883.5"
+}, {
+  "districtNumber": "2",
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "unemployed": "601",
+  "shape": "weiblich",
+  "year": 2012,
+  "unemployedPercent": "3.2",
+  "population": "18569"
+}, {
+  "districtNumber": "17",
+  "district": "Obergiesing - Fasangarten",
+  "unemployed": "1042.3",
+  "shape": "weiblich",
+  "year": 2012,
+  "unemployedPercent": "5.8",
+  "population": "18038.8"
+}, {
+  "districtNumber": "14",
+  "district": "Berg am Laim",
+  "unemployed": "1119.3",
+  "shape": "weiblich",
+  "year": 2012,
+  "unemployedPercent": "7.6",
+  "population": "14682.8"
+}, {
+  "districtNumber": "22",
+  "district": "Aubing - Lochhausen - Langwied",
+  "unemployed": "691",
+  "shape": "mannlich",
+  "year": 2012,
+  "unemployedPercent": "5.3",
+  "population": "13018.5"
+}, {
+  "districtNumber": "16",
+  "district": "Ramersdorf - Perlach",
+  "unemployed": "3294",
+  "shape": "weiblich",
+  "year": 2012,
+  "unemployedPercent": "9.2",
+  "population": "35665.5"
+}, {
+  "districtNumber": "18",
+  "district": "Untergiesing - Harlaching",
+  "unemployed": "732.8",
+  "shape": "weiblich",
+  "year": 2012,
+  "unemployedPercent": "4.1",
+  "population": "17752.8"
+}, {
+  "districtNumber": "8",
+  "district": "Schwanthalerhohe",
+  "unemployed": "641.8",
+  "shape": "mannlich",
+  "year": 2012,
+  "unemployedPercent": "5.5",
+  "population": "11614.8"
+}, {
+  "districtNumber": "2",
+  "district": "Hadern",
+  "unemployed": "789.3",
+  "shape": "mannlich",
+  "year": 2012,
+  "unemployedPercent": "5.3",
+  "population": "14758.3"
+}, {
+  "districtNumber": "4",
+  "district": "Schwabing - West",
+  "unemployed": "698",
+  "shape": "weiblich",
+  "year": 2012,
+  "unemployedPercent": "2.9",
+  "population": "24310.3"
+}, {
+  "districtNumber": "2",
+  "district": "Hadern",
+  "unemployed": "1007",
+  "shape": "weiblich",
+  "year": 2012,
+  "unemployedPercent": "6.2",
+  "population": "16199.8"
+}, {
+  "districtNumber": "9",
+  "district": "Neuhausen - Nymphenburg",
+  "unemployed": "1462.8",
+  "shape": "deutsch",
+  "year": 2012,
+  "unemployedPercent": "2.9",
+  "population": "50113.5"
+}, {
+  "districtNumber": "3",
+  "district": "Maxvorstadt",
+  "unemployed": "744.8",
+  "shape": "deutsch",
+  "year": 2012,
+  "unemployedPercent": "2.5",
+  "population": "30035"
+}, {
+  "districtNumber": "17",
+  "district": "Obergiesing - Fasangarten",
+  "unemployed": "1101",
+  "shape": "deutsch",
+  "year": 2012,
+  "unemployedPercent": "4.4",
+  "population": "25062.3"
+}, {
+  "districtNumber": "5",
+  "district": "Au - Haidhausen",
+  "unemployed": "751.8",
+  "shape": "mannlich",
+  "year": 2012,
+  "unemployedPercent": "3.5",
+  "population": "21275.8"
+}, {
+  "districtNumber": "1",
+  "district": "Altstadt - Lehel",
+  "unemployed": "91.8",
+  "shape": "auslandisch",
+  "year": 2012,
+  "unemployedPercent": "2.4",
+  "population": "3851.3"
+}, {
+  "districtNumber": "25",
+  "district": "Laim",
+  "unemployed": "957.5",
+  "shape": "mannlich",
+  "year": 2012,
+  "unemployedPercent": "5.2",
+  "population": "18392.5"
+}, {
+  "districtNumber": "19",
+  "district": "Thalkirchen - Obersendling - Forstenried - Furstenried - Solln",
+  "unemployed": "1130.3",
+  "shape": "mannlich",
+  "year": 2012,
+  "unemployedPercent": "4",
+  "population": "27957"
+}, {
+  "districtNumber": "5",
+  "district": "Au - Haidhausen",
+  "unemployed": "713.3",
+  "shape": "weiblich",
+  "year": 2012,
+  "unemployedPercent": "3.2",
+  "population": "22097.3"
+}, {
+  "districtNumber": "18",
+  "district": "Untergiesing - Harlaching",
+  "unemployed": "911.8",
+  "shape": "deutsch",
+  "year": 2012,
+  "unemployedPercent": "3.4",
+  "population": "26509.5"
+}, {
+  "districtNumber": "25",
+  "district": "Laim",
+  "unemployed": "1035.8",
+  "shape": "deutsch",
+  "year": 2012,
+  "unemployedPercent": "3.8",
+  "population": "26970"
+}, {
+  "districtNumber": "19",
+  "district": "Thalkirchen - Obersendling - Forstenried - Furstenried - Solln",
+  "unemployed": "1259",
+  "shape": "deutsch",
+  "year": 2012,
+  "unemployedPercent": "3",
+  "population": "41426"
+}, {
+  "districtNumber": "21",
+  "district": "Pasing - Obermenzing",
+  "unemployed": "960.3",
+  "shape": "deutsch",
+  "year": 2012,
+  "unemployedPercent": "2.7",
+  "population": "35301"
+}, {
+  "districtNumber": "19",
+  "district": "Thalkirchen - Obersendling - Forstenried - Furstenried - Solln",
+  "unemployed": "1171",
+  "shape": "auslandisch",
+  "year": 2012,
+  "unemployedPercent": "7.8",
+  "population": "15098.8"
+}, {
+  "districtNumber": "13",
+  "district": "Bogenhausen",
+  "unemployed": "955",
+  "shape": "weiblich",
+  "year": 2012,
+  "unemployedPercent": "3.5",
+  "population": "27574"
+}, {
+  "districtNumber": "25",
+  "district": "Laim",
+  "unemployed": "926.5",
+  "shape": "auslandisch",
+  "year": 2012,
+  "unemployedPercent": "9.1",
+  "population": "10198.8"
+}, {
+  "districtNumber": "15",
+  "district": "Trudering - Riem",
+  "unemployed": "1219.3",
+  "shape": "weiblich",
+  "year": 2012,
+  "unemployedPercent": "5.6",
+  "population": "21745.5"
+}, {
+  "districtNumber": "9",
+  "district": "Neuhausen - Nymphenburg",
+  "unemployed": "1345.8",
+  "shape": "weiblich",
+  "year": 2012,
+  "unemployedPercent": "3.9",
+  "population": "34607.3"
+}, {
+  "districtNumber": "17",
+  "district": "Obergiesing - Fasangarten",
+  "unemployed": "1004.3",
+  "shape": "auslandisch",
+  "year": 2012,
+  "unemployedPercent": "8.1",
+  "population": "12428.8"
+}, {
+  "districtNumber": "6",
+  "district": "Sendling",
+  "unemployed": "800.8",
+  "shape": "weiblich",
+  "year": 2012,
+  "unemployedPercent": "5.5",
+  "population": "14533"
+}, {
+  "districtNumber": "25",
+  "district": "Laim",
+  "unemployed": "1004.8",
+  "shape": "weiblich",
+  "year": 2012,
+  "unemployedPercent": "5.4",
+  "population": "18776.3"
+}, {
+  "districtNumber": "24",
+  "district": "Feldmoching - Hasenbergl",
+  "unemployed": "1277.3",
+  "shape": "auslandisch",
+  "year": 2012,
+  "unemployedPercent": "9.6",
+  "population": "13290.3"
+}, {
+  "districtNumber": "1",
+  "district": "Altstadt - Lehel",
+  "unemployed": "190.8",
+  "shape": "deutsch",
+  "year": 2012,
+  "unemployedPercent": "1.7",
+  "population": "10903.8"
+}, {
+  "districtNumber": "19",
+  "district": "Thalkirchen - Obersendling - Forstenried - Furstenried - Solln",
+  "unemployed": "1299.8",
+  "shape": "weiblich",
+  "year": 2012,
+  "unemployedPercent": "4.5",
+  "population": "28567.8"
+}, {
+  "districtNumber": "24",
+  "district": "Feldmoching - Hasenbergl",
+  "unemployed": "1467",
+  "shape": "weiblich",
+  "year": 2012,
+  "unemployedPercent": "8.1",
+  "population": "18187.5"
+}, {
+  "districtNumber": "15",
+  "district": "Trudering - Riem",
+  "unemployed": "1132.5",
+  "shape": "auslandisch",
+  "year": 2012,
+  "unemployedPercent": "11.2",
+  "population": "10090"
+}, {
+  "districtNumber": "21",
+  "district": "Pasing - Obermenzing",
+  "unemployed": "980",
+  "shape": "weiblich",
+  "year": 2012,
+  "unemployedPercent": "4.3",
+  "population": "22951"
+}, {
+  "districtNumber": "11",
+  "district": "Milbertshofen - Am Hart",
+  "unemployed": "2121.8",
+  "shape": "auslandisch",
+  "year": 2012,
+  "unemployedPercent": "9.6",
+  "population": "22039.5"
+}, {
+  "districtNumber": "16",
+  "district": "Ramersdorf - Perlach",
+  "unemployed": "2778.5",
+  "shape": "deutsch",
+  "year": 2012,
+  "unemployedPercent": "6",
+  "population": "45943.8"
+}, {
+  "districtNumber": "4",
+  "district": "Schwabing - West",
+  "unemployed": "817",
+  "shape": "deutsch",
+  "year": 2012,
+  "unemployedPercent": "2.3",
+  "population": "35777"
+}, {
+  "districtNumber": "2",
+  "district": "Hadern",
+  "unemployed": "884.5",
+  "shape": "auslandisch",
+  "year": 2012,
+  "unemployedPercent": "10",
+  "population": "8856.5"
+}, {
+  "districtNumber": "6",
+  "district": "Sendling",
+  "unemployed": "841.5",
+  "shape": "deutsch",
+  "year": 2012,
+  "unemployedPercent": "4",
+  "population": "21252.8"
+}, {
+  "districtNumber": "14",
+  "district": "Berg am Laim",
+  "unemployed": "1013.8",
+  "shape": "deutsch",
+  "year": 2012,
+  "unemployedPercent": "5.1",
+  "population": "19705.5"
+}, {
+  "districtNumber": "2",
+  "district": "Hadern",
+  "unemployed": "911.8",
+  "shape": "deutsch",
+  "year": 2012,
+  "unemployedPercent": "4.1",
+  "population": "22101.5"
+}, {
+  "districtNumber": "2",
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "unemployed": "595.8",
+  "shape": "auslandisch",
+  "year": 2012,
+  "unemployedPercent": "5.3",
+  "population": "11238.3"
+}, {
+  "districtNumber": "24",
+  "district": "Feldmoching - Hasenbergl",
+  "unemployed": "1421.3",
+  "shape": "deutsch",
+  "year": 2012,
+  "unemployedPercent": "5.7",
+  "population": "24785"
+}, {
+  "districtNumber": "6",
+  "district": "Sendling",
+  "unemployed": "786.8",
+  "shape": "auslandisch",
+  "year": 2012,
+  "unemployedPercent": "9.7",
+  "population": "8133.8"
+}, {
+  "districtNumber": "11",
+  "district": "Milbertshofen - Am Hart",
+  "unemployed": "2187",
+  "shape": "weiblich",
+  "year": 2012,
+  "unemployedPercent": "9",
+  "population": "24393.3"
+}, {
+  "districtNumber": "11",
+  "district": "Milbertshofen - Am Hart",
+  "unemployed": "1911",
+  "shape": "deutsch",
+  "year": 2012,
+  "unemployedPercent": "6.5",
+  "population": "29252.3"
+}, {
+  "districtNumber": "23",
+  "district": "Allach - Untermenzing",
+  "unemployed": "318.3",
+  "shape": "auslandisch",
+  "year": 2012,
+  "unemployedPercent": "7.6",
+  "population": "4186.3"
+}, {
+  "districtNumber": "23",
+  "district": "Allach - Untermenzing",
+  "unemployed": "401.5",
+  "shape": "deutsch",
+  "year": 2012,
+  "unemployedPercent": "2.6",
+  "population": "15520.8"
+}, {
+  "districtNumber": "14",
+  "district": "Berg am Laim",
+  "unemployed": "1083.5",
+  "shape": "auslandisch",
+  "year": 2012,
+  "unemployedPercent": "11.2",
+  "population": "9650"
+}, {
+  "districtNumber": "2",
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "unemployed": "881",
+  "shape": "deutsch",
+  "year": 2012,
+  "unemployedPercent": "3.2",
+  "population": "27820.5"
+}, {
+  "districtNumber": "9",
+  "district": "Neuhausen - Nymphenburg",
+  "unemployed": "1145",
+  "shape": "auslandisch",
+  "year": 2012,
+  "unemployedPercent": "6.5",
+  "population": "17501.5"
+}, {
+  "districtNumber": "16",
+  "district": "Ramersdorf - Perlach",
+  "unemployed": "3184.8",
+  "shape": "auslandisch",
+  "year": 2012,
+  "unemployedPercent": "12.8",
+  "population": "24895.3"
+}, {
+  "districtNumber": "13",
+  "district": "Bogenhausen",
+  "unemployed": "738",
+  "shape": "mannlich",
+  "year": 2012,
+  "unemployedPercent": "2.8",
+  "population": "26034.8"
+}, {
+  "districtNumber": "4",
+  "district": "Schwabing - West",
+  "unemployed": "547.5",
+  "shape": "auslandisch",
+  "year": 2012,
+  "unemployedPercent": "4.9",
+  "population": "11222.3"
+}, {
+  "districtNumber": "15",
+  "district": "Trudering - Riem",
+  "unemployed": "1036.3",
+  "shape": "deutsch",
+  "year": 2012,
+  "unemployedPercent": "3.1",
+  "population": "33449.5"
+}, {
+  "districtNumber": "13",
+  "district": "Bogenhausen",
+  "unemployed": "885.5",
+  "shape": "deutsch",
+  "year": 2013,
+  "unemployedPercent": "2.2",
+  "population": "40865.3"
+}, {
+  "districtNumber": "8",
+  "district": "Schwanthalerhohe",
+  "unemployed": "637.5",
+  "shape": "deutsch",
+  "year": 2013,
+  "unemployedPercent": "4.4",
+  "population": "14353.8"
+}, {
+  "districtNumber": "16",
+  "district": "Ramersdorf - Perlach",
+  "unemployed": "2663.5",
+  "shape": "deutsch",
+  "year": 2013,
+  "unemployedPercent": "5.9",
+  "population": "45513.3"
+}, {
+  "districtNumber": "22",
+  "district": "Aubing - Lochhausen - Langwied",
+  "unemployed": "780.5",
+  "shape": "auslandisch",
+  "year": 2013,
+  "unemployedPercent": "10.3",
+  "population": "7575.3"
+}, {
+  "districtNumber": "4",
+  "district": "Schwabing - West",
+  "unemployed": "551.3",
+  "shape": "auslandisch",
+  "year": 2013,
+  "unemployedPercent": "4.8",
+  "population": "11585.8"
+}, {
+  "districtNumber": "22",
+  "district": "Aubing - Lochhausen - Langwied",
+  "unemployed": "759.5",
+  "shape": "deutsch",
+  "year": 2013,
+  "unemployedPercent": "3.9",
+  "population": "19395"
+}, {
+  "districtNumber": "13",
+  "district": "Bogenhausen",
+  "unemployed": "826.3",
+  "shape": "auslandisch",
+  "year": 2013,
+  "unemployedPercent": "6.2",
+  "population": "13415.5"
+}, {
+  "districtNumber": "7",
+  "district": "Sendling - Westpark",
+  "unemployed": "1101",
+  "shape": "mannlich",
+  "year": 2013,
+  "unemployedPercent": "5.7",
+  "population": "19175"
+}, {
+  "districtNumber": "16",
+  "district": "Ramersdorf - Perlach",
+  "unemployed": "3225",
+  "shape": "weiblich",
+  "year": 2013,
+  "unemployedPercent": "9",
+  "population": "35801.8"
+}, {
+  "districtNumber": "6",
+  "district": "Sendling",
+  "unemployed": "818",
+  "shape": "deutsch",
+  "year": 2013,
+  "unemployedPercent": "3.9",
+  "population": "21238.3"
+}, {
+  "districtNumber": "1",
+  "district": "Moosach",
+  "unemployed": "1180.8",
+  "shape": "auslandisch",
+  "year": 2013,
+  "unemployedPercent": "9.9",
+  "population": "11918"
+}, {
+  "districtNumber": "1",
+  "district": "Altstadt - Lehel",
+  "unemployed": "102.8",
+  "shape": "auslandisch",
+  "year": 2013,
+  "unemployedPercent": "2.5",
+  "population": "4121"
+}, {
+  "districtNumber": "8",
+  "district": "Schwanthalerhohe",
+  "unemployed": "695",
+  "shape": "auslandisch",
+  "year": 2013,
+  "unemployedPercent": "8.6",
+  "population": "8089"
+}, {
+  "districtNumber": "15",
+  "district": "Trudering - Riem",
+  "unemployed": "1194.5",
+  "shape": "auslandisch",
+  "year": 2013,
+  "unemployedPercent": "11.3",
+  "population": "10556.5"
+}, {
+  "districtNumber": "16",
+  "district": "Ramersdorf - Perlach",
+  "unemployed": "3173.8",
+  "shape": "auslandisch",
+  "year": 2013,
+  "unemployedPercent": "12.3",
+  "population": "25806"
+}, {
+  "districtNumber": "6",
+  "district": "Sendling",
+  "unemployed": "777.8",
+  "shape": "weiblich",
+  "year": 2013,
+  "unemployedPercent": "5.3",
+  "population": "14653.8"
+}, {
+  "districtNumber": "21",
+  "district": "Pasing - Obermenzing",
+  "unemployed": "954",
+  "shape": "mannlich",
+  "year": 2013,
+  "unemployedPercent": "4.1",
+  "population": "23048.5"
+}, {
+  "districtNumber": "7",
+  "district": "Sendling - Westpark",
+  "unemployed": "1253",
+  "shape": "weiblich",
+  "year": 2013,
+  "unemployedPercent": "6.6",
+  "population": "19065"
+}, {
+  "districtNumber": "12",
+  "district": "Schwabing - Freimann",
+  "unemployed": "942.5",
+  "shape": "mannlich",
+  "year": 2013,
+  "unemployedPercent": "3.6",
+  "population": "26043.8"
+}, {
+  "districtNumber": "5",
+  "district": "Au - Haidhausen",
+  "unemployed": "631.5",
+  "shape": "auslandisch",
+  "year": 2013,
+  "unemployedPercent": "5.7",
+  "population": "11084.3"
+}, {
+  "districtNumber": "1",
+  "district": "Altstadt - Lehel",
+  "unemployed": "187.5",
+  "shape": "deutsch",
+  "year": 2013,
+  "unemployedPercent": "1.7",
+  "population": "10888.3"
+}, {
+  "districtNumber": "1",
+  "district": "Moosach",
+  "unemployed": "1176",
+  "shape": "deutsch",
+  "year": 2013,
+  "unemployedPercent": "5",
+  "population": "23381.8"
+}, {
+  "districtNumber": "6",
+  "district": "Sendling",
+  "unemployed": "760.8",
+  "shape": "auslandisch",
+  "year": 2013,
+  "unemployedPercent": "9",
+  "population": "8416.8"
+}, {
+  "districtNumber": "15",
+  "district": "Trudering - Riem",
+  "unemployed": "1039.5",
+  "shape": "deutsch",
+  "year": 2013,
+  "unemployedPercent": "3.1",
+  "population": "33866"
+}, {
+  "districtNumber": "4",
+  "district": "Schwabing - West",
+  "unemployed": "788.3",
+  "shape": "deutsch",
+  "year": 2013,
+  "unemployedPercent": "2.2",
+  "population": "35977"
+}, {
+  "districtNumber": "12",
+  "district": "Schwabing - Freimann",
+  "unemployed": "1046.3",
+  "shape": "weiblich",
+  "year": 2013,
+  "unemployedPercent": "4.3",
+  "population": "24434.5"
+}, {
+  "districtNumber": "11",
+  "district": "Milbertshofen - Am Hart",
+  "unemployed": "1826.3",
+  "shape": "mannlich",
+  "year": 2013,
+  "unemployedPercent": "6.6",
+  "population": "27731.5"
+}, {
+  "districtNumber": "2",
+  "district": "Hadern",
+  "unemployed": "899",
+  "shape": "auslandisch",
+  "year": 2013,
+  "unemployedPercent": "9.5",
+  "population": "9473.8"
+}, {
+  "districtNumber": "24",
+  "district": "Feldmoching - Hasenbergl",
+  "unemployed": "1467.3",
+  "shape": "weiblich",
+  "year": 2013,
+  "unemployedPercent": "7.9",
+  "population": "18556"
+}, {
+  "districtNumber": "19",
+  "district": "Thalkirchen - Obersendling - Forstenried - Furstenried - Solln",
+  "unemployed": "1308",
+  "shape": "weiblich",
+  "year": 2013,
+  "unemployedPercent": "4.5",
+  "population": "29373.8"
+}, {
+  "districtNumber": "21",
+  "district": "Pasing - Obermenzing",
+  "unemployed": "956.8",
+  "shape": "deutsch",
+  "year": 2013,
+  "unemployedPercent": "2.7",
+  "population": "35569.5"
+}, {
+  "districtNumber": "17",
+  "district": "Obergiesing - Fasangarten",
+  "unemployed": "1051.8",
+  "shape": "weiblich",
+  "year": 2013,
+  "unemployedPercent": "5.8",
+  "population": "18235.8"
+}, {
+  "districtNumber": "25",
+  "district": "Laim",
+  "unemployed": "1029",
+  "shape": "deutsch",
+  "year": 2013,
+  "unemployedPercent": "3.8",
+  "population": "26917.3"
+}, {
+  "districtNumber": "24",
+  "district": "Feldmoching - Hasenbergl",
+  "unemployed": "1241.5",
+  "shape": "mannlich",
+  "year": 2013,
+  "unemployedPercent": "6",
+  "population": "20534.3"
+}, {
+  "districtNumber": "7",
+  "district": "Sendling - Westpark",
+  "unemployed": "1084",
+  "shape": "deutsch",
+  "year": 2013,
+  "unemployedPercent": "4.1",
+  "population": "26690.5"
+}, {
+  "districtNumber": "9",
+  "district": "Neuhausen - Nymphenburg",
+  "unemployed": "1352.8",
+  "shape": "weiblich",
+  "year": 2013,
+  "unemployedPercent": "3.8",
+  "population": "35183.5"
+}, {
+  "districtNumber": "14",
+  "district": "Berg am Laim",
+  "unemployed": "1150.8",
+  "shape": "weiblich",
+  "year": 2013,
+  "unemployedPercent": "7.7",
+  "population": "14961.3"
+}, {
+  "districtNumber": "25",
+  "district": "Laim",
+  "unemployed": "1028.5",
+  "shape": "weiblich",
+  "year": 2013,
+  "unemployedPercent": "5.4",
+  "population": "19044.8"
+}, {
+  "districtNumber": "24",
+  "district": "Feldmoching - Hasenbergl",
+  "unemployed": "1402.3",
+  "shape": "deutsch",
+  "year": 2013,
+  "unemployedPercent": "5.6",
+  "population": "24858.5"
+}, {
+  "districtNumber": "17",
+  "district": "Obergiesing - Fasangarten",
+  "unemployed": "1061",
+  "shape": "deutsch",
+  "year": 2013,
+  "unemployedPercent": "4.3",
+  "population": "24896.8"
+}, {
+  "districtNumber": "23",
+  "district": "Allach - Untermenzing",
+  "unemployed": "396.5",
+  "shape": "deutsch",
+  "year": 2013,
+  "unemployedPercent": "2.5",
+  "population": "15600.5"
+}, {
+  "districtNumber": "12",
+  "district": "Schwabing - Freimann",
+  "unemployed": "835.8",
+  "shape": "auslandisch",
+  "year": 2013,
+  "unemployedPercent": "5.7",
+  "population": "14738"
+}, {
+  "districtNumber": "3",
+  "district": "Maxvorstadt",
+  "unemployed": "716.8",
+  "shape": "deutsch",
+  "year": 2013,
+  "unemployedPercent": "2.4",
+  "population": "30188.8"
+}, {
+  "districtNumber": "5",
+  "district": "Au - Haidhausen",
+  "unemployed": "738",
+  "shape": "weiblich",
+  "year": 2013,
+  "unemployedPercent": "3.3",
+  "population": "22589.5"
+}, {
+  "districtNumber": "15",
+  "district": "Trudering - Riem",
+  "unemployed": "1245.8",
+  "shape": "weiblich",
+  "year": 2013,
+  "unemployedPercent": "5.6",
+  "population": "22175.8"
+}, {
+  "districtNumber": "8",
+  "district": "Schwanthalerhohe",
+  "unemployed": "703.3",
+  "shape": "weiblich",
+  "year": 2013,
+  "unemployedPercent": "6.5",
+  "population": "10741.5"
+}, {
+  "districtNumber": "5",
+  "district": "Au - Haidhausen",
+  "unemployed": "840.5",
+  "shape": "deutsch",
+  "year": 2013,
+  "unemployedPercent": "2.5",
+  "population": "33176.8"
+}, {
+  "districtNumber": "18",
+  "district": "Untergiesing - Harlaching",
+  "unemployed": "786.5",
+  "shape": "auslandisch",
+  "year": 2013,
+  "unemployedPercent": "8.6",
+  "population": "9148.8"
+}, {
+  "districtNumber": "11",
+  "district": "Milbertshofen - Am Hart",
+  "unemployed": "2150.3",
+  "shape": "auslandisch",
+  "year": 2013,
+  "unemployedPercent": "9.3",
+  "population": "23098"
+}, {
+  "districtNumber": "8",
+  "district": "Schwanthalerhohe",
+  "unemployed": "629.3",
+  "shape": "mannlich",
+  "year": 2013,
+  "unemployedPercent": "5.4",
+  "population": "11701.3"
+}, {
+  "districtNumber": "1",
+  "district": "Altstadt - Lehel",
+  "unemployed": "154.8",
+  "shape": "mannlich",
+  "year": 2013,
+  "unemployedPercent": "2",
+  "population": "7669.3"
+}, {
+  "districtNumber": "15",
+  "district": "Trudering - Riem",
+  "unemployed": "988.3",
+  "shape": "mannlich",
+  "year": 2013,
+  "unemployedPercent": "4.4",
+  "population": "22246.8"
+}, {
+  "districtNumber": "6",
+  "district": "Sendling",
+  "unemployed": "801",
+  "shape": "mannlich",
+  "year": 2013,
+  "unemployedPercent": "5.3",
+  "population": "15001.3"
+}, {
+  "districtNumber": "23",
+  "district": "Allach - Untermenzing",
+  "unemployed": "363.5",
+  "shape": "mannlich",
+  "year": 2013,
+  "unemployedPercent": "3.6",
+  "population": "10177.5"
+}, {
+  "districtNumber": "18",
+  "district": "Untergiesing - Harlaching",
+  "unemployed": "967.3",
+  "shape": "mannlich",
+  "year": 2013,
+  "unemployedPercent": "5.5",
+  "population": "17665.5"
+}, {
+  "districtNumber": "3",
+  "district": "Maxvorstadt",
+  "unemployed": "586",
+  "shape": "mannlich",
+  "year": 2013,
+  "unemployedPercent": "2.8",
+  "population": "20983.8"
+}, {
+  "districtNumber": "23",
+  "district": "Allach - Untermenzing",
+  "unemployed": "395.3",
+  "shape": "weiblich",
+  "year": 2013,
+  "unemployedPercent": "4",
+  "population": "9957.5"
+}, {
+  "districtNumber": "11",
+  "district": "Milbertshofen - Am Hart",
+  "unemployed": "2173",
+  "shape": "weiblich",
+  "year": 2013,
+  "unemployedPercent": "8.8",
+  "population": "24772.5"
+}, {
+  "districtNumber": "9",
+  "district": "Neuhausen - Nymphenburg",
+  "unemployed": "1423",
+  "shape": "deutsch",
+  "year": 2013,
+  "unemployedPercent": "2.8",
+  "population": "50389.5"
+}, {
+  "districtNumber": "2",
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "unemployed": "598.3",
+  "shape": "auslandisch",
+  "year": 2013,
+  "unemployedPercent": "5",
+  "population": "11939.3"
+}, {
+  "districtNumber": "21",
+  "district": "Pasing - Obermenzing",
+  "unemployed": "1023.8",
+  "shape": "auslandisch",
+  "year": 2013,
+  "unemployedPercent": "9.4",
+  "population": "10925.8"
+}, {
+  "districtNumber": "24",
+  "district": "Feldmoching - Hasenbergl",
+  "unemployed": "1306.5",
+  "shape": "auslandisch",
+  "year": 2013,
+  "unemployedPercent": "9.2",
+  "population": "14231.8"
+}, {
+  "districtNumber": "22",
+  "district": "Aubing - Lochhausen - Langwied",
+  "unemployed": "722.3",
+  "shape": "mannlich",
+  "year": 2013,
+  "unemployedPercent": "5.3",
+  "population": "13653.8"
+}, {
+  "districtNumber": "5",
+  "district": "Au - Haidhausen",
+  "unemployed": "734",
+  "shape": "mannlich",
+  "year": 2013,
+  "unemployedPercent": "3.4",
+  "population": "21671.5"
+}, {
+  "districtNumber": "13",
+  "district": "Bogenhausen",
+  "unemployed": "959",
+  "shape": "weiblich",
+  "year": 2013,
+  "unemployedPercent": "3.4",
+  "population": "27990"
+}, {
+  "districtNumber": "2",
+  "district": "Hadern",
+  "unemployed": "849.8",
+  "shape": "deutsch",
+  "year": 2013,
+  "unemployedPercent": "3.9",
+  "population": "22069.8"
+}, {
+  "districtNumber": "19",
+  "district": "Thalkirchen - Obersendling - Forstenried - Furstenried - Solln",
+  "unemployed": "1237.8",
+  "shape": "deutsch",
+  "year": 2013,
+  "unemployedPercent": "3",
+  "population": "41923.3"
+}, {
+  "districtNumber": "3",
+  "district": "Maxvorstadt",
+  "unemployed": "397.5",
+  "shape": "auslandisch",
+  "year": 2013,
+  "unemployedPercent": "3.6",
+  "population": "11021"
+}, {
+  "districtNumber": "25",
+  "district": "Laim",
+  "unemployed": "951.5",
+  "shape": "auslandisch",
+  "year": 2013,
+  "unemployedPercent": "8.8",
+  "population": "10763.3"
+}, {
+  "districtNumber": "25",
+  "district": "Laim",
+  "unemployed": "952",
+  "shape": "mannlich",
+  "year": 2013,
+  "unemployedPercent": "5.1",
+  "population": "18635.8"
+}, {
+  "districtNumber": "2",
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "unemployed": "620",
+  "shape": "weiblich",
+  "year": 2013,
+  "unemployedPercent": "3.3",
+  "population": "18982.3"
+}, {
+  "districtNumber": "14",
+  "district": "Berg am Laim",
+  "unemployed": "1046.3",
+  "shape": "deutsch",
+  "year": 2013,
+  "unemployedPercent": "5.3",
+  "population": "19818.3"
+}, {
+  "districtNumber": "7",
+  "district": "Sendling - Westpark",
+  "unemployed": "1270",
+  "shape": "auslandisch",
+  "year": 2013,
+  "unemployedPercent": "11",
+  "population": "11549.5"
+}, {
+  "districtNumber": "18",
+  "district": "Untergiesing - Harlaching",
+  "unemployed": "930.3",
+  "shape": "deutsch",
+  "year": 2013,
+  "unemployedPercent": "3.5",
+  "population": "26516.8"
+}, {
+  "districtNumber": "17",
+  "district": "Obergiesing - Fasangarten",
+  "unemployed": "992",
+  "shape": "mannlich",
+  "year": 2013,
+  "unemployedPercent": "5.3",
+  "population": "18857.5"
+}, {
+  "districtNumber": "14",
+  "district": "Berg am Laim",
+  "unemployed": "1023.3",
+  "shape": "mannlich",
+  "year": 2013,
+  "unemployedPercent": "6.8",
+  "population": "15002.3"
+}, {
+  "districtNumber": "2",
+  "district": "Hadern",
+  "unemployed": "997.5",
+  "shape": "weiblich",
+  "year": 2013,
+  "unemployedPercent": "6.1",
+  "population": "16406.5"
+}, {
+  "districtNumber": "19",
+  "district": "Thalkirchen - Obersendling - Forstenried - Furstenried - Solln",
+  "unemployed": "1148.8",
+  "shape": "mannlich",
+  "year": 2013,
+  "unemployedPercent": "3.9",
+  "population": "29276"
+}, {
+  "districtNumber": "12",
+  "district": "Schwabing - Freimann",
+  "unemployed": "1153",
+  "shape": "deutsch",
+  "year": 2013,
+  "unemployedPercent": "3.2",
+  "population": "35740.3"
+}, {
+  "districtNumber": "3",
+  "district": "Maxvorstadt",
+  "unemployed": "528.3",
+  "shape": "weiblich",
+  "year": 2013,
+  "unemployedPercent": "2.6",
+  "population": "20226"
+}, {
+  "districtNumber": "14",
+  "district": "Berg am Laim",
+  "unemployed": "1127.8",
+  "shape": "auslandisch",
+  "year": 2013,
+  "unemployedPercent": "11.1",
+  "population": "10145.3"
+}, {
+  "districtNumber": "16",
+  "district": "Ramersdorf - Perlach",
+  "unemployed": "2612.3",
+  "shape": "mannlich",
+  "year": 2013,
+  "unemployedPercent": "7.4",
+  "population": "35517.5"
+}, {
+  "districtNumber": "13",
+  "district": "Bogenhausen",
+  "unemployed": "752.8",
+  "shape": "mannlich",
+  "year": 2013,
+  "unemployedPercent": "2.9",
+  "population": "26290.8"
+}, {
+  "districtNumber": "4",
+  "district": "Schwabing - West",
+  "unemployed": "646",
+  "shape": "mannlich",
+  "year": 2013,
+  "unemployedPercent": "2.8",
+  "population": "22905.3"
+}, {
+  "districtNumber": "1",
+  "district": "Moosach",
+  "unemployed": "1201.3",
+  "shape": "weiblich",
+  "year": 2013,
+  "unemployedPercent": "7",
+  "population": "17190.8"
+}, {
+  "districtNumber": "22",
+  "district": "Aubing - Lochhausen - Langwied",
+  "unemployed": "817.8",
+  "shape": "weiblich",
+  "year": 2013,
+  "unemployedPercent": "6.1",
+  "population": "13316.5"
+}, {
+  "districtNumber": "21",
+  "district": "Pasing - Obermenzing",
+  "unemployed": "1026.5",
+  "shape": "weiblich",
+  "year": 2013,
+  "unemployedPercent": "4.4",
+  "population": "23446.8"
+}, {
+  "districtNumber": "1",
+  "district": "Moosach",
+  "unemployed": "1155.5",
+  "shape": "mannlich",
+  "year": 2013,
+  "unemployedPercent": "6.4",
+  "population": "18109"
+}, {
+  "districtNumber": "4",
+  "district": "Schwabing - West",
+  "unemployed": "693.5",
+  "shape": "weiblich",
+  "year": 2013,
+  "unemployedPercent": "2.8",
+  "population": "24657.5"
+}, {
+  "districtNumber": "23",
+  "district": "Allach - Untermenzing",
+  "unemployed": "362.3",
+  "shape": "auslandisch",
+  "year": 2013,
+  "unemployedPercent": "8",
+  "population": "4534.5"
+}, {
+  "districtNumber": "2",
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "unemployed": "877.5",
+  "shape": "mannlich",
+  "year": 2013,
+  "unemployedPercent": "4.2",
+  "population": "20939.8"
+}, {
+  "districtNumber": "9",
+  "district": "Neuhausen - Nymphenburg",
+  "unemployed": "1249.3",
+  "shape": "mannlich",
+  "year": 2013,
+  "unemployedPercent": "3.7",
+  "population": "33516.8"
+}, {
+  "districtNumber": "2",
+  "district": "Hadern",
+  "unemployed": "751.3",
+  "shape": "mannlich",
+  "year": 2013,
+  "unemployedPercent": "5",
+  "population": "15137"
+}, {
+  "districtNumber": "18",
+  "district": "Untergiesing - Harlaching",
+  "unemployed": "749.5",
+  "shape": "weiblich",
+  "year": 2013,
+  "unemployedPercent": "4.2",
+  "population": "18000"
+}, {
+  "districtNumber": "2",
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "unemployed": "899.3",
+  "shape": "deutsch",
+  "year": 2013,
+  "unemployedPercent": "3.2",
+  "population": "27982.8"
+}, {
+  "districtNumber": "11",
+  "district": "Milbertshofen - Am Hart",
+  "unemployed": "1849",
+  "shape": "deutsch",
+  "year": 2013,
+  "unemployedPercent": "6.3",
+  "population": "29406"
+}, {
+  "districtNumber": "19",
+  "district": "Thalkirchen - Obersendling - Forstenried - Furstenried - Solln",
+  "unemployed": "1219",
+  "shape": "auslandisch",
+  "year": 2013,
+  "unemployedPercent": "7.3",
+  "population": "16726.5"
+}, {
+  "districtNumber": "17",
+  "district": "Obergiesing - Fasangarten",
+  "unemployed": "982.8",
+  "shape": "auslandisch",
+  "year": 2013,
+  "unemployedPercent": "8.1",
+  "population": "12196.5"
+}, {
+  "districtNumber": "9",
+  "district": "Neuhausen - Nymphenburg",
+  "unemployed": "1179",
+  "shape": "auslandisch",
+  "year": 2013,
+  "unemployedPercent": "6.4",
+  "population": "18310.8"
+}, {
+  "districtNumber": "1",
+  "district": "Altstadt - Lehel",
+  "unemployed": "135.5",
+  "shape": "weiblich",
+  "year": 2013,
+  "unemployedPercent": "1.8",
+  "population": "7340"
+}, {
+  "districtNumber": "2",
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "unemployed": "906.3",
+  "shape": "mannlich",
+  "year": 2014,
+  "unemployedPercent": "4.3",
+  "population": "21294.3"
+}, {
+  "districtNumber": "13",
+  "district": "Bogenhausen",
+  "unemployed": "897.8",
+  "shape": "deutsch",
+  "year": 2014,
+  "unemployedPercent": "2.2",
+  "population": "41125.5"
+}, {
+  "districtNumber": "5",
+  "district": "Au - Haidhausen",
+  "unemployed": "817",
+  "shape": "deutsch",
+  "year": 2014,
+  "unemployedPercent": "2.5",
+  "population": "33233.5"
+}, {
+  "districtNumber": "18",
+  "district": "Untergiesing - Harlaching",
+  "unemployed": "921.3",
+  "shape": "deutsch",
+  "year": 2014,
+  "unemployedPercent": "3.5",
+  "population": "26500.8"
+}, {
+  "districtNumber": "9",
+  "district": "Neuhausen - Nymphenburg",
+  "unemployed": "1402.3",
+  "shape": "deutsch",
+  "year": 2014,
+  "unemployedPercent": "2.8",
+  "population": "50487.5"
+}, {
+  "districtNumber": "21",
+  "district": "Pasing - Obermenzing",
+  "unemployed": "1042",
+  "shape": "weiblich",
+  "year": 2014,
+  "unemployedPercent": "4.4",
+  "population": "23881.8"
+}, {
+  "districtNumber": "17",
+  "district": "Obergiesing - Fasangarten",
+  "unemployed": "1056",
+  "shape": "weiblich",
+  "year": 2014,
+  "unemployedPercent": "5.7",
+  "population": "18595.8"
+}, {
+  "districtNumber": "21",
+  "district": "Pasing - Obermenzing",
+  "unemployed": "954.5",
+  "shape": "deutsch",
+  "year": 2014,
+  "unemployedPercent": "2.7",
+  "population": "35759.8"
+}, {
+  "districtNumber": "21",
+  "district": "Pasing - Obermenzing",
+  "unemployed": "1096.8",
+  "shape": "auslandisch",
+  "year": 2014,
+  "unemployedPercent": "9.4",
+  "population": "11715.5"
+}, {
+  "districtNumber": "25",
+  "district": "Laim",
+  "unemployed": "989.3",
+  "shape": "auslandisch",
+  "year": 2014,
+  "unemployedPercent": "8.7",
+  "population": "11336.5"
+}, {
+  "districtNumber": "5",
+  "district": "Au - Haidhausen",
+  "unemployed": "656",
+  "shape": "auslandisch",
+  "year": 2014,
+  "unemployedPercent": "5.7",
+  "population": "11576.5"
+}, {
+  "districtNumber": "3",
+  "district": "Maxvorstadt",
+  "unemployed": "707",
+  "shape": "deutsch",
+  "year": 2014,
+  "unemployedPercent": "2.3",
+  "population": "30159"
+}, {
+  "districtNumber": "2",
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "unemployed": "638.3",
+  "shape": "auslandisch",
+  "year": 2014,
+  "unemployedPercent": "5",
+  "population": "12761.5"
+}, {
+  "districtNumber": "1",
+  "district": "Moosach",
+  "unemployed": "1229.8",
+  "shape": "weiblich",
+  "year": 2014,
+  "unemployedPercent": "7",
+  "population": "17552"
+}, {
+  "districtNumber": "18",
+  "district": "Untergiesing - Harlaching",
+  "unemployed": "939",
+  "shape": "mannlich",
+  "year": 2014,
+  "unemployedPercent": "5.3",
+  "population": "17841.3"
+}, {
+  "districtNumber": "9",
+  "district": "Neuhausen - Nymphenburg",
+  "unemployed": "1270.8",
+  "shape": "mannlich",
+  "year": 2014,
+  "unemployedPercent": "3.7",
+  "population": "33924.8"
+}, {
+  "districtNumber": "21",
+  "district": "Pasing - Obermenzing",
+  "unemployed": "1009.3",
+  "shape": "mannlich",
+  "year": 2014,
+  "unemployedPercent": "4.3",
+  "population": "23593.5"
+}, {
+  "districtNumber": "3",
+  "district": "Maxvorstadt",
+  "unemployed": "540.8",
+  "shape": "weiblich",
+  "year": 2014,
+  "unemployedPercent": "2.6",
+  "population": "20459"
+}, {
+  "districtNumber": "9",
+  "district": "Neuhausen - Nymphenburg",
+  "unemployed": "1271",
+  "shape": "auslandisch",
+  "year": 2014,
+  "unemployedPercent": "6.7",
+  "population": "19057"
+}, {
+  "districtNumber": "3",
+  "district": "Maxvorstadt",
+  "unemployed": "431.8",
+  "shape": "auslandisch",
+  "year": 2014,
+  "unemployedPercent": "3.7",
+  "population": "11642.8"
+}, {
+  "districtNumber": "8",
+  "district": "Schwanthalerhohe",
+  "unemployed": "693.5",
+  "shape": "weiblich",
+  "year": 2014,
+  "unemployedPercent": "6.4",
+  "population": "10869"
+}, {
+  "districtNumber": "25",
+  "district": "Laim",
+  "unemployed": "1017.3",
+  "shape": "weiblich",
+  "year": 2014,
+  "unemployedPercent": "5.3",
+  "population": "19248.3"
+}, {
+  "districtNumber": "8",
+  "district": "Schwanthalerhohe",
+  "unemployed": "610",
+  "shape": "deutsch",
+  "year": 2014,
+  "unemployedPercent": "4.2",
+  "population": "14411.3"
+}, {
+  "districtNumber": "14",
+  "district": "Berg am Laim",
+  "unemployed": "1052",
+  "shape": "deutsch",
+  "year": 2014,
+  "unemployedPercent": "5.3",
+  "population": "19839.3"
+}, {
+  "districtNumber": "11",
+  "district": "Milbertshofen - Am Hart",
+  "unemployed": "1803.8",
+  "shape": "mannlich",
+  "year": 2014,
+  "unemployedPercent": "6.4",
+  "population": "28386.8"
+}, {
+  "districtNumber": "17",
+  "district": "Obergiesing - Fasangarten",
+  "unemployed": "991.3",
+  "shape": "auslandisch",
+  "year": 2014,
+  "unemployedPercent": "7.7",
+  "population": "12849.5"
+}, {
+  "districtNumber": "8",
+  "district": "Schwanthalerhohe",
+  "unemployed": "680.8",
+  "shape": "auslandisch",
+  "year": 2014,
+  "unemployedPercent": "8.2",
+  "population": "8273"
+}, {
+  "districtNumber": "22",
+  "district": "Aubing - Lochhausen - Langwied",
+  "unemployed": "809",
+  "shape": "auslandisch",
+  "year": 2014,
+  "unemployedPercent": "10",
+  "population": "8069.5"
+}, {
+  "districtNumber": "1",
+  "district": "Moosach",
+  "unemployed": "1178",
+  "shape": "deutsch",
+  "year": 2014,
+  "unemployedPercent": "5",
+  "population": "23609"
+}, {
+  "districtNumber": "22",
+  "district": "Aubing - Lochhausen - Langwied",
+  "unemployed": "729.8",
+  "shape": "deutsch",
+  "year": 2014,
+  "unemployedPercent": "3.7",
+  "population": "19483"
+}, {
+  "districtNumber": "13",
+  "district": "Bogenhausen",
+  "unemployed": "850.8",
+  "shape": "auslandisch",
+  "year": 2014,
+  "unemployedPercent": "5.9",
+  "population": "14314"
+}, {
+  "districtNumber": "17",
+  "district": "Obergiesing - Fasangarten",
+  "unemployed": "1050.8",
+  "shape": "deutsch",
+  "year": 2014,
+  "unemployedPercent": "4.2",
+  "population": "25120.3"
+}, {
+  "districtNumber": "14",
+  "district": "Berg am Laim",
+  "unemployed": "1174.5",
+  "shape": "auslandisch",
+  "year": 2014,
+  "unemployedPercent": "11",
+  "population": "10653"
+}, {
+  "districtNumber": "22",
+  "district": "Aubing - Lochhausen - Langwied",
+  "unemployed": "715",
+  "shape": "mannlich",
+  "year": 2014,
+  "unemployedPercent": "5.1",
+  "population": "13984"
+}, {
+  "districtNumber": "1",
+  "district": "Moosach",
+  "unemployed": "1302",
+  "shape": "auslandisch",
+  "year": 2014,
+  "unemployedPercent": "10.3",
+  "population": "12637.8"
+}, {
+  "districtNumber": "5",
+  "district": "Au - Haidhausen",
+  "unemployed": "722",
+  "shape": "mannlich",
+  "year": 2014,
+  "unemployedPercent": "3.3",
+  "population": "22019.8"
+}, {
+  "districtNumber": "13",
+  "district": "Bogenhausen",
+  "unemployed": "981.8",
+  "shape": "weiblich",
+  "year": 2014,
+  "unemployedPercent": "3.4",
+  "population": "28544.5"
+}, {
+  "districtNumber": "3",
+  "district": "Maxvorstadt",
+  "unemployed": "598",
+  "shape": "mannlich",
+  "year": 2014,
+  "unemployedPercent": "2.8",
+  "population": "21342.8"
+}, {
+  "districtNumber": "17",
+  "district": "Obergiesing - Fasangarten",
+  "unemployed": "986",
+  "shape": "mannlich",
+  "year": 2014,
+  "unemployedPercent": "5.1",
+  "population": "19374"
+}, {
+  "districtNumber": "19",
+  "district": "Thalkirchen - Obersendling - Forstenried - Furstenried - Solln",
+  "unemployed": "1346.3",
+  "shape": "weiblich",
+  "year": 2014,
+  "unemployedPercent": "4.5",
+  "population": "29891.5"
+}, {
+  "districtNumber": "14",
+  "district": "Berg am Laim",
+  "unemployed": "1170.3",
+  "shape": "weiblich",
+  "year": 2014,
+  "unemployedPercent": "7.7",
+  "population": "15195"
+}, {
+  "districtNumber": "2",
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "unemployed": "613.3",
+  "shape": "weiblich",
+  "year": 2014,
+  "unemployedPercent": "3.2",
+  "population": "19402.5"
+}, {
+  "districtNumber": "25",
+  "district": "Laim",
+  "unemployed": "996.8",
+  "shape": "deutsch",
+  "year": 2014,
+  "unemployedPercent": "3.7",
+  "population": "26828.5"
+}, {
+  "districtNumber": "18",
+  "district": "Untergiesing - Harlaching",
+  "unemployed": "797.5",
+  "shape": "auslandisch",
+  "year": 2014,
+  "unemployedPercent": "8.4",
+  "population": "9537.3"
+}, {
+  "districtNumber": "23",
+  "district": "Allach - Untermenzing",
+  "unemployed": "408.3",
+  "shape": "mannlich",
+  "year": 2014,
+  "unemployedPercent": "3.9",
+  "population": "10399.5"
+}, {
+  "districtNumber": "19",
+  "district": "Thalkirchen - Obersendling - Forstenried - Furstenried - Solln",
+  "unemployed": "1309.3",
+  "shape": "auslandisch",
+  "year": 2014,
+  "unemployedPercent": "7.6",
+  "population": "17228.3"
+}, {
+  "districtNumber": "13",
+  "district": "Bogenhausen",
+  "unemployed": "766.8",
+  "shape": "mannlich",
+  "year": 2014,
+  "unemployedPercent": "2.9",
+  "population": "26895"
+}, {
+  "districtNumber": "8",
+  "district": "Schwanthalerhohe",
+  "unemployed": "597.3",
+  "shape": "mannlich",
+  "year": 2014,
+  "unemployedPercent": "5.1",
+  "population": "11815.3"
+}, {
+  "districtNumber": "25",
+  "district": "Laim",
+  "unemployed": "968.8",
+  "shape": "mannlich",
+  "year": 2014,
+  "unemployedPercent": "5.1",
+  "population": "18916.8"
+}, {
+  "districtNumber": "19",
+  "district": "Thalkirchen - Obersendling - Forstenried - Furstenried - Solln",
+  "unemployed": "1203.8",
+  "shape": "mannlich",
+  "year": 2014,
+  "unemployedPercent": "4.1",
+  "population": "29479.3"
+}, {
+  "districtNumber": "14",
+  "district": "Berg am Laim",
+  "unemployed": "1056.3",
+  "shape": "mannlich",
+  "year": 2014,
+  "unemployedPercent": "6.9",
+  "population": "15297.3"
+}, {
+  "districtNumber": "22",
+  "district": "Aubing - Lochhausen - Langwied",
+  "unemployed": "823.8",
+  "shape": "weiblich",
+  "year": 2014,
+  "unemployedPercent": "6.1",
+  "population": "13568.5"
+}, {
+  "districtNumber": "19",
+  "district": "Thalkirchen - Obersendling - Forstenried - Furstenried - Solln",
+  "unemployed": "1240.8",
+  "shape": "deutsch",
+  "year": 2014,
+  "unemployedPercent": "2.9",
+  "population": "42142.5"
+}, {
+  "districtNumber": "5",
+  "district": "Au - Haidhausen",
+  "unemployed": "751",
+  "shape": "weiblich",
+  "year": 2014,
+  "unemployedPercent": "3.3",
+  "population": "22790.3"
+}, {
+  "districtNumber": "18",
+  "district": "Untergiesing - Harlaching",
+  "unemployed": "779.8",
+  "shape": "weiblich",
+  "year": 2014,
+  "unemployedPercent": "4.3",
+  "population": "18196.8"
+}, {
+  "districtNumber": "9",
+  "district": "Neuhausen - Nymphenburg",
+  "unemployed": "1402.5",
+  "shape": "weiblich",
+  "year": 2014,
+  "unemployedPercent": "3.9",
+  "population": "35619.8"
+}, {
+  "districtNumber": "2",
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "unemployed": "881.3",
+  "shape": "deutsch",
+  "year": 2014,
+  "unemployedPercent": "3.2",
+  "population": "27935.3"
+}, {
+  "districtNumber": "24",
+  "district": "Feldmoching - Hasenbergl",
+  "unemployed": "1379.3",
+  "shape": "deutsch",
+  "year": 2014,
+  "unemployedPercent": "5.5",
+  "population": "24949.3"
+}, {
+  "districtNumber": "2",
+  "district": "Hadern",
+  "unemployed": "836",
+  "shape": "deutsch",
+  "year": 2014,
+  "unemployedPercent": "3.8",
+  "population": "22066.5"
+}, {
+  "districtNumber": "24",
+  "district": "Feldmoching - Hasenbergl",
+  "unemployed": "1360.3",
+  "shape": "auslandisch",
+  "year": 2014,
+  "unemployedPercent": "9.1",
+  "population": "14967.3"
+}, {
+  "districtNumber": "2",
+  "district": "Hadern",
+  "unemployed": "911.8",
+  "shape": "auslandisch",
+  "year": 2014,
+  "unemployedPercent": "8.9",
+  "population": "10261.3"
+}, {
+  "districtNumber": "24",
+  "district": "Feldmoching - Hasenbergl",
+  "unemployed": "1240.5",
+  "shape": "mannlich",
+  "year": 2014,
+  "unemployedPercent": "5.9",
+  "population": "21010.3"
+}, {
+  "districtNumber": "1",
+  "district": "Moosach",
+  "unemployed": "1250.3",
+  "shape": "mannlich",
+  "year": 2014,
+  "unemployedPercent": "6.7",
+  "population": "18694.8"
+}, {
+  "districtNumber": "2",
+  "district": "Hadern",
+  "unemployed": "762.8",
+  "shape": "mannlich",
+  "year": 2014,
+  "unemployedPercent": "4.9",
+  "population": "15649.5"
+}, {
+  "districtNumber": "2",
+  "district": "Hadern",
+  "unemployed": "985",
+  "shape": "weiblich",
+  "year": 2014,
+  "unemployedPercent": "5.9",
+  "population": "16678.3"
+}, {
+  "districtNumber": "24",
+  "district": "Feldmoching - Hasenbergl",
+  "unemployed": "1499",
+  "shape": "weiblich",
+  "year": 2014,
+  "unemployedPercent": "7.9",
+  "population": "18906.3"
+}, {
+  "districtNumber": "16",
+  "district": "Ramersdorf - Perlach",
+  "unemployed": "2626.3",
+  "shape": "deutsch",
+  "year": 2014,
+  "unemployedPercent": "5.8",
+  "population": "45257.5"
+}, {
+  "districtNumber": "6",
+  "district": "Sendling",
+  "unemployed": "806.3",
+  "shape": "auslandisch",
+  "year": 2014,
+  "unemployedPercent": "9.2",
+  "population": "8785"
+}, {
+  "districtNumber": "11",
+  "district": "Milbertshofen - Am Hart",
+  "unemployed": "2132.3",
+  "shape": "auslandisch",
+  "year": 2014,
+  "unemployedPercent": "8.8",
+  "population": "24142.8"
+}, {
+  "districtNumber": "6",
+  "district": "Sendling",
+  "unemployed": "814",
+  "shape": "weiblich",
+  "year": 2014,
+  "unemployedPercent": "5.5",
+  "population": "14828.5"
+}, {
+  "districtNumber": "4",
+  "district": "Schwabing - West",
+  "unemployed": "555",
+  "shape": "auslandisch",
+  "year": 2014,
+  "unemployedPercent": "4.5",
+  "population": "12285.8"
+}, {
+  "districtNumber": "16",
+  "district": "Ramersdorf - Perlach",
+  "unemployed": "3176",
+  "shape": "auslandisch",
+  "year": 2014,
+  "unemployedPercent": "11.8",
+  "population": "26933.3"
+}, {
+  "districtNumber": "11",
+  "district": "Milbertshofen - Am Hart",
+  "unemployed": "2122.8",
+  "shape": "weiblich",
+  "year": 2014,
+  "unemployedPercent": "8.4",
+  "population": "25153.8"
+}, {
+  "districtNumber": "12",
+  "district": "Schwabing - Freimann",
+  "unemployed": "1005",
+  "shape": "mannlich",
+  "year": 2014,
+  "unemployedPercent": "3.6",
+  "population": "27568.5"
+}, {
+  "districtNumber": "12",
+  "district": "Schwabing - Freimann",
+  "unemployed": "1130.3",
+  "shape": "weiblich",
+  "year": 2014,
+  "unemployedPercent": "4.5",
+  "population": "25028.8"
+}, {
+  "districtNumber": "23",
+  "district": "Allach - Untermenzing",
+  "unemployed": "405.8",
+  "shape": "deutsch",
+  "year": 2014,
+  "unemployedPercent": "2.6",
+  "population": "15638.3"
+}, {
+  "districtNumber": "11",
+  "district": "Milbertshofen - Am Hart",
+  "unemployed": "1794.3",
+  "shape": "deutsch",
+  "year": 2014,
+  "unemployedPercent": "6.1",
+  "population": "29397.8"
+}, {
+  "districtNumber": "23",
+  "district": "Allach - Untermenzing",
+  "unemployed": "427.8",
+  "shape": "weiblich",
+  "year": 2014,
+  "unemployedPercent": "4.3",
+  "population": "10060.3"
+}, {
+  "districtNumber": "1",
+  "district": "Altstadt - Lehel",
+  "unemployed": "186",
+  "shape": "deutsch",
+  "year": 2014,
+  "unemployedPercent": "1.7",
+  "population": "10909.5"
+}, {
+  "districtNumber": "7",
+  "district": "Sendling - Westpark",
+  "unemployed": "1047",
+  "shape": "deutsch",
+  "year": 2014,
+  "unemployedPercent": "3.9",
+  "population": "26731"
+}, {
+  "districtNumber": "15",
+  "district": "Trudering - Riem",
+  "unemployed": "981.5",
+  "shape": "mannlich",
+  "year": 2014,
+  "unemployedPercent": "4.3",
+  "population": "22646"
+}, {
+  "districtNumber": "15",
+  "district": "Trudering - Riem",
+  "unemployed": "1249.8",
+  "shape": "weiblich",
+  "year": 2014,
+  "unemployedPercent": "5.5",
+  "population": "22521"
+}, {
+  "districtNumber": "4",
+  "district": "Schwabing - West",
+  "unemployed": "691",
+  "shape": "weiblich",
+  "year": 2014,
+  "unemployedPercent": "2.8",
+  "population": "25034.5"
+}, {
+  "districtNumber": "6",
+  "district": "Sendling",
+  "unemployed": "832",
+  "shape": "deutsch",
+  "year": 2014,
+  "unemployedPercent": "3.9",
+  "population": "21293"
+}, {
+  "districtNumber": "7",
+  "district": "Sendling - Westpark",
+  "unemployed": "1257",
+  "shape": "weiblich",
+  "year": 2014,
+  "unemployedPercent": "6.5",
+  "population": "19312.5"
+}, {
+  "districtNumber": "12",
+  "district": "Schwabing - Freimann",
+  "unemployed": "1139",
+  "shape": "deutsch",
+  "year": 2014,
+  "unemployedPercent": "3.2",
+  "population": "35589.5"
+}, {
+  "districtNumber": "7",
+  "district": "Sendling - Westpark",
+  "unemployed": "1108.8",
+  "shape": "mannlich",
+  "year": 2014,
+  "unemployedPercent": "5.7",
+  "population": "19567.3"
+}, {
+  "districtNumber": "12",
+  "district": "Schwabing - Freimann",
+  "unemployed": "996.3",
+  "shape": "auslandisch",
+  "year": 2014,
+  "unemployedPercent": "5.9",
+  "population": "17007.8"
+}, {
+  "districtNumber": "7",
+  "district": "Sendling - Westpark",
+  "unemployed": "1318.8",
+  "shape": "auslandisch",
+  "year": 2014,
+  "unemployedPercent": "10.9",
+  "population": "12148.8"
+}, {
+  "districtNumber": "15",
+  "district": "Trudering - Riem",
+  "unemployed": "1041.3",
+  "shape": "deutsch",
+  "year": 2014,
+  "unemployedPercent": "3.1",
+  "population": "34011"
+}, {
+  "districtNumber": "4",
+  "district": "Schwabing - West",
+  "unemployed": "659.5",
+  "shape": "mannlich",
+  "year": 2014,
+  "unemployedPercent": "2.8",
+  "population": "23350"
+}, {
+  "districtNumber": "23",
+  "district": "Allach - Untermenzing",
+  "unemployed": "430.3",
+  "shape": "auslandisch",
+  "year": 2014,
+  "unemployedPercent": "8.9",
+  "population": "4821.5"
+}, {
+  "districtNumber": "4",
+  "district": "Schwabing - West",
+  "unemployed": "795.5",
+  "shape": "deutsch",
+  "year": 2014,
+  "unemployedPercent": "2.2",
+  "population": "36098.8"
+}, {
+  "districtNumber": "16",
+  "district": "Ramersdorf - Perlach",
+  "unemployed": "2628.5",
+  "shape": "mannlich",
+  "year": 2014,
+  "unemployedPercent": "7.3",
+  "population": "36109.8"
+}, {
+  "districtNumber": "16",
+  "district": "Ramersdorf - Perlach",
+  "unemployed": "3173.8",
+  "shape": "weiblich",
+  "year": 2014,
+  "unemployedPercent": "8.8",
+  "population": "36081"
+}, {
+  "districtNumber": "1",
+  "district": "Altstadt - Lehel",
+  "unemployed": "138.5",
+  "shape": "weiblich",
+  "year": 2014,
+  "unemployedPercent": "1.9",
+  "population": "7449.5"
+}, {
+  "districtNumber": "1",
+  "district": "Altstadt - Lehel",
+  "unemployed": "112",
+  "shape": "auslandisch",
+  "year": 2014,
+  "unemployedPercent": "2.6",
+  "population": "4376.8"
+}, {
+  "districtNumber": "15",
+  "district": "Trudering - Riem",
+  "unemployed": "1190",
+  "shape": "auslandisch",
+  "year": 2014,
+  "unemployedPercent": "10.7",
+  "population": "11156"
+}, {
+  "districtNumber": "6",
+  "district": "Sendling",
+  "unemployed": "824.3",
+  "shape": "mannlich",
+  "year": 2014,
+  "unemployedPercent": "5.4",
+  "population": "15249.5"
+}, {
+  "districtNumber": "1",
+  "district": "Altstadt - Lehel",
+  "unemployed": "159.5",
+  "shape": "mannlich",
+  "year": 2014,
+  "unemployedPercent": "2",
+  "population": "7836.8"
+}, {
+  "districtNumber": "9",
+  "district": "Neuhausen - Nymphenburg",
+  "unemployed": "1402.8",
+  "shape": "weiblich",
+  "year": 2015,
+  "unemployedPercent": "3.9",
+  "population": "35819"
+}, {
+  "districtNumber": "17",
+  "district": "Obergiesing - Fasangarten",
+  "unemployed": "1102.3",
+  "shape": "weiblich",
+  "year": 2015,
+  "unemployedPercent": "5.8",
+  "population": "19161"
+}, {
+  "districtNumber": "17",
+  "district": "Obergiesing - Fasangarten",
+  "unemployed": "1050",
+  "shape": "deutsch",
+  "year": 2015,
+  "unemployedPercent": "4.1",
+  "population": "25685.3"
+}, {
+  "districtNumber": "19",
+  "district": "Thalkirchen - Obersendling - Forstenried - Furstenried - Solln",
+  "unemployed": "1252",
+  "shape": "deutsch",
+  "year": 2015,
+  "unemployedPercent": "2.9",
+  "population": "42480"
+}, {
+  "districtNumber": "15",
+  "district": "Trudering - Riem",
+  "unemployed": "1034.5",
+  "shape": "mannlich",
+  "year": 2015,
+  "unemployedPercent": "4.4",
+  "population": "23337.5"
+}, {
+  "districtNumber": "16",
+  "district": "Ramersdorf - Perlach",
+  "unemployed": "3250.5",
+  "shape": "weiblich",
+  "year": 2015,
+  "unemployedPercent": "8.9",
+  "population": "36702.3"
+}, {
+  "districtNumber": "2",
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "unemployed": "685.3",
+  "shape": "weiblich",
+  "year": 2015,
+  "unemployedPercent": "3.4",
+  "population": "20087.3"
+}, {
+  "districtNumber": "4",
+  "district": "Schwabing - West",
+  "unemployed": "695.3",
+  "shape": "mannlich",
+  "year": 2015,
+  "unemployedPercent": "2.9",
+  "population": "23826"
+}, {
+  "districtNumber": "21",
+  "district": "Pasing - Obermenzing",
+  "unemployed": "1101.8",
+  "shape": "mannlich",
+  "year": 2015,
+  "unemployedPercent": "4.6",
+  "population": "24211.8"
+}, {
+  "districtNumber": "14",
+  "district": "Berg am Laim",
+  "unemployed": "1065",
+  "shape": "deutsch",
+  "year": 2015,
+  "unemployedPercent": "5.4",
+  "population": "19851"
+}, {
+  "districtNumber": "3",
+  "district": "Maxvorstadt",
+  "unemployed": "519.8",
+  "shape": "weiblich",
+  "year": 2015,
+  "unemployedPercent": "2.5",
+  "population": "20762.8"
+}, {
+  "districtNumber": "2",
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "unemployed": "894.8",
+  "shape": "mannlich",
+  "year": 2015,
+  "unemployedPercent": "4",
+  "population": "22116.5"
+}, {
+  "districtNumber": "16",
+  "district": "Ramersdorf - Perlach",
+  "unemployed": "2662.8",
+  "shape": "mannlich",
+  "year": 2015,
+  "unemployedPercent": "7.2",
+  "population": "36912.8"
+}, {
+  "districtNumber": "2",
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "unemployed": "826.5",
+  "shape": "deutsch",
+  "year": 2015,
+  "unemployedPercent": "2.9",
+  "population": "28110"
+}, {
+  "districtNumber": "25",
+  "district": "Laim",
+  "unemployed": "1006.3",
+  "shape": "deutsch",
+  "year": 2015,
+  "unemployedPercent": "3.8",
+  "population": "26770"
+}, {
+  "districtNumber": "18",
+  "district": "Untergiesing - Harlaching",
+  "unemployed": "768.3",
+  "shape": "weiblich",
+  "year": 2015,
+  "unemployedPercent": "4.2",
+  "population": "18350.8"
+}, {
+  "districtNumber": "14",
+  "district": "Berg am Laim",
+  "unemployed": "1193.5",
+  "shape": "weiblich",
+  "year": 2015,
+  "unemployedPercent": "7.8",
+  "population": "15399.5"
+}, {
+  "districtNumber": "21",
+  "district": "Pasing - Obermenzing",
+  "unemployed": "1130.8",
+  "shape": "weiblich",
+  "year": 2015,
+  "unemployedPercent": "4.7",
+  "population": "24108.8"
+}, {
+  "districtNumber": "18",
+  "district": "Untergiesing - Harlaching",
+  "unemployed": "878",
+  "shape": "deutsch",
+  "year": 2015,
+  "unemployedPercent": "3.3",
+  "population": "26408.3"
+}, {
+  "districtNumber": "1",
+  "district": "Altstadt - Lehel",
+  "unemployed": "170.8",
+  "shape": "mannlich",
+  "year": 2015,
+  "unemployedPercent": "2.1",
+  "population": "7955.8"
+}, {
+  "districtNumber": "17",
+  "district": "Obergiesing - Fasangarten",
+  "unemployed": "1002.5",
+  "shape": "mannlich",
+  "year": 2015,
+  "unemployedPercent": "5",
+  "population": "20146.3"
+}, {
+  "districtNumber": "9",
+  "district": "Neuhausen - Nymphenburg",
+  "unemployed": "1411.3",
+  "shape": "deutsch",
+  "year": 2015,
+  "unemployedPercent": "2.8",
+  "population": "50364.3"
+}, {
+  "districtNumber": "3",
+  "district": "Maxvorstadt",
+  "unemployed": "667.5",
+  "shape": "deutsch",
+  "year": 2015,
+  "unemployedPercent": "2.2",
+  "population": "30133.3"
+}, {
+  "districtNumber": "6",
+  "district": "Sendling",
+  "unemployed": "847",
+  "shape": "mannlich",
+  "year": 2015,
+  "unemployedPercent": "5.5",
+  "population": "15407.8"
+}, {
+  "districtNumber": "6",
+  "district": "Sendling",
+  "unemployed": "844.3",
+  "shape": "weiblich",
+  "year": 2015,
+  "unemployedPercent": "5.7",
+  "population": "14933.5"
+}, {
+  "districtNumber": "21",
+  "district": "Pasing - Obermenzing",
+  "unemployed": "1023.8",
+  "shape": "deutsch",
+  "year": 2015,
+  "unemployedPercent": "2.9",
+  "population": "35686.3"
+}, {
+  "districtNumber": "2",
+  "district": "Hadern",
+  "unemployed": "893.5",
+  "shape": "auslandisch",
+  "year": 2015,
+  "unemployedPercent": "8.2",
+  "population": "10857.5"
+}, {
+  "districtNumber": "13",
+  "district": "Bogenhausen",
+  "unemployed": "824.3",
+  "shape": "mannlich",
+  "year": 2015,
+  "unemployedPercent": "3",
+  "population": "27680.8"
+}, {
+  "districtNumber": "5",
+  "district": "Au - Haidhausen",
+  "unemployed": "672.8",
+  "shape": "auslandisch",
+  "year": 2015,
+  "unemployedPercent": "5.6",
+  "population": "12119.8"
+}, {
+  "districtNumber": "22",
+  "district": "Aubing - Lochhausen - Langwied",
+  "unemployed": "805.3",
+  "shape": "auslandisch",
+  "year": 2015,
+  "unemployedPercent": "9.5",
+  "population": "8491.3"
+}, {
+  "districtNumber": "8",
+  "district": "Schwanthalerhohe",
+  "unemployed": "590.3",
+  "shape": "mannlich",
+  "year": 2015,
+  "unemployedPercent": "4.9",
+  "population": "11940.8"
+}, {
+  "districtNumber": "13",
+  "district": "Bogenhausen",
+  "unemployed": "973.8",
+  "shape": "weiblich",
+  "year": 2015,
+  "unemployedPercent": "3.4",
+  "population": "28981.3"
+}, {
+  "districtNumber": "8",
+  "district": "Schwanthalerhohe",
+  "unemployed": "665.5",
+  "shape": "weiblich",
+  "year": 2015,
+  "unemployedPercent": "6.1",
+  "population": "10953.5"
+}, {
+  "districtNumber": "22",
+  "district": "Aubing - Lochhausen - Langwied",
+  "unemployed": "734.3",
+  "shape": "mannlich",
+  "year": 2015,
+  "unemployedPercent": "5.2",
+  "population": "14170.8"
+}, {
+  "districtNumber": "1",
+  "district": "Moosach",
+  "unemployed": "1215",
+  "shape": "deutsch",
+  "year": 2015,
+  "unemployedPercent": "5.1",
+  "population": "23621.5"
+}, {
+  "districtNumber": "5",
+  "district": "Au - Haidhausen",
+  "unemployed": "742.3",
+  "shape": "weiblich",
+  "year": 2015,
+  "unemployedPercent": "3.2",
+  "population": "23092.5"
+}, {
+  "districtNumber": "13",
+  "district": "Bogenhausen",
+  "unemployed": "919.3",
+  "shape": "auslandisch",
+  "year": 2015,
+  "unemployedPercent": "5.9",
+  "population": "15581.3"
+}, {
+  "districtNumber": "2",
+  "district": "Hadern",
+  "unemployed": "851.3",
+  "shape": "deutsch",
+  "year": 2015,
+  "unemployedPercent": "3.9",
+  "population": "21883"
+}, {
+  "districtNumber": "24",
+  "district": "Feldmoching - Hasenbergl",
+  "unemployed": "1318",
+  "shape": "mannlich",
+  "year": 2015,
+  "unemployedPercent": "6.1",
+  "population": "21501.8"
+}, {
+  "districtNumber": "5",
+  "district": "Au - Haidhausen",
+  "unemployed": "744.8",
+  "shape": "mannlich",
+  "year": 2015,
+  "unemployedPercent": "3.3",
+  "population": "22389.8"
+}, {
+  "districtNumber": "23",
+  "district": "Allach - Untermenzing",
+  "unemployed": "492.5",
+  "shape": "auslandisch",
+  "year": 2015,
+  "unemployedPercent": "9.4",
+  "population": "5222.8"
+}, {
+  "districtNumber": "7",
+  "district": "Sendling - Westpark",
+  "unemployed": "1192.3",
+  "shape": "mannlich",
+  "year": 2015,
+  "unemployedPercent": "5.9",
+  "population": "20216"
+}, {
+  "districtNumber": "22",
+  "district": "Aubing - Lochhausen - Langwied",
+  "unemployed": "827",
+  "shape": "weiblich",
+  "year": 2015,
+  "unemployedPercent": "6",
+  "population": "13702.3"
+}, {
+  "districtNumber": "24",
+  "district": "Feldmoching - Hasenbergl",
+  "unemployed": "1415.8",
+  "shape": "deutsch",
+  "year": 2015,
+  "unemployedPercent": "5.7",
+  "population": "24960.5"
+}, {
+  "districtNumber": "11",
+  "district": "Milbertshofen - Am Hart",
+  "unemployed": "1884.5",
+  "shape": "mannlich",
+  "year": 2015,
+  "unemployedPercent": "6.5",
+  "population": "28824.5"
+}, {
+  "districtNumber": "23",
+  "district": "Allach - Untermenzing",
+  "unemployed": "454",
+  "shape": "weiblich",
+  "year": 2015,
+  "unemployedPercent": "4.4",
+  "population": "10225.8"
+}, {
+  "districtNumber": "11",
+  "district": "Milbertshofen - Am Hart",
+  "unemployed": "1902",
+  "shape": "deutsch",
+  "year": 2015,
+  "unemployedPercent": "6.5",
+  "population": "29130"
+}, {
+  "districtNumber": "2",
+  "district": "Hadern",
+  "unemployed": "758",
+  "shape": "mannlich",
+  "year": 2015,
+  "unemployedPercent": "4.8",
+  "population": "15929.5"
+}, {
+  "districtNumber": "2",
+  "district": "Hadern",
+  "unemployed": "986.8",
+  "shape": "weiblich",
+  "year": 2015,
+  "unemployedPercent": "5.9",
+  "population": "16811"
+}, {
+  "districtNumber": "12",
+  "district": "Schwabing - Freimann",
+  "unemployed": "1102.5",
+  "shape": "mannlich",
+  "year": 2015,
+  "unemployedPercent": "3.9",
+  "population": "28520.3"
+}, {
+  "districtNumber": "12",
+  "district": "Schwabing - Freimann",
+  "unemployed": "1238",
+  "shape": "weiblich",
+  "year": 2015,
+  "unemployedPercent": "4.9",
+  "population": "25433.8"
+}, {
+  "districtNumber": "7",
+  "district": "Sendling - Westpark",
+  "unemployed": "1091.8",
+  "shape": "deutsch",
+  "year": 2015,
+  "unemployedPercent": "4",
+  "population": "27020.8"
+}, {
+  "districtNumber": "12",
+  "district": "Schwabing - Freimann",
+  "unemployed": "1223.8",
+  "shape": "deutsch",
+  "year": 2015,
+  "unemployedPercent": "3.4",
+  "population": "35668.5"
+}, {
+  "districtNumber": "7",
+  "district": "Sendling - Westpark",
+  "unemployed": "1412.3",
+  "shape": "auslandisch",
+  "year": 2015,
+  "unemployedPercent": "10.8",
+  "population": "13103.8"
+}, {
+  "districtNumber": "22",
+  "district": "Aubing - Lochhausen - Langwied",
+  "unemployed": "756",
+  "shape": "deutsch",
+  "year": 2015,
+  "unemployedPercent": "3.9",
+  "population": "19381.8"
+}, {
+  "districtNumber": "8",
+  "district": "Schwanthalerhohe",
+  "unemployed": "658.3",
+  "shape": "auslandisch",
+  "year": 2015,
+  "unemployedPercent": "7.8",
+  "population": "8464"
+}, {
+  "districtNumber": "24",
+  "district": "Feldmoching - Hasenbergl",
+  "unemployed": "1578.5",
+  "shape": "weiblich",
+  "year": 2015,
+  "unemployedPercent": "8.2",
+  "population": "19203.8"
+}, {
+  "districtNumber": "1",
+  "district": "Moosach",
+  "unemployed": "1310.8",
+  "shape": "auslandisch",
+  "year": 2015,
+  "unemployedPercent": "9.9",
+  "population": "13174.3"
+}, {
+  "districtNumber": "1",
+  "district": "Moosach",
+  "unemployed": "1264",
+  "shape": "weiblich",
+  "year": 2015,
+  "unemployedPercent": "7.1",
+  "population": "17714.8"
+}, {
+  "districtNumber": "11",
+  "district": "Milbertshofen - Am Hart",
+  "unemployed": "2241.8",
+  "shape": "weiblich",
+  "year": 2015,
+  "unemployedPercent": "8.8",
+  "population": "25359.5"
+}, {
+  "districtNumber": "5",
+  "district": "Au - Haidhausen",
+  "unemployed": "814.3",
+  "shape": "deutsch",
+  "year": 2015,
+  "unemployedPercent": "2.4",
+  "population": "33362.5"
+}, {
+  "districtNumber": "13",
+  "district": "Bogenhausen",
+  "unemployed": "878.8",
+  "shape": "deutsch",
+  "year": 2015,
+  "unemployedPercent": "2.1",
+  "population": "41080.8"
+}, {
+  "districtNumber": "12",
+  "district": "Schwabing - Freimann",
+  "unemployed": "1116.8",
+  "shape": "auslandisch",
+  "year": 2015,
+  "unemployedPercent": "6.1",
+  "population": "18285.5"
+}, {
+  "districtNumber": "8",
+  "district": "Schwanthalerhohe",
+  "unemployed": "597.5",
+  "shape": "deutsch",
+  "year": 2015,
+  "unemployedPercent": "4.1",
+  "population": "14430.3"
+}, {
+  "districtNumber": "24",
+  "district": "Feldmoching - Hasenbergl",
+  "unemployed": "1480.8",
+  "shape": "auslandisch",
+  "year": 2015,
+  "unemployedPercent": "9.4",
+  "population": "15745"
+}, {
+  "districtNumber": "23",
+  "district": "Allach - Untermenzing",
+  "unemployed": "435",
+  "shape": "mannlich",
+  "year": 2015,
+  "unemployedPercent": "4.1",
+  "population": "10627.3"
+}, {
+  "districtNumber": "23",
+  "district": "Allach - Untermenzing",
+  "unemployed": "396.5",
+  "shape": "deutsch",
+  "year": 2015,
+  "unemployedPercent": "2.5",
+  "population": "15630.3"
+}, {
+  "districtNumber": "11",
+  "district": "Milbertshofen - Am Hart",
+  "unemployed": "2224.3",
+  "shape": "auslandisch",
+  "year": 2015,
+  "unemployedPercent": "8.9",
+  "population": "25054"
+}, {
+  "districtNumber": "1",
+  "district": "Moosach",
+  "unemployed": "1261.8",
+  "shape": "mannlich",
+  "year": 2015,
+  "unemployedPercent": "6.6",
+  "population": "19081"
+}, {
+  "districtNumber": "7",
+  "district": "Sendling - Westpark",
+  "unemployed": "1311.8",
+  "shape": "weiblich",
+  "year": 2015,
+  "unemployedPercent": "6.6",
+  "population": "19908.5"
+}, {
+  "districtNumber": "3",
+  "district": "Maxvorstadt",
+  "unemployed": "418.3",
+  "shape": "auslandisch",
+  "year": 2015,
+  "unemployedPercent": "3.4",
+  "population": "12398.5"
+}, {
+  "districtNumber": "19",
+  "district": "Thalkirchen - Obersendling - Forstenried - Furstenried - Solln",
+  "unemployed": "1414.3",
+  "shape": "auslandisch",
+  "year": 2015,
+  "unemployedPercent": "7.7",
+  "population": "18423.3"
+}, {
+  "districtNumber": "1",
+  "district": "Altstadt - Lehel",
+  "unemployed": "128.8",
+  "shape": "weiblich",
+  "year": 2015,
+  "unemployedPercent": "1.7",
+  "population": "7584"
+}, {
+  "districtNumber": "4",
+  "district": "Schwabing - West",
+  "unemployed": "826",
+  "shape": "deutsch",
+  "year": 2015,
+  "unemployedPercent": "2.3",
+  "population": "36241"
+}, {
+  "districtNumber": "16",
+  "district": "Ramersdorf - Perlach",
+  "unemployed": "3209.8",
+  "shape": "auslandisch",
+  "year": 2015,
+  "unemployedPercent": "11.3",
+  "population": "28500.5"
+}, {
+  "districtNumber": "17",
+  "district": "Obergiesing - Fasangarten",
+  "unemployed": "1054.8",
+  "shape": "auslandisch",
+  "year": 2015,
+  "unemployedPercent": "7.7",
+  "population": "13622"
+}, {
+  "districtNumber": "6",
+  "district": "Sendling",
+  "unemployed": "868.3",
+  "shape": "auslandisch",
+  "year": 2015,
+  "unemployedPercent": "9.6",
+  "population": "9024"
+}, {
+  "districtNumber": "3",
+  "district": "Maxvorstadt",
+  "unemployed": "566",
+  "shape": "mannlich",
+  "year": 2015,
+  "unemployedPercent": "2.6",
+  "population": "21769"
+}, {
+  "districtNumber": "25",
+  "district": "Laim",
+  "unemployed": "1009.3",
+  "shape": "mannlich",
+  "year": 2015,
+  "unemployedPercent": "5.2",
+  "population": "19277.3"
+}, {
+  "districtNumber": "21",
+  "district": "Pasing - Obermenzing",
+  "unemployed": "1208.8",
+  "shape": "auslandisch",
+  "year": 2015,
+  "unemployedPercent": "9.6",
+  "population": "12634.3"
+}, {
+  "districtNumber": "15",
+  "district": "Trudering - Riem",
+  "unemployed": "1309",
+  "shape": "weiblich",
+  "year": 2015,
+  "unemployedPercent": "5.7",
+  "population": "22988"
+}, {
+  "districtNumber": "16",
+  "district": "Ramersdorf - Perlach",
+  "unemployed": "2703.5",
+  "shape": "deutsch",
+  "year": 2015,
+  "unemployedPercent": "6",
+  "population": "45114.5"
+}, {
+  "districtNumber": "4",
+  "district": "Schwabing - West",
+  "unemployed": "585.8",
+  "shape": "auslandisch",
+  "year": 2015,
+  "unemployedPercent": "4.5",
+  "population": "12894.3"
+}, {
+  "districtNumber": "9",
+  "district": "Neuhausen - Nymphenburg",
+  "unemployed": "1306.3",
+  "shape": "auslandisch",
+  "year": 2015,
+  "unemployedPercent": "6.6",
+  "population": "19911.8"
+}, {
+  "districtNumber": "6",
+  "district": "Sendling",
+  "unemployed": "823",
+  "shape": "deutsch",
+  "year": 2015,
+  "unemployedPercent": "3.9",
+  "population": "21317.3"
+}, {
+  "districtNumber": "14",
+  "district": "Berg am Laim",
+  "unemployed": "1074",
+  "shape": "mannlich",
+  "year": 2015,
+  "unemployedPercent": "6.8",
+  "population": "15768.5"
+}, {
+  "districtNumber": "25",
+  "district": "Laim",
+  "unemployed": "1042.3",
+  "shape": "auslandisch",
+  "year": 2015,
+  "unemployedPercent": "8.7",
+  "population": "11951.3"
+}, {
+  "districtNumber": "18",
+  "district": "Untergiesing - Harlaching",
+  "unemployed": "788",
+  "shape": "auslandisch",
+  "year": 2015,
+  "unemployedPercent": "7.8",
+  "population": "10101.8"
+}, {
+  "districtNumber": "9",
+  "district": "Neuhausen - Nymphenburg",
+  "unemployed": "1314.8",
+  "shape": "mannlich",
+  "year": 2015,
+  "unemployedPercent": "3.8",
+  "population": "34457"
+}, {
+  "districtNumber": "19",
+  "district": "Thalkirchen - Obersendling - Forstenried - Furstenried - Solln",
+  "unemployed": "1247.8",
+  "shape": "mannlich",
+  "year": 2015,
+  "unemployedPercent": "4.1",
+  "population": "30323"
+}, {
+  "districtNumber": "25",
+  "district": "Laim",
+  "unemployed": "1039.3",
+  "shape": "weiblich",
+  "year": 2015,
+  "unemployedPercent": "5.3",
+  "population": "19444"
+}, {
+  "districtNumber": "2",
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "unemployed": "753.5",
+  "shape": "auslandisch",
+  "year": 2015,
+  "unemployedPercent": "5.3",
+  "population": "14093.8"
+}, {
+  "districtNumber": "1",
+  "district": "Altstadt - Lehel",
+  "unemployed": "117",
+  "shape": "auslandisch",
+  "year": 2015,
+  "unemployedPercent": "2.5",
+  "population": "4593"
+}, {
+  "districtNumber": "18",
+  "district": "Untergiesing - Harlaching",
+  "unemployed": "897.8",
+  "shape": "mannlich",
+  "year": 2015,
+  "unemployedPercent": "4.9",
+  "population": "18159.3"
+}, {
+  "districtNumber": "19",
+  "district": "Thalkirchen - Obersendling - Forstenried - Furstenried - Solln",
+  "unemployed": "1418.5",
+  "shape": "weiblich",
+  "year": 2015,
+  "unemployedPercent": "4.6",
+  "population": "30580.3"
+}, {
+  "districtNumber": "4",
+  "district": "Schwabing - West",
+  "unemployed": "716.5",
+  "shape": "weiblich",
+  "year": 2015,
+  "unemployedPercent": "2.8",
+  "population": "25309.3"
+}, {
+  "districtNumber": "15",
+  "district": "Trudering - Riem",
+  "unemployed": "1214",
+  "shape": "auslandisch",
+  "year": 2015,
+  "unemployedPercent": "10.2",
+  "population": "11925"
+}, {
+  "districtNumber": "14",
+  "district": "Berg am Laim",
+  "unemployed": "1202.5",
+  "shape": "auslandisch",
+  "year": 2015,
+  "unemployedPercent": "10.6",
+  "population": "11317"
+}, {
+  "districtNumber": "15",
+  "district": "Trudering - Riem",
+  "unemployed": "1129.5",
+  "shape": "deutsch",
+  "year": 2015,
+  "unemployedPercent": "3.3",
+  "population": "34400.5"
+}, {
+  "districtNumber": "1",
+  "district": "Altstadt - Lehel",
+  "unemployed": "182.5",
+  "shape": "deutsch",
+  "year": 2015,
+  "unemployedPercent": "1.7",
+  "population": "10946.8"
+}]

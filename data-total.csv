@@ -1,0 +1,371 @@
+population,unemployed,shape,year,district,districtNumber,foreigners,births
+61423,2079.8,gesamt,2006,Schwabing - Freimann,12,14288,542
+65999.3,4089,gesamt,2006,Milbertshofen - Am Hart,11,23355,658
+102266.8,6015,gesamt,2006,Ramersdorf - Perlach,16,27689,957
+36713.8,1786.5,gesamt,2006,Sendling,6,9518,434
+50276.4,2495.5,gesamt,2006,Sendling - Westpark,7,11746,462
+25914.1,1487.8,gesamt,2006,Schwanthalerhöhe,8,9393,272
+37681.8,1557,gesamt,2006,Aubing - Lochhausen - Langwied,22,7018,324
+27659.2,673.3,gesamt,2006,Allach-Untermenzing,23,4498,256
+63306.5,1865.8,gesamt,2006,Pasing,21,10900,666
+44661.3,1871.3,gesamt,2006,Hadern,2,9218,413
+44661.3,1875.8,gesamt,2006,Hadern,2,9218,413
+45002.6,1871.3,gesamt,2006,Ludwigsvorstadt-Isarvorstadt,10,9218,503
+45002.6,1875.8,gesamt,2006,Ludwigsvorstadt-Isarvorstadt,10,9218,503
+49569.6,2211.8,gesamt,2006,Laim,25,10715,454
+52451.4,1517.8,gesamt,2006,Trudering-Riem,15,8723,626
+38748.1,2033.8,gesamt,2006,Berg am Laim,14,10125,384
+18800.8,421.3,gesamt,2006,Altstadt-Lehel,1,4154,174
+18800.8,2338.5,gesamt,2006,Altstadt-Lehel,1,4154,174
+47543.3,421.3,gesamt,2006,Moosach,1,4154,480
+47543.3,2338.5,gesamt,2006,Moosach,1,4154,480
+44382.3,1443.3,gesamt,2006,Maxvorstadt,3,10838,425
+83650.3,2902.3,gesamt,2006,Neuhausen-Nymphenburg,9,18016,852
+53577.3,1976,gesamt,2006,Au-Haidhausen,5,12367,594
+74864.7,1984.8,gesamt,2006,Bogenhausen,13,13419,772
+44661.3,1871.3,gesamt,2006,Hadern,2,12797,413
+44661.3,1875.8,gesamt,2006,Hadern,2,12797,413
+45002.6,1871.3,gesamt,2006,Ludwigsvorstadt-Isarvorstadt,10,12797,503
+45002.6,1875.8,gesamt,2006,Ludwigsvorstadt-Isarvorstadt,10,12797,503
+57940.5,1701.5,gesamt,2006,Schwabing-West,4,12323,595
+47611.7,1814.3,gesamt,2006,Untergiesing - Harlaching,18,9337,442
+53975.8,2897,gesamt,2006,Feldmoching-Hasenbergl,24,13927,502
+46238.1,2183.5,gesamt,2006,Obergiesing - Fasangarten,17,12914,496
+79940.2,2322,gesamt,2006,Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln,19,15219,744
+18800.8,421.3,gesamt,2006,Altstadt-Lehel,1,11942,174
+18800.8,2338.5,gesamt,2006,Altstadt-Lehel,1,11942,174
+47543.3,421.3,gesamt,2006,Moosach,1,11942,480
+47543.3,2338.5,gesamt,2006,Moosach,1,11942,480
+81536,2320.3,gesamt,2007,Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln,19,15849,776
+50388.3,2141.3,gesamt,2007,Laim,25,11010,450
+76111.5,1922.5,gesamt,2007,Bogenhausen,13,13892,778
+46103.2,1726.8,gesamt,2007,Ludwigsvorstadt-Isarvorstadt,10,9744,517
+46103.2,1899,gesamt,2007,Ludwigsvorstadt-Isarvorstadt,10,9744,517
+45468.1,1726.8,gesamt,2007,Hadern,2,9744,407
+45468.1,1899,gesamt,2007,Hadern,2,9744,407
+55357.4,1667,gesamt,2007,Trudering-Riem,15,9223,670
+48491.3,1758.8,gesamt,2007,Untergiesing - Harlaching,18,9659,484
+51319.1,2511.8,gesamt,2007,Sendling - Westpark,7,11830,496
+37586.7,1753.3,gesamt,2007,Sendling,6,9732,440
+47357.2,2185.8,gesamt,2007,Obergiesing - Fasangarten,17,13153,500
+26427.7,1446.3,gesamt,2007,Schwanthalerhöhe,8,9491,314
+37940.1,1488,gesamt,2007,Aubing - Lochhausen - Langwied,22,7082,336
+28027.5,672.5,gesamt,2007,Allach-Untermenzing,23,4540,259
+67535.5,3945.3,gesamt,2007,Milbertshofen - Am Hart,11,23903,667
+48050.6,2422,gesamt,2007,Moosach,1,12192,474
+48050.6,374.3,gesamt,2007,Moosach,1,12192,474
+19072.8,2422,gesamt,2007,Altstadt-Lehel,1,12192,200
+19072.8,374.3,gesamt,2007,Altstadt-Lehel,1,12192,200
+46813.4,1369.3,gesamt,2007,Maxvorstadt,3,11111,459
+39358.4,2013.5,gesamt,2007,Berg am Laim,14,10521,413
+64345,1806.8,gesamt,2007,Pasing,21,11067,677
+63029.9,2025.5,gesamt,2007,Schwabing - Freimann,12,14542,612
+85296,2702.8,gesamt,2007,Neuhausen-Nymphenburg,9,18118,898
+103251.7,6093.8,gesamt,2007,Ramersdorf - Perlach,16,28005,1008
+60747.5,1636.8,gesamt,2007,Schwabing-West,4,12653,634
+54878.7,1861.5,gesamt,2007,Au-Haidhausen,5,12247,633
+54868.6,2901.5,gesamt,2007,Feldmoching-Hasenbergl,24,14642,548
+48050.6,2422,gesamt,2007,Moosach,1,4290,474
+48050.6,374.3,gesamt,2007,Moosach,1,4290,474
+19072.8,2422,gesamt,2007,Altstadt-Lehel,1,4290,200
+19072.8,374.3,gesamt,2007,Altstadt-Lehel,1,4290,200
+46103.2,1726.8,gesamt,2007,Ludwigsvorstadt-Isarvorstadt,10,12824,517
+46103.2,1899,gesamt,2007,Ludwigsvorstadt-Isarvorstadt,10,12824,517
+45468.1,1726.8,gesamt,2007,Hadern,2,12824,407
+45468.1,1899,gesamt,2007,Hadern,2,12824,407
+67710.9,3831.3,gesamt,2008,Milbertshofen - Am Hart,11,24105,642
+82444,2229.3,gesamt,2008,Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln,19,15964,802
+76878.8,1873.8,gesamt,2008,Bogenhausen,13,14097,825
+47159.2,1851,gesamt,2008,Ludwigsvorstadt-Isarvorstadt,10,13042,573
+47159.2,1596.5,gesamt,2008,Ludwigsvorstadt-Isarvorstadt,10,13042,573
+46137.5,1851,gesamt,2008,Hadern,2,13042,400
+46137.5,1596.5,gesamt,2008,Hadern,2,13042,400
+47996.1,2124.5,gesamt,2008,Obergiesing - Fasangarten,17,13394,511
+38082.3,1685.5,gesamt,2008,Sendling,6,9730,509
+27376.1,1427.3,gesamt,2008,Schwanthalerhöhe,8,9819,316
+38169.5,1366.5,gesamt,2008,Aubing - Lochhausen - Langwied,22,7213,348
+28539.2,642.8,gesamt,2008,Allach-Untermenzing,23,4646,280
+39870.1,1906.5,gesamt,2008,Berg am Laim,14,10746,419
+62070.2,1505,gesamt,2008,Schwabing-West,4,12635,707
+57946.8,1740.3,gesamt,2008,Trudering-Riem,15,9876,694
+103798.8,6067.3,gesamt,2008,Ramersdorf - Perlach,16,28602,986
+48368.6,2322.5,gesamt,2008,Moosach,1,12352,490
+48368.6,352.5,gesamt,2008,Moosach,1,12352,490
+19354.8,2322.5,gesamt,2008,Altstadt-Lehel,1,12352,205
+19354.8,352.5,gesamt,2008,Altstadt-Lehel,1,12352,205
+51870.3,2459.8,gesamt,2008,Sendling - Westpark,7,12011,475
+48290.2,1262.5,gesamt,2008,Maxvorstadt,3,11304,476
+55578.7,2727,gesamt,2008,Feldmoching-Hasenbergl,24,14780,531
+48368.6,2322.5,gesamt,2008,Moosach,1,4386,490
+48368.6,352.5,gesamt,2008,Moosach,1,4386,490
+19354.8,2322.5,gesamt,2008,Altstadt-Lehel,1,4386,205
+19354.8,352.5,gesamt,2008,Altstadt-Lehel,1,4386,205
+49107.5,1713.5,gesamt,2008,Untergiesing - Harlaching,18,9765,486
+64838.2,1777.5,gesamt,2008,Pasing,21,11025,680
+63865.3,1974,gesamt,2008,Schwabing - Freimann,12,14581,609
+47159.2,1851,gesamt,2008,Ludwigsvorstadt-Isarvorstadt,10,9947,573
+47159.2,1596.5,gesamt,2008,Ludwigsvorstadt-Isarvorstadt,10,9947,573
+46137.5,1851,gesamt,2008,Hadern,2,9947,400
+46137.5,1596.5,gesamt,2008,Hadern,2,9947,400
+50879.3,2074.3,gesamt,2008,Laim,25,11209,506
+55612.2,1687.3,gesamt,2008,Au-Haidhausen,5,12247,642
+86382,2529.8,gesamt,2008,Neuhausen-Nymphenburg,9,18436,928
+46309.5,1678.5,gesamt,2009,Hadern,2,11944,429
+46309.5,1871,gesamt,2009,Hadern,2,11944,429
+46713.2,1678.5,gesamt,2009,Ludwigsvorstadt-Isarvorstadt,10,11944,572
+46713.2,1871,gesamt,2009,Ludwigsvorstadt-Isarvorstadt,10,11944,572
+51974.9,2548.5,gesamt,2009,Sendling - Westpark,7,11825,505
+38179.8,1410.5,gesamt,2009,Aubing - Lochhausen - Langwied,22,7157,344
+46309.5,1678.5,gesamt,2009,Hadern,2,9973,429
+46309.5,1871,gesamt,2009,Hadern,2,9973,429
+46713.2,1678.5,gesamt,2009,Ludwigsvorstadt-Isarvorstadt,10,9973,572
+46713.2,1871,gesamt,2009,Ludwigsvorstadt-Isarvorstadt,10,9973,572
+82362.7,2344.5,gesamt,2009,Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln,19,15647,799
+39782.7,2009,gesamt,2009,Berg am Laim,14,10579,427
+28592.6,675,gesamt,2009,Allach-Untermenzing,23,4480,300
+65049.3,1924.3,gesamt,2009,Pasing,21,10792,668
+76669.6,1846.5,gesamt,2009,Bogenhausen,13,13628,744
+55094.3,2752.5,gesamt,2009,Feldmoching-Hasenbergl,24,14265,571
+48200.7,345.8,gesamt,2009,Moosach,1,3925,499
+48200.7,2424.3,gesamt,2009,Moosach,1,3925,499
+19053.4,345.8,gesamt,2009,Altstadt-Lehel,1,3925,221
+19053.4,2424.3,gesamt,2009,Altstadt-Lehel,1,3925,221
+48400.3,1299,gesamt,2009,Maxvorstadt,3,10888,516
+47977.2,2157.8,gesamt,2009,Obergiesing - Fasangarten,17,13407,531
+67726,4007.3,gesamt,2009,Milbertshofen - Am Hart,11,23683,755
+103510.5,6353.8,gesamt,2009,Ramersdorf - Perlach,16,28340,1018
+55463.9,1686.5,gesamt,2009,Au-Haidhausen,5,11765,734
+27721.7,1411.8,gesamt,2009,Schwanthalerhöhe,8,9358,334
+48947.2,1829.3,gesamt,2009,Untergiesing - Harlaching,18,9263,463
+61895.9,1543.8,gesamt,2009,Schwabing-West,4,12181,681
+38089.3,1770.8,gesamt,2009,Sendling,6,9250,467
+87206.6,2639.8,gesamt,2009,Neuhausen-Nymphenburg,9,18147,962
+48200.7,345.8,gesamt,2009,Moosach,1,12679,499
+48200.7,2424.3,gesamt,2009,Moosach,1,12679,499
+19053.4,345.8,gesamt,2009,Altstadt-Lehel,1,12679,221
+19053.4,2424.3,gesamt,2009,Altstadt-Lehel,1,12679,221
+51142.3,2074.5,gesamt,2009,Laim,25,11059,472
+59836.3,1825.8,gesamt,2009,Trudering-Riem,15,10321,721
+63646.2,2037.3,gesamt,2009,Schwabing - Freimann,12,14013,573
+68660,4240.8,gesamt,2010,Milbertshofen - Am Hart,11,24373,694
+88545.1,2713,gesamt,2010,Neuhausen-Nymphenburg,9,18464,999
+82915.2,2564,gesamt,2010,Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln,19,16467,829
+65644,2038.3,gesamt,2010,Pasing,21,11221,671
+61898.8,1947.3,gesamt,2010,Trudering-Riem,15,11078,742
+40039.8,2169.8,gesamt,2010,Berg am Laim,14,10960,436
+27873.2,1430.8,gesamt,2010,Schwanthalerhöhe,8,9286,307
+62237.3,1562.8,gesamt,2010,Schwabing-West,4,12481,685
+46777.9,1965.3,gesamt,2010,Ludwigsvorstadt-Isarvorstadt,10,10076,529
+46777.9,1695.3,gesamt,2010,Ludwigsvorstadt-Isarvorstadt,10,10076,529
+46533.9,1965.3,gesamt,2010,Hadern,2,10076,429
+46533.9,1695.3,gesamt,2010,Hadern,2,10076,429
+28979.3,748.5,gesamt,2010,Allach-Untermenzing,23,4639,249
+55646.2,2916,gesamt,2010,Feldmoching-Hasenbergl,24,15015,552
+38312,1811,gesamt,2010,Sendling,6,9344,456
+48603.5,1269.5,gesamt,2010,Maxvorstadt,3,10865,496
+38540.2,1485.5,gesamt,2010,Aubing - Lochhausen - Langwied,22,7574,386
+19045.7,350.5,gesamt,2010,Altstadt-Lehel,1,4039,244
+19045.7,2498.5,gesamt,2010,Altstadt-Lehel,1,4039,244
+48435.1,350.5,gesamt,2010,Moosach,1,4039,506
+48435.1,2498.5,gesamt,2010,Moosach,1,4039,506
+55916.8,1637,gesamt,2010,Au-Haidhausen,5,11968,769
+77056.7,1885.3,gesamt,2010,Bogenhausen,13,13987,796
+19045.7,350.5,gesamt,2010,Altstadt-Lehel,1,12567,244
+19045.7,2498.5,gesamt,2010,Altstadt-Lehel,1,12567,244
+48435.1,350.5,gesamt,2010,Moosach,1,12567,506
+48435.1,2498.5,gesamt,2010,Moosach,1,12567,506
+49169,1839.5,gesamt,2010,Untergiesing - Harlaching,18,9574,484
+104150.2,6612,gesamt,2010,Ramersdorf - Perlach,16,29308,984
+46777.9,1965.3,gesamt,2010,Ludwigsvorstadt-Isarvorstadt,10,12255,529
+46777.9,1695.3,gesamt,2010,Ludwigsvorstadt-Isarvorstadt,10,12255,529
+46533.9,1965.3,gesamt,2010,Hadern,2,12255,429
+46533.9,1695.3,gesamt,2010,Hadern,2,12255,429
+52260.3,2679,gesamt,2010,Sendling - Westpark,7,12220,482
+51521.8,2130,gesamt,2010,Laim,25,11356,500
+64319.6,2054.8,gesamt,2010,Schwabing - Freimann,12,14672,641
+48434.4,2302.5,gesamt,2010,Obergiesing - Fasangarten,17,13665,500
+47770,1902.8,gesamt,2011,Ludwigsvorstadt-Isarvorstadt,10,10419,577
+47770,1555.5,gesamt,2011,Ludwigsvorstadt-Isarvorstadt,10,10419,577
+47115.8,1902.8,gesamt,2011,Hadern,2,10419,407
+47115.8,1555.5,gesamt,2011,Hadern,2,10419,407
+38770.6,1741.5,gesamt,2011,Sendling,6,9678,467
+65933.2,1932,gesamt,2011,Schwabing - Freimann,12,15521,638
+90657.1,2634.3,gesamt,2011,Neuhausen-Nymphenburg,9,19848,1092
+56775.2,2789.5,gesamt,2011,Feldmoching-Hasenbergl,24,15689,513
+78391.7,1830.8,gesamt,2011,Bogenhausen,13,14913,731
+69638.4,4169.3,gesamt,2011,Milbertshofen - Am Hart,11,25517,743
+49183.9,1196,gesamt,2011,Maxvorstadt,3,11356,489
+63130.3,1367.3,gesamt,2011,Schwabing-West,4,12882,678
+49986.7,1744.8,gesamt,2011,Untergiesing - Harlaching,18,10179,476
+52338.4,2081.3,gesamt,2011,Laim,25,12009,543
+105297.5,6394,gesamt,2011,Ramersdorf - Perlach,16,30494,997
+49897.6,2252,gesamt,2011,Obergiesing - Fasangarten,17,14509,543
+84440.6,2553.3,gesamt,2011,Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln,19,17844,864
+67185.4,1997.8,gesamt,2011,Pasing,21,12014,758
+39353.2,1489,gesamt,2011,Aubing - Lochhausen - Langwied,22,8078,380
+56842.3,1558.3,gesamt,2011,Au-Haidhausen,5,12423,750
+29423,739.8,gesamt,2011,Allach-Untermenzing,23,4933,286
+40903.5,2130.8,gesamt,2011,Berg am Laim,14,11358,480
+47770,1902.8,gesamt,2011,Ludwigsvorstadt-Isarvorstadt,10,12614,577
+47770,1555.5,gesamt,2011,Ludwigsvorstadt-Isarvorstadt,10,12614,577
+47115.8,1902.8,gesamt,2011,Hadern,2,12614,407
+47115.8,1555.5,gesamt,2011,Hadern,2,12614,407
+48987.8,2424,gesamt,2011,Moosach,1,4356,469
+48987.8,321,gesamt,2011,Moosach,1,4356,469
+19474.4,2424,gesamt,2011,Altstadt-Lehel,1,4356,200
+19474.4,321,gesamt,2011,Altstadt-Lehel,1,4356,200
+52849.6,2624.8,gesamt,2011,Sendling - Westpark,7,12907,544
+28241.3,1345.8,gesamt,2011,Schwanthalerhöhe,8,9603,351
+48987.8,2424,gesamt,2011,Moosach,1,13418,469
+48987.8,321,gesamt,2011,Moosach,1,13418,469
+19474.4,2424,gesamt,2011,Altstadt-Lehel,1,13418,200
+19474.4,321,gesamt,2011,Altstadt-Lehel,1,13418,200
+64222,2198.5,gesamt,2011,Trudering-Riem,15,12173,738
+65354,2209,gesamt,2012,Trudering-Riem,15,12466,704
+86454.8,2465,gesamt,2012,Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln,19,18895,868
+41789.8,2126.8,gesamt,2012,Berg am Laim,14,11933,489
+19931.5,2308,gesamt,2012,Altstadt-Lehel,1,4729,198
+19931.5,284.5,gesamt,2012,Altstadt-Lehel,1,4729,198
+49801.9,2308,gesamt,2012,Moosach,1,4729,488
+49801.9,284.5,gesamt,2012,Moosach,1,4729,488
+47697.3,1828.5,gesamt,2012,Hadern,2,13604,448
+47697.3,1486,gesamt,2012,Hadern,2,13604,448
+49063,1828.5,gesamt,2012,Ludwigsvorstadt-Isarvorstadt,10,13604,565
+49063,1486,gesamt,2012,Ludwigsvorstadt-Isarvorstadt,10,13604,565
+58016.1,1479,gesamt,2012,Au-Haidhausen,5,13049,770
+53914.5,2507.3,gesamt,2012,Sendling - Westpark,7,13829,562
+51057.2,2133.8,gesamt,2012,Obergiesing - Fasangarten,17,14909,551
+19931.5,2308,gesamt,2012,Altstadt-Lehel,1,14038,198
+19931.5,284.5,gesamt,2012,Altstadt-Lehel,1,14038,198
+49801.9,2308,gesamt,2012,Moosach,1,14038,488
+49801.9,284.5,gesamt,2012,Moosach,1,14038,488
+39315.6,1654,gesamt,2012,Sendling,6,10088,479
+30031.3,732.8,gesamt,2012,Allach-Untermenzing,23,5396,306
+80219.3,1707.8,gesamt,2012,Bogenhausen,13,16166,749
+68650.8,1926.5,gesamt,2012,Pasing,21,12882,711
+47697.3,1828.5,gesamt,2012,Hadern,2,10914,448
+47697.3,1486,gesamt,2012,Hadern,2,10914,448
+49063,1828.5,gesamt,2012,Ludwigsvorstadt-Isarvorstadt,10,10914,565
+49063,1486,gesamt,2012,Ludwigsvorstadt-Isarvorstadt,10,10914,565
+64336.3,1375.8,gesamt,2012,Schwabing-West,4,13462,707
+71505.6,4096.3,gesamt,2012,Milbertshofen - Am Hart,11,27197,749
+57770.7,2735.8,gesamt,2012,Feldmoching-Hasenbergl,24,16556,600
+50127.3,1141.8,gesamt,2012,Maxvorstadt,3,12225,533
+50833.5,1677.5,gesamt,2012,Untergiesing - Harlaching,18,10649,516
+93601.6,2629.3,gesamt,2012,Neuhausen-Nymphenburg,9,21126,1133
+67569.4,1919.3,gesamt,2012,Schwabing - Freimann,12,16605,698
+52997.4,1981.8,gesamt,2012,Laim,25,12675,514
+106715.9,6077.5,gesamt,2012,Ramersdorf - Perlach,16,31778,980
+29153.2,1361.8,gesamt,2012,Schwanthalerhöhe,8,9814,371
+40444.4,1502.3,gesamt,2012,Aubing - Lochhausen - Langwied,22,8806,403
+65247.2,1347.3,gesamt,2013,Schwabing-West,4,14115,756
+29478.1,1362,gesamt,2013,Schwanthalerhöhe,8,9974,333
+41794.4,1566,gesamt,2013,Aubing - Lochhausen - Langwied,22,9435,467
+51553,1731,gesamt,2013,Untergiesing - Harlaching,18,11400,588
+72957.9,4053.3,gesamt,2013,Milbertshofen - Am Hart,11,28243,765
+48449.6,1776,gesamt,2013,Hadern,2,14346,430
+48449.6,1502.8,gesamt,2013,Hadern,2,14346,430
+50188.7,1776,gesamt,2013,Ludwigsvorstadt-Isarvorstadt,10,14346,593
+50188.7,1502.8,gesamt,2013,Ludwigsvorstadt-Isarvorstadt,10,14346,593
+66605.1,2268,gesamt,2013,Trudering-Riem,15,13023,735
+39752.8,1601.3,gesamt,2013,Sendling,6,10386,487
+50934.8,2061.5,gesamt,2013,Obergiesing - Fasangarten,17,15047,638
+81399.5,1722,gesamt,2013,Bogenhausen,13,17126,835
+107656.2,5939,gesamt,2013,Ramersdorf - Perlach,16,32946,1011
+30681.6,771,gesamt,2013,Allach-Untermenzing,23,5653,312
+68910.6,2002,gesamt,2013,Schwabing - Freimann,12,17687,713
+55123.3,2378.8,gesamt,2013,Sendling - Westpark,7,14445,625
+20257.8,2392.5,gesamt,2013,Altstadt-Lehel,1,14805,218
+20257.8,291.3,gesamt,2013,Altstadt-Lehel,1,14805,218
+51036.8,2392.5,gesamt,2013,Moosach,1,14805,561
+51036.8,291.3,gesamt,2013,Moosach,1,14805,561
+53690,1998.3,gesamt,2013,Laim,25,13392,566
+42671.4,2200.3,gesamt,2013,Berg am Laim,14,12433,527
+59403.4,1482.3,gesamt,2013,Au-Haidhausen,5,13629,828
+70068.3,2011.5,gesamt,2013,Pasing,21,13822,755
+95235.9,2616.3,gesamt,2013,Neuhausen-Nymphenburg,9,22083,1203
+51290.3,1123,gesamt,2013,Maxvorstadt,3,12878,573
+20257.8,2392.5,gesamt,2013,Altstadt-Lehel,1,5053,218
+20257.8,291.3,gesamt,2013,Altstadt-Lehel,1,5053,218
+51036.8,2392.5,gesamt,2013,Moosach,1,5053,561
+51036.8,291.3,gesamt,2013,Moosach,1,5053,561
+48449.6,1776,gesamt,2013,Hadern,2,11715,430
+48449.6,1502.8,gesamt,2013,Hadern,2,11715,430
+50188.7,1776,gesamt,2013,Ludwigsvorstadt-Isarvorstadt,10,11715,593
+50188.7,1502.8,gesamt,2013,Ludwigsvorstadt-Isarvorstadt,10,11715,593
+58893.5,2739,gesamt,2013,Feldmoching-Hasenbergl,24,17522,528
+89008.6,2484.3,gesamt,2013,Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln,19,21642,904
+54386.8,2005.5,gesamt,2014,Laim,25,14049,582
+51320.1,1769.3,gesamt,2014,Ludwigsvorstadt-Isarvorstadt,10,15778,597
+51320.1,1523.8,gesamt,2014,Ludwigsvorstadt-Isarvorstadt,10,15778,597
+49434.8,1769.3,gesamt,2014,Hadern,2,15778,452
+49434.8,1523.8,gesamt,2014,Hadern,2,15778,452
+60261.1,1482,gesamt,2014,Au-Haidhausen,5,14225,861
+90468.6,2577,gesamt,2014,Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln,19,21777,938
+67518.7,2265,gesamt,2014,Trudering-Riem,15,13747,771
+29874.7,1313,gesamt,2014,Schwanthalerhöhe,8,10230,370
+55910.8,2385.8,gesamt,2014,Sendling - Westpark,7,15354,606
+52061.6,2057.3,gesamt,2014,Obergiesing - Fasangarten,17,15858,608
+52186.8,1728.8,gesamt,2014,Untergiesing - Harlaching,18,11839,581
+52226.7,2510.5,gesamt,2014,Moosach,1,5371,564
+52226.7,299.5,gesamt,2014,Moosach,1,5371,564
+20647,2510.5,gesamt,2014,Altstadt-Lehel,1,5371,214
+20647,299.5,gesamt,2014,Altstadt-Lehel,1,5371,214
+66527.2,1358.3,gesamt,2014,Schwabing-West,4,14959,807
+74200.4,3968.8,gesamt,2014,Milbertshofen - Am Hart,11,29253,809
+109031.8,5880,gesamt,2014,Ramersdorf - Perlach,16,34699,1102
+52226.7,2510.5,gesamt,2014,Moosach,1,15606,564
+52226.7,299.5,gesamt,2014,Moosach,1,15606,564
+20647,2510.5,gesamt,2014,Altstadt-Lehel,1,15606,214
+20647,299.5,gesamt,2014,Altstadt-Lehel,1,15606,214
+42613.6,1554.5,gesamt,2014,Aubing - Lochhausen - Langwied,22,9996,414
+52026.5,1148.5,gesamt,2014,Maxvorstadt,3,13671,540
+31081.9,848.3,gesamt,2014,Allach-Untermenzing,23,6116,339
+96757.2,2683.3,gesamt,2014,Neuhausen-Nymphenburg,9,23309,1243
+51320.1,1769.3,gesamt,2014,Ludwigsvorstadt-Isarvorstadt,10,12587,597
+51320.1,1523.8,gesamt,2014,Ludwigsvorstadt-Isarvorstadt,10,12587,597
+49434.8,1769.3,gesamt,2014,Hadern,2,12587,452
+49434.8,1523.8,gesamt,2014,Hadern,2,12587,452
+83088.6,1757.8,gesamt,2014,Bogenhausen,13,18286,891
+71401.1,2076.5,gesamt,2014,Pasing,21,14754,757
+43516.1,2247,gesamt,2014,Berg am Laim,14,13141,511
+40274.5,1653.5,gesamt,2014,Sendling,6,10810,493
+59889.6,2768.8,gesamt,2014,Feldmoching-Hasenbergl,24,18347,623
+71616.4,2151.8,gesamt,2014,Schwabing - Freimann,12,19608,777
+67787.3,1413.5,gesamt,2015,Schwabing-West,4,15781,866
+40632.8,1696.3,gesamt,2015,Sendling,6,11142,528
+75038.8,4133.3,gesamt,2015,Milbertshofen - Am Hart,11,30362,818
+52703.5,1671,gesamt,2015,Untergiesing - Harlaching,18,12929,557
+53108.8,2534.5,gesamt,2015,Moosach,1,5579,612
+53108.8,300,gesamt,2015,Moosach,1,5579,612
+20969.3,2534.5,gesamt,2015,Altstadt-Lehel,1,5579,263
+20969.3,300,gesamt,2015,Altstadt-Lehel,1,5579,263
+53231.2,1752,gesamt,2015,Ludwigsvorstadt-Isarvorstadt,10,17138,646
+53231.2,1580.8,gesamt,2015,Ludwigsvorstadt-Isarvorstadt,10,17138,646
+49940.7,1752,gesamt,2015,Hadern,2,17138,452
+49940.7,1580.8,gesamt,2015,Hadern,2,17138,452
+30198.9,1261.8,gesamt,2015,Schwanthalerhöhe,8,10492,377
+57496.3,2508.8,gesamt,2015,Sendling - Westpark,7,16625,648
+53780.9,2108.3,gesamt,2015,Obergiesing - Fasangarten,17,16823,650
+44509.1,2270.3,gesamt,2015,Berg am Laim,14,14044,515
+98198,2721.3,gesamt,2015,Neuhausen-Nymphenburg,9,24264,1215
+53108.8,2534.5,gesamt,2015,Moosach,1,16120,612
+53108.8,300,gesamt,2015,Moosach,1,16120,612
+20969.3,2534.5,gesamt,2015,Altstadt-Lehel,1,16120,263
+20969.3,300,gesamt,2015,Altstadt-Lehel,1,16120,263
+31584.7,893,gesamt,2015,Allach-Untermenzing,23,6688,351
+43042.3,1567,gesamt,2015,Aubing - Lochhausen - Langwied,22,10640,496
+73431.4,2345.8,gesamt,2015,Schwabing - Freimann,12,22068,777
+92552.1,2674.8,gesamt,2015,Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln,19,23464,1089
+53231.2,1752,gesamt,2015,Ludwigsvorstadt-Isarvorstadt,10,13198,646
+53231.2,1580.8,gesamt,2015,Ludwigsvorstadt-Isarvorstadt,10,13198,646
+49940.7,1752,gesamt,2015,Hadern,2,13198,452
+49940.7,1580.8,gesamt,2015,Hadern,2,13198,452
+61266.8,1488.5,gesamt,2015,Au-Haidhausen,5,14814,837
+69017.7,2360.5,gesamt,2015,Trudering-Riem,15,14849,756
+55084.6,2052.8,gesamt,2015,Laim,25,14759,580
+111142.1,5943,gesamt,2015,Ramersdorf - Perlach,16,36798,1109
+84874.1,1803.8,gesamt,2015,Bogenhausen,13,20257,903
+52969.8,1090.3,gesamt,2015,Maxvorstadt,3,14937,653
+72556.3,2234,gesamt,2015,Pasing - Obermenzing,21,16077,801
+60855.9,2905.8,gesamt,2015,Feldmoching-Hasenbergl,24,19543,644

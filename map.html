@@ -1,0 +1,696 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>InfoVis Projekt</title>
+
+    <meta charset="UTF-8">
+
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="css/dc.css"/>
+    <link rel="stylesheet" type="text/css" href="css/main.css">
+</head>
+<body>
+
+<div class="container">
+
+    <h2>Geburten, Ausländer und ArbeitslosengeldII-Empfänger in München</h2>
+    <div id="munich-chart">
+        <!--<strong>Verteilungen in München</strong>-->
+        <p>Entdecke und klicke einfach drauf los, um die Entwicklungen in München zu beobachten.</p>
+        <a class="reset" href="javascript:munichChart.filterAll();dc.redrawAll();" style="display: none;">reset</a>
+        <span class="reset" style="display: none;"> | Current filter: <span class="filter"></span></span>
+
+        <div class="clearfix"></div>
+    </div>
+
+    <div class="clearfix"></div>
+
+    <div id="year-pie-chart"></div>
+
+    <div id="grouped-bar-chart">
+    </div>
+
+    <div id="births-chart">
+        <strong>Geburten</strong> (y: Geburtenrate, x: Jahr , radius: Anzahl Geburten)
+        <a class="reset" href="javascript:birthsChart.filterAll();dc.redrawAll();" style="display: none;">reset</a>
+
+        <div class="clearfix"></div>
+    </div>
+
+    <div class="clearfix"></div>
+
+    <div id="foreigners-chart">
+        <strong>Ausländer</strong> (y: Ausländerrate, x: Jahr , radius: Ausländeranteil)
+        <a class="reset" href="javascript:foreignersChart.filterAll();dc.redrawAll();" style="display: none;">reset</a>
+
+        <div class="clearfix"></div>
+    </div>
+
+    <div class="clearfix"></div>
+
+    <div id="unemployed-chart">
+        <strong>ArbeitslosengeldII-Empfänger</strong> (y: ALG II - Empfängerrate, x: Jahr, radius: Anzahl ALG II - Empfänger )
+        <a class="reset" href="javascript:foreignersChart.filterAll();dc.redrawAll();" style="display: none;">reset</a>
+
+        <div class="clearfix"></div>
+    </div>
+
+    <table class="table table-bordered table-striped" id="total-data-table">
+      <thead>
+        <tr class="header">
+          <th>Stadtteil Nr.</th>
+          <th>Stadtteil</th>
+          <th>Ausprägung</th>
+          <th>Jahr</th>
+          <th>Bevölkerung Stadtteil</th>
+          <th>Ausländer</th>
+          <th>Geburten</th>
+          <th>ArbeitslosengeldII-Empfänger</th>
+        </tr>
+      </thead>
+    </table>
+
+    <div>
+        <a href="javascript:dc.filterAll(); dc.renderAll();">Reset All</a>
+    </div>
+
+</div>
+
+<!--<a href="https://github.com/dc-js/dc.js"><img style="position: absolute; top: 0; right: 0; border: 0;"
+                                                  src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png"
+                                                  alt="Fork me on GitHub"></a>-->
+
+<script type="text/javascript" src="js/d3.js"></script>
+<script type="text/javascript" src="js/crossfilter.js"></script>
+<script type="text/javascript" src="js/dc.js"></script>
+<script type="text/javascript">
+    var numberFormat = d3.format(".2f");
+    //var usChart = dc.geoChoroplethChart("#us-chart");
+    var munichChart = dc.geoChoroplethChart("#munich-chart");
+    //var industryChart = dc.bubbleChart("#industry-chart");
+    //var roundChart = dc.bubbleChart("#round-chart");
+    var birthsChart = dc.bubbleChart("#births-chart");
+    var yearChart = dc.pieChart('#year-pie-chart');
+    var groupedBarChart = dc.compositeChart("#grouped-bar-chart");
+    var foreignersChart = dc.bubbleChart("#foreigners-chart");
+    var unemployedChart = dc.bubbleChart("#unemployed-chart");
+    var dataTable = dc.dataTable("#total-data-table");
+    var unemployedBarChart = dc.barChart(groupedBarChart);
+
+    function isBirth(v){
+      return v.births;
+    }
+
+    function isForeigner(v){
+      return v.foreigners;
+    }
+
+    //var foreignersChart = dc.bubbleChart("#foreigners-chart");
+    d3.csv("data-total-new.csv", function (csv) {
+
+        var data = crossfilter(csv);
+        var allDim = data.dimension(function(d) {
+          return d;
+        });
+
+        var districts /*states*/ = data.dimension(function (d) {
+           //console.log(d["district"]);
+           return d["district"];
+        });
+
+        var years = data.dimension(function (d) {
+          //console.log(d["year"]);
+          return d["year"];
+        });
+
+        /*var stateRaisedSum = states.group().reduceSum(function (d) {
+            return d["Raised"];
+        });*/
+        var birthsPerDistrict = districts.group().reduceSum(function (d) {
+          return d["births"];
+        });
+
+        var birthRatePerDistrict = districts.group().reduceSum(function (d) {
+          return d["birthRate"]
+        });
+
+        var unemployedPerDistrict = districts.group().reduceSum(function (d) {
+          //console.log("unemployed:" + d["unemployed"]);
+          return d["unemployed"];
+        });
+
+        var unemployedRatePerDistrict = districts.group().reduceSum(function (d) {
+          return d["algIIRate"]
+        });
+
+        var foreignersPerDistrict = districts.group().reduceSum(function (d) {
+          //console.log("foreigners:" + d["foreigners"]);
+          return d["foreigners"];
+        });
+
+        var foreignersRatePerDistrict = districts.group().reduceSum(function (d) {
+          return d["foreignerPercent"]
+        });
+
+
+        var distributionPerDistrict = districts.group().reduceSum(function (d) {
+          return d["births", "foreigners", "unemployed"];
+        });
+
+        var birthsPerYear = years.group().reduceSum( function (d) {
+          //console.log(d["birthRate"]);
+          return d["birthRate"];
+        });
+        var births = data.dimension(function (d) {
+            return d["births"];
+        });
+
+
+        var birthsPercentPerYear = years.group().reduce(
+          function (p, v) {
+            ++p.count
+            p.sums += (v.births / v.population);
+            p.avgs = (p.count === 0) ? 0 : (p.sums / p.count) * 100;
+            return p;
+          },
+          function (p, v) {
+            --p.count
+            p.sums -= (v.births / v.population);
+            p.avgs = (p.count === 0) ? 0 : (p.sums / p.count) * 100;
+            return p;
+          },
+          function() {
+            return {
+              count: 0,
+              sums: 0,
+              avgs: 0
+            };
+          }
+        );
+
+        var birthsPercentPerDistrict = districts.group().reduce(
+            function(p, v) {
+              ++p.count
+              p.sums += (v.births/ v.population);
+              p.avgs = (p.count === 0) ? 0 : (p.sums / p.count) * 100;
+              return p;
+            },
+            function(p, v) {
+              --p.count
+              p.sums -= (v.births/ v.population);
+              p.avgs = (p.count === 0) ? 0 : (p.sums / p.count) * 100;
+              return p;
+            },
+            function() {
+              return {
+                count: 0,
+                sums: 0,
+                avgs: 0
+              };
+            }
+          );
+
+          var unemployedPercentPerDistrict = districts.group().reduce(
+            function(p, v) {
+              ++p.count
+              p.sums += (v.unemployed / v.population);
+              p.avgs = (p.count === 0) ? 0 : (p.sums / p.count) * 100;
+              return parseFloat(p);
+            },
+            function(p, v) {
+              --p.count
+              p.sums -= (v.unemployed / v.population);
+              p.avgs = (p.count === 0) ? 0 : (p.sums / p.count) * 100;
+              return parseFloat(p);
+            },
+            function() {
+              return {
+                count: 0,
+                sums: 0,
+                avgs: 0
+              };
+            }
+          );
+
+        var foreignersPercentPerDistrict = districts.group().reduce(
+            function(p, v) {
+              ++p.count
+              p.sums += (v.foreigners / v.population);
+              p.avgs = (p.count === 0) ? 0 : (p.sums / p.count) * 100;
+              return parseFloat(p);
+            },
+            function(p, v) {
+              --p.count
+              p.sums -= (v.foreigners / v.population);
+              p.avgs = (p.count === 0) ? 0 : (p.sums / p.count) * 100;
+              return parseFloat(p);
+            },
+            function() {
+              return {
+                count: 0,
+                sums: 0,
+                avgs: 0
+              };
+            }
+          );
+
+
+        /*var statsByIndustries = industries.group().reduce(
+                function (p, v) {
+                    p.amountRaised += +v["Raised"];
+                    p.deals += +v["Deals"];
+                    return p;
+                },
+                function (p, v) {
+                    p.amountRaised -= +v["Raised"];
+                    if (p.amountRaised < 0.001) p.amountRaised = 0; // do some clean up
+                    p.deals -= +v["Deals"];
+                    return p;
+                },
+                function () {
+                    return {amountRaised: 0, deals: 0}
+                }
+        );*/
+        var foreigerns = data.dimension(function (d) {
+            return d["foreigerns"];
+        });
+
+        var birthsRatePerDistrict = districts.group().reduce(
+          function (p,v) {
+            p.amountBirths += +v["birthRate"];
+            return p;
+          },
+          function (p, v) {
+            p.amountBirths -= +v["birthRate"];
+            return p;
+          },
+          function (){
+            return { amountBirths: 0, years:0  }
+          },
+        );
+
+        var dataPerDistrict = districts.group().reduce(
+          function (p,v) {
+            p.amountBirths += +v["births"];
+            p.amountForeigners += +v["foreigners"];
+            p.amountUnemployed += +v["unemployed"];
+            //console.log(p);
+            return p;
+          },
+          function (p, v) {
+            p.amountBirths -= +v["birthRate"];
+            p.amountForeigners -= +v["foreigners"];
+            p.amountUnemployed -= +v["unemployed"];
+            return p;
+          },
+          function (){
+            return { amountBirths: 0, amountForeigners:0, amountUnemployed:0  }
+          },
+        );
+
+
+        /*var statsByRounds = rounds.group().reduce(
+                function (p, v) {
+                    p.amountRaised += +v["Raised"];
+                    p.deals += +v["Deals"];
+                    return p;
+                },
+                function (p, v) {
+                    p.amountRaised -= +v["Raised"];
+                    if (p.amountRaised < 0.001) p.amountRaised = 0; // do some clean up
+                    p.deals -= +v["Deals"];
+                    return p;
+                },
+                function () {
+                    return {amountRaised: 0, deals: 0}
+                }
+        );*/
+        d3.json("munich.json", function (districtsJson) {
+          var width  = 900;
+          var height = 500;
+
+          var center = d3.geo.centroid(districtsJson);
+          var scale  = 150;
+          var offset = [900/2, 500/2];
+          var projection = d3.geo.mercator().scale(scale).center(center).translate(offset);
+          var path = d3.geo.path().projection(projection);
+
+          var center = d3.geo.centroid(districtsJson);
+
+
+          var bounds  = path.bounds(districtsJson);
+          var hscale  = scale*width  / (bounds[1][0] - bounds[0][0]);
+          var vscale  = scale*height / (bounds[1][1] - bounds[0][1]);
+          var scale   = (hscale < vscale) ? hscale : vscale;
+          var offset  = [width - (bounds[0][0] + bounds[1][0])/2,
+                             height - (bounds[0][1] + bounds[1][1])/2];
+
+           projection = d3.geo.mercator().center(center).scale(scale).translate(offset);
+           path = path.projection(projection);
+
+
+
+        yearChart.width(200)
+             .height(200)
+             .dimension(years)
+             .group(birthsPerYear)
+             .valueAccessor(function(d) {
+               //console.log(d);
+               return d.key;
+             })
+             .innerRadius(20);
+
+            unemployedBarChart.group(unemployedRatePerDistrict, 'unemployed')
+               .dimension(districts)
+               .gap(90)
+               .ordinalColors(['#9a819d'])
+               .width(3)
+               .title(function (p) {
+                   return p.key
+                           + "\n"
+                           + "ALGII-Empfänger: " + numberFormat(p.value);
+               })
+               .centerBar(true)
+
+
+
+           groupedBarChart.height(500)
+              .width(1200)
+             .transitionDuration(200)
+             //.dimension(districtDimension)
+             .brushOn(false)
+             .group(distributionPerDistrict)
+             .legend(dc.legend().x(40).y(0).itemHeight(16).gap(4))
+             .elasticY(true)
+             //.elasticX(true)
+             .x(d3.scale.ordinal())
+             .xUnits(dc.units.ordinal)
+             .xAxisLabel('Stadtteil')
+             .yAxisLabel('Anzahl')
+             .renderHorizontalGridLines(true)
+             .margins({top: 10, right: 10, bottom: 300, left: 40})
+             .on('renderlet', function(chart) {
+               groupedBarChart.selectAll("g.x text")
+                .attr("dy", "-0.10em")
+                .attr("x", "-8")
+                .attr('transform', "rotate(-55)")
+                .style("text-anchor", "end"),
+               groupedBarChart.selectAll("g rect").style("width", function (d) {
+                      return 10;
+                  });
+             })
+             .compose([
+               unemployedBarChart,
+               /*dc.barChart(groupedBarChart)
+                 .group(unemployedRatePerDistrict, 'unemployed')
+                 .dimension(districts)
+                 //.colors(['#ffaaff'])
+                 .gap(70)
+                 .ordinalColors(['#9a819d'])
+                 .width(3)
+                 .title(function (p) {
+                     //console.log(p);
+                     return p.key
+                             + "\n"
+                             //+ "Amount Raised: " + numberFormat(p.value.amountRaised) + "M\n"
+                             + "ALGII-Empfänger: " + numberFormat(p.value);
+                 })
+                 .centerBar(true),
+                 /*.valueAccessor(function (d) {
+                   return d.value;
+               }),*/
+
+               dc.barChart(groupedBarChart)
+                 .group(foreignersRatePerDistrict, 'Ausländer')
+                 .dimension(districts)
+                 .gap(70)
+                 .ordinalColors(['#00aaff'])
+                 .title(function (p) {
+                     return p.key
+                             + "\n"
+                             + "Ausländer: " + numberFormat(p.value);
+                 })
+                 .centerBar(true),
+               dc.barChart(groupedBarChart)
+                 .group(birthRatePerDistrict, 'Geburten')
+                 .dimension(districts)
+                 .gap(50)
+                 .centerBar(true)
+                 .ordinalColors(['#008080'])
+                 .title(function (p) {
+                     return p.value
+                             + "\n"
+                             + "Geburten: " + numberFormat(p.value);
+                 })
+                 .valueAccessor(function (d) {
+                   return d.value;
+                 })
+               ]);
+
+
+            munichChart.width(990)
+                    .height(500)
+                    .dimension(districts)
+                    //.group(birthsPerDistrict)
+                    .group(dataPerDistrict)
+                    .colors(d3.scale.quantize().range(["#E2F2FF", "#C4E4FF", "#9ED2FF", "#81C5FF", "#6BBAFF", "#51AEFF", "#36A2FF", "#1E96FF", "#0089FF", "#0061B5"]))
+                    .colorDomain([0, 200])
+                    .colorCalculator(function (d) { return d ? munichChart.colors()(d) : '#ccc'; })
+                    .projection(d3.geo.mercator()
+                      .center(center)
+                      .scale(scale)
+                      .translate(offset))
+                    .overlayGeoJson(districtsJson.features, "district", function (d) {
+                        return d.properties.name;
+                    })
+
+                .valueAccessor(function(kv) {
+                    //console.log(kv);
+                    return kv.value;
+                })
+                    .title(function (d) {
+                        if (d.value  !== undefined){
+                          console.log(d.value.amountBirths);
+                        return "Stadtteil: " + d.key + "\nGeburten insgesamt: " + numberFormat(d.value.amountBirths ? d.value.amountBirths : 0)
+                        + "\nAusländer gesamt: " + numberFormat(d.value.amountForeigners ? d.value.amountForeigners : 0) + "\nALGII-Empfänger gesamt: "
+                        + numberFormat(d.value.amountUnemployed ? d.value.amountUnemployed :0);
+                      }
+                    });
+                birthsChart.width(990)
+                    .height(400)
+                    .margins({top: 10, right: 50, bottom: 30, left: 60})
+                    .dimension(districts)
+                    .group(birthsPerDistrict)
+                    .colors(d3.scale.category10())
+                    .keyAccessor(function (p) {
+                        return p.key;
+                    })
+                    .valueAccessor(function (p) {
+                        return p.value;
+                    })
+                    .radiusValueAccessor(function (p) {
+                        return p.value / 1000;
+                    })
+                    .x(d3.scale.linear().domain([0, 2016]))
+                    .y(d3.scale.linear().domain([0, 100]))
+
+                    .r(d3.scale.linear().domain([0, 100]))
+                    .minRadiusWithLabel(15)
+                    .elasticY(true)
+                    .yAxisPadding(100)
+                    .elasticX(true)
+                    .xAxisPadding(200)
+                    .maxBubbleRelativeSize(0.07)
+                    .renderHorizontalGridLines(true)
+                    .renderVerticalGridLines(true)
+                    .renderLabel(true)
+                    .renderTitle(true)
+                    .title(function (p) {
+                        return p.key
+                                + "\n"
+                                + "Geburtenrate: " + numberFormat(p.value);
+                    });
+            birthsChart.yAxis().tickFormat(function (s) {
+                return s + "Geburten";
+            });
+            birthsChart.xAxis().tickFormat(function (s) {
+                return s + "Jahr";
+            });
+
+
+            foreignersChart.width(990)
+                .height(400)
+                .margins({top: 10, right: 50, bottom: 30, left: 60})
+                .dimension(districts)
+                .group(unemployedPerDistrict)
+                .colors(d3.scale.category10())
+                .keyAccessor(function (p) {
+                    return p.key;
+                })
+                .valueAccessor(function (p) {
+                    return p.value;
+                })
+                .radiusValueAccessor(function (p) {
+                    return p.value / 1000;
+                })
+                .x(d3.scale.linear().domain([0, 2016]))
+                .y(d3.scale.linear().domain([0, 100]))
+
+                .r(d3.scale.linear().domain([0, 100]))
+                .minRadiusWithLabel(15)
+                .elasticY(true)
+                .yAxisPadding(100)
+                .elasticX(true)
+                .xAxisPadding(200)
+                .maxBubbleRelativeSize(0.07)
+                .renderHorizontalGridLines(true)
+                .renderVerticalGridLines(true)
+                .renderLabel(true)
+                .renderTitle(true)
+                .title(function (p) {
+                  //console.log(p);
+                    return p.key
+                            + "\n"
+                            //+ "Amount Raised: " + numberFormat(p.value.amountRaised) + "M\n"
+                            + "Ausländerrate: " + numberFormat(p.value);
+                });
+        birthsChart.yAxis().tickFormat(function (s) {
+            return s + "Ausländer";
+        });
+        birthsChart.xAxis().tickFormat(function (s) {
+            return s + "Jahr";
+        });
+
+        unemployedChart.width(990)
+            .height(400)
+            .margins({top: 10, right: 50, bottom: 30, left: 60})
+            .dimension(districts)
+            .group(unemployedPerDistrict)
+            .colors(d3.scale.category10())
+            .keyAccessor(function (p) {
+              //console.log(p);
+              //console.log(p);
+                return p.key;
+            })
+            .valueAccessor(function (p) {
+                return p.value;
+            })
+            .radiusValueAccessor(function (p) {
+                return p.value / 1000;
+            })
+            .x(d3.scale.linear().domain([0, 2016]))
+            .y(d3.scale.linear().domain([0, 100]))
+
+            .r(d3.scale.linear().domain([0, 100]))
+            .minRadiusWithLabel(15)
+            .elasticY(true)
+            .yAxisPadding(100)
+            .elasticX(true)
+            .xAxisPadding(200)
+            .maxBubbleRelativeSize(0.07)
+            .renderHorizontalGridLines(true)
+            .renderVerticalGridLines(true)
+            .renderLabel(true)
+            .renderTitle(true)
+            .title(function (p) {
+              //console.log(p);
+                return p.key
+                        + "\n"
+                        //+ "Amount Raised: " + numberFormat(p.value.amountRaised) + "M\n"
+                        + "Empfängerrate: " + numberFormat(p.value);
+            });
+    birthsChart.yAxis().tickFormat(function (s) {
+        return s + "Empfänger";
+    });
+    birthsChart.xAxis().tickFormat(function (s) {
+        return s + "Jahr";
+    });
+
+    dataTable
+      .dimension(allDim)
+      .group(function(d) {
+        return 'dummy row to remove later.';
+      })
+      .size(100)
+      .columns([
+        function(d) {
+          return d.districtNumber;
+        },
+        function(d) {
+          return d.district;
+        },
+        function(d) {
+          return d.shape;
+        },
+        function(d) {
+          return d.year;
+        },
+        function(d) {
+          return d.population;
+        },
+        function(d){
+          return d.foreigners;
+        },
+        function(d) {
+          return d.births;
+        },
+        function(d) {
+          return d.unemployed;
+        }
+      ])
+      .sortBy(dc.pluck('rating_score'))
+      .order(d3.descending)
+      .on('renderlet', function(table) {
+        // each time table is rendered remove nasty extra row dc.js insists on adding
+        table.select('tr.dc-table-group').remove();
+
+      });
+            /*roundChart.width(990)
+                    .height(200)
+                    .margins({top: 10, right: 50, bottom: 30, left: 60})
+                    .dimension(rounds)
+                    .group(statsByRounds)
+                    .colors(d3.scale.category10())
+                    .keyAccessor(function (p) {
+                        return p.value.amountRaised;
+                    })
+                    .valueAccessor(function (p) {
+                        return p.value.deals;
+                    })
+                    .radiusValueAccessor(function (p) {
+                        return p.value.amountRaised;
+                    })
+                    .x(d3.scale.linear().domain([0, 5000]))
+                    .r(d3.scale.linear().domain([0, 9000]))
+                    .minRadiusWithLabel(15)
+                    .elasticY(true)
+                    .yAxisPadding(150)
+                    .elasticX(true)
+                    .xAxisPadding(300)
+                    .maxBubbleRelativeSize(0.07)
+                    .renderHorizontalGridLines(true)
+                    .renderVerticalGridLines(true)
+                    .renderLabel(true)
+                    .renderTitle(true)
+                    .title(function (p) {
+                        return p.key
+                                + "\n"
+                                + "Amount Raised: " + numberFormat(p.value.amountRaised) + "M\n"
+                                + "Number of Deals: " + numberFormat(p.value.deals);
+                    });
+            roundChart.yAxis().tickFormat(function (s) {
+                return s + " deals";
+            });
+            roundChart.xAxis().tickFormat(function (s) {
+                return s + "M";
+            });*/
+
+
+            dc.renderAll();
+        });
+    });
+</script>
+
+
+</body>
+</html>

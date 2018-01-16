@@ -1,0 +1,3331 @@
+[{
+  "population": "61423",
+  "unemployed": "2079.8",
+  "shape": "gesamt",
+  "year": 2006,
+  "district": "Schwabing - Freimann",
+  "districtNumber": "12",
+  "foreigners": "14288",
+  "births": "542"
+}, {
+  "population": "65999.3",
+  "unemployed": "4089",
+  "shape": "gesamt",
+  "year": 2006,
+  "district": "Milbertshofen - Am Hart",
+  "districtNumber": "11",
+  "foreigners": "23355",
+  "births": "658"
+}, {
+  "population": "102266.8",
+  "unemployed": "6015",
+  "shape": "gesamt",
+  "year": 2006,
+  "district": "Ramersdorf - Perlach",
+  "districtNumber": "16",
+  "foreigners": "27689",
+  "births": "957"
+}, {
+  "population": "36713.8",
+  "unemployed": "1786.5",
+  "shape": "gesamt",
+  "year": 2006,
+  "district": "Sendling",
+  "districtNumber": "6",
+  "foreigners": "9518",
+  "births": "434"
+}, {
+  "population": "50276.4",
+  "unemployed": "2495.5",
+  "shape": "gesamt",
+  "year": 2006,
+  "district": "Sendling - Westpark",
+  "districtNumber": "7",
+  "foreigners": "11746",
+  "births": "462"
+}, {
+  "population": "25914.1",
+  "unemployed": "1487.8",
+  "shape": "gesamt",
+  "year": 2006,
+  "district":  "Schwanthalerhöhe",
+  "districtNumber": "8",
+  "foreigners": "9393",
+  "births": "272"
+}, {
+  "population": "37681.8",
+  "unemployed": "1557",
+  "shape": "gesamt",
+  "year": 2006,
+  "district": "Aubing - Lochhausen - Langwied",
+  "districtNumber": "22",
+  "foreigners": "7018",
+  "births": "324"
+}, {
+  "population": "27659.2",
+  "unemployed": "673.3",
+  "shape": "gesamt",
+  "year": 2006,
+  "district": "Allach - Untermenzing",
+  "districtNumber": "23",
+  "foreigners": "4498",
+  "births": "256"
+}, {
+  "population": "63306.5",
+  "unemployed": "1865.8",
+  "shape": "gesamt",
+  "year": 2006,
+  "district": "Pasing",
+  "districtNumber": "21",
+  "foreigners": "10900",
+  "births": "666"
+}, {
+  "population": "44661.3",
+  "unemployed": "1871.3",
+  "shape": "gesamt",
+  "year": 2006,
+  "district": "Hadern",
+  "districtNumber": "2",
+  "foreigners": "9218",
+  "births": "413"
+}, {
+  "population": "44661.3",
+  "unemployed": "1875.8",
+  "shape": "gesamt",
+  "year": 2006,
+  "district": "Hadern",
+  "districtNumber": "2",
+  "foreigners": "9218",
+  "births": "413"
+}, {
+  "population": "45002.6",
+  "unemployed": "1871.3",
+  "shape": "gesamt",
+  "year": 2006,
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "districtNumber": "10",
+  "foreigners": "9218",
+  "births": "503"
+}, {
+  "population": "45002.6",
+  "unemployed": "1875.8",
+  "shape": "gesamt",
+  "year": 2006,
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "districtNumber": "10",
+  "foreigners": "9218",
+  "births": "503"
+}, {
+  "population": "49569.6",
+  "unemployed": "2211.8",
+  "shape": "gesamt",
+  "year": 2006,
+  "district": "Laim",
+  "districtNumber": "25",
+  "foreigners": "10715",
+  "births": "454"
+}, {
+  "population": "52451.4",
+  "unemployed": "1517.8",
+  "shape": "gesamt",
+  "year": 2006,
+  "district": "Trudering - Riem",
+  "districtNumber": "15",
+  "foreigners": "8723",
+  "births": "626"
+}, {
+  "population": "38748.1",
+  "unemployed": "2033.8",
+  "shape": "gesamt",
+  "year": 2006,
+  "district": "Berg am Laim",
+  "districtNumber": "14",
+  "foreigners": "10125",
+  "births": "384"
+}, {
+  "population": "18800.8",
+  "unemployed": "421.3",
+  "shape": "gesamt",
+  "year": 2006,
+  "district": "Altstadt - Lehel",
+  "districtNumber": "1",
+  "foreigners": "4154",
+  "births": "174"
+}, {
+  "population": "18800.8",
+  "unemployed": "2338.5",
+  "shape": "gesamt",
+  "year": 2006,
+  "district": "Altstadt - Lehel",
+  "districtNumber": "1",
+  "foreigners": "4154",
+  "births": "174"
+}, {
+  "population": "47543.3",
+  "unemployed": "421.3",
+  "shape": "gesamt",
+  "year": 2006,
+  "district": "Moosach",
+  "districtNumber": "1",
+  "foreigners": "4154",
+  "births": "480"
+}, {
+  "population": "47543.3",
+  "unemployed": "2338.5",
+  "shape": "gesamt",
+  "year": 2006,
+  "district": "Moosach",
+  "districtNumber": "1",
+  "foreigners": "4154",
+  "births": "480"
+}, {
+  "population": "44382.3",
+  "unemployed": "1443.3",
+  "shape": "gesamt",
+  "year": 2006,
+  "district": "Maxvorstadt",
+  "districtNumber": "3",
+  "foreigners": "10838",
+  "births": "425"
+}, {
+  "population": "83650.3",
+  "unemployed": "2902.3",
+  "shape": "gesamt",
+  "year": 2006,
+  "district": "Neuhausen - Nymphenburg",
+  "districtNumber": "9",
+  "foreigners": "18016",
+  "births": "852"
+}, {
+  "population": "53577.3",
+  "unemployed": "1976",
+  "shape": "gesamt",
+  "year": 2006,
+  "district": "Au - Haidhausen",
+  "districtNumber": "5",
+  "foreigners": "12367",
+  "births": "594"
+}, {
+  "population": "74864.7",
+  "unemployed": "1984.8",
+  "shape": "gesamt",
+  "year": 2006,
+  "district": "Bogenhausen",
+  "districtNumber": "13",
+  "foreigners": "13419",
+  "births": "772"
+}, {
+  "population": "44661.3",
+  "unemployed": "1871.3",
+  "shape": "gesamt",
+  "year": 2006,
+  "district": "Hadern",
+  "districtNumber": "2",
+  "foreigners": "12797",
+  "births": "413"
+}, {
+  "population": "44661.3",
+  "unemployed": "1875.8",
+  "shape": "gesamt",
+  "year": 2006,
+  "district": "Hadern",
+  "districtNumber": "2",
+  "foreigners": "12797",
+  "births": "413"
+}, {
+  "population": "45002.6",
+  "unemployed": "1871.3",
+  "shape": "gesamt",
+  "year": 2006,
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "districtNumber": "10",
+  "foreigners": "12797",
+  "births": "503"
+}, {
+  "population": "45002.6",
+  "unemployed": "1875.8",
+  "shape": "gesamt",
+  "year": 2006,
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "districtNumber": "10",
+  "foreigners": "12797",
+  "births": "503"
+}, {
+  "population": "57940.5",
+  "unemployed": "1701.5",
+  "shape": "gesamt",
+  "year": 2006,
+  "district": "Schwabing - West",
+  "districtNumber": "4",
+  "foreigners": "12323",
+  "births": "595"
+}, {
+  "population": "47611.7",
+  "unemployed": "1814.3",
+  "shape": "gesamt",
+  "year": 2006,
+  "district": "Untergiesing - Harlaching",
+  "districtNumber": "18",
+  "foreigners": "9337",
+  "births": "442"
+}, {
+  "population": "53975.8",
+  "unemployed": "2897",
+  "shape": "gesamt",
+  "year": 2006,
+  "district": "Feldmoching - Hasenbergl",
+  "districtNumber": "24",
+  "foreigners": "13927",
+  "births": "502"
+}, {
+  "population": "46238.1",
+  "unemployed": "2183.5",
+  "shape": "gesamt",
+  "year": 2006,
+  "district": "Obergiesing - Fasangarten",
+  "districtNumber": "17",
+  "foreigners": "12914",
+  "births": "496"
+}, {
+  "population": "79940.2",
+  "unemployed": "2322",
+  "shape": "gesamt",
+  "year": 2006,
+  "district": "Thalkirchen - Obersendling - Forstenried - F\u00c3\u0192\u00c2\u00bcrstenried - Solln",
+  "districtNumber": "19",
+  "foreigners": "15219",
+  "births": "744"
+}, {
+  "population": "18800.8",
+  "unemployed": "421.3",
+  "shape": "gesamt",
+  "year": 2006,
+  "district": "Altstadt - Lehel",
+  "districtNumber": "1",
+  "foreigners": "11942",
+  "births": "174"
+}, {
+  "population": "18800.8",
+  "unemployed": "2338.5",
+  "shape": "gesamt",
+  "year": 2006,
+  "district": "Altstadt - Lehel",
+  "districtNumber": "1",
+  "foreigners": "11942",
+  "births": "174"
+}, {
+  "population": "47543.3",
+  "unemployed": "421.3",
+  "shape": "gesamt",
+  "year": 2006,
+  "district": "Moosach",
+  "districtNumber": "1",
+  "foreigners": "11942",
+  "births": "480"
+}, {
+  "population": "47543.3",
+  "unemployed": "2338.5",
+  "shape": "gesamt",
+  "year": 2006,
+  "district": "Moosach",
+  "districtNumber": "1",
+  "foreigners": "11942",
+  "births": "480"
+}, {
+  "population": "81536",
+  "unemployed": "2320.3",
+  "shape": "gesamt",
+  "year": 2007,
+  "district": "Thalkirchen - Obersendling - Forstenried - F\u00c3\u0192\u00c2\u00bcrstenried - Solln",
+  "districtNumber": "19",
+  "foreigners": "15849",
+  "births": "776"
+}, {
+  "population": "50388.3",
+  "unemployed": "2141.3",
+  "shape": "gesamt",
+  "year": 2007,
+  "district": "Laim",
+  "districtNumber": "25",
+  "foreigners": "11010",
+  "births": "450"
+}, {
+  "population": "76111.5",
+  "unemployed": "1922.5",
+  "shape": "gesamt",
+  "year": 2007,
+  "district": "Bogenhausen",
+  "districtNumber": "13",
+  "foreigners": "13892",
+  "births": "778"
+}, {
+  "population": "46103.2",
+  "unemployed": "1726.8",
+  "shape": "gesamt",
+  "year": 2007,
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "districtNumber": "10",
+  "foreigners": "9744",
+  "births": "517"
+}, {
+  "population": "46103.2",
+  "unemployed": "1899",
+  "shape": "gesamt",
+  "year": 2007,
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "districtNumber": "10",
+  "foreigners": "9744",
+  "births": "517"
+}, {
+  "population": "45468.1",
+  "unemployed": "1726.8",
+  "shape": "gesamt",
+  "year": 2007,
+  "district": "Hadern",
+  "districtNumber": "2",
+  "foreigners": "9744",
+  "births": "407"
+}, {
+  "population": "45468.1",
+  "unemployed": "1899",
+  "shape": "gesamt",
+  "year": 2007,
+  "district": "Hadern",
+  "districtNumber": "2",
+  "foreigners": "9744",
+  "births": "407"
+}, {
+  "population": "55357.4",
+  "unemployed": "1667",
+  "shape": "gesamt",
+  "year": 2007,
+  "district": "Trudering - Riem",
+  "districtNumber": "15",
+  "foreigners": "9223",
+  "births": "670"
+}, {
+  "population": "48491.3",
+  "unemployed": "1758.8",
+  "shape": "gesamt",
+  "year": 2007,
+  "district": "Untergiesing - Harlaching",
+  "districtNumber": "18",
+  "foreigners": "9659",
+  "births": "484"
+}, {
+  "population": "51319.1",
+  "unemployed": "2511.8",
+  "shape": "gesamt",
+  "year": 2007,
+  "district": "Sendling - Westpark",
+  "districtNumber": "7",
+  "foreigners": "11830",
+  "births": "496"
+}, {
+  "population": "37586.7",
+  "unemployed": "1753.3",
+  "shape": "gesamt",
+  "year": 2007,
+  "district": "Sendling",
+  "districtNumber": "6",
+  "foreigners": "9732",
+  "births": "440"
+}, {
+  "population": "47357.2",
+  "unemployed": "2185.8",
+  "shape": "gesamt",
+  "year": 2007,
+  "district": "Obergiesing - Fasangarten",
+  "districtNumber": "17",
+  "foreigners": "13153",
+  "births": "500"
+}, {
+  "population": "26427.7",
+  "unemployed": "1446.3",
+  "shape": "gesamt",
+  "year": 2007,
+  "district":  "Schwanthalerhöhe",
+  "districtNumber": "8",
+  "foreigners": "9491",
+  "births": "314"
+}, {
+  "population": "37940.1",
+  "unemployed": "1488",
+  "shape": "gesamt",
+  "year": 2007,
+  "district": "Aubing - Lochhausen - Langwied",
+  "districtNumber": "22",
+  "foreigners": "7082",
+  "births": "336"
+}, {
+  "population": "28027.5",
+  "unemployed": "672.5",
+  "shape": "gesamt",
+  "year": 2007,
+  "district": "Allach - Untermenzing",
+  "districtNumber": "23",
+  "foreigners": "4540",
+  "births": "259"
+}, {
+  "population": "67535.5",
+  "unemployed": "3945.3",
+  "shape": "gesamt",
+  "year": 2007,
+  "district": "Milbertshofen - Am Hart",
+  "districtNumber": "11",
+  "foreigners": "23903",
+  "births": "667"
+}, {
+  "population": "48050.6",
+  "unemployed": "2422",
+  "shape": "gesamt",
+  "year": 2007,
+  "district": "Moosach",
+  "districtNumber": "1",
+  "foreigners": "12192",
+  "births": "474"
+}, {
+  "population": "48050.6",
+  "unemployed": "374.3",
+  "shape": "gesamt",
+  "year": 2007,
+  "district": "Moosach",
+  "districtNumber": "1",
+  "foreigners": "12192",
+  "births": "474"
+}, {
+  "population": "19072.8",
+  "unemployed": "2422",
+  "shape": "gesamt",
+  "year": 2007,
+  "district": "Altstadt - Lehel",
+  "districtNumber": "1",
+  "foreigners": "12192",
+  "births": "200"
+}, {
+  "population": "19072.8",
+  "unemployed": "374.3",
+  "shape": "gesamt",
+  "year": 2007,
+  "district": "Altstadt - Lehel",
+  "districtNumber": "1",
+  "foreigners": "12192",
+  "births": "200"
+}, {
+  "population": "46813.4",
+  "unemployed": "1369.3",
+  "shape": "gesamt",
+  "year": 2007,
+  "district": "Maxvorstadt",
+  "districtNumber": "3",
+  "foreigners": "11111",
+  "births": "459"
+}, {
+  "population": "39358.4",
+  "unemployed": "2013.5",
+  "shape": "gesamt",
+  "year": 2007,
+  "district": "Berg am Laim",
+  "districtNumber": "14",
+  "foreigners": "10521",
+  "births": "413"
+}, {
+  "population": "64345",
+  "unemployed": "1806.8",
+  "shape": "gesamt",
+  "year": 2007,
+  "district": "Pasing",
+  "districtNumber": "21",
+  "foreigners": "11067",
+  "births": "677"
+}, {
+  "population": "63029.9",
+  "unemployed": "2025.5",
+  "shape": "gesamt",
+  "year": 2007,
+  "district": "Schwabing - Freimann",
+  "districtNumber": "12",
+  "foreigners": "14542",
+  "births": "612"
+}, {
+  "population": "85296",
+  "unemployed": "2702.8",
+  "shape": "gesamt",
+  "year": 2007,
+  "district": "Neuhausen - Nymphenburg",
+  "districtNumber": "9",
+  "foreigners": "18118",
+  "births": "898"
+}, {
+  "population": "103251.7",
+  "unemployed": "6093.8",
+  "shape": "gesamt",
+  "year": 2007,
+  "district": "Ramersdorf - Perlach",
+  "districtNumber": "16",
+  "foreigners": "28005",
+  "births": "1008"
+}, {
+  "population": "60747.5",
+  "unemployed": "1636.8",
+  "shape": "gesamt",
+  "year": 2007,
+  "district": "Schwabing - West",
+  "districtNumber": "4",
+  "foreigners": "12653",
+  "births": "634"
+}, {
+  "population": "54878.7",
+  "unemployed": "1861.5",
+  "shape": "gesamt",
+  "year": 2007,
+  "district": "Au - Haidhausen",
+  "districtNumber": "5",
+  "foreigners": "12247",
+  "births": "633"
+}, {
+  "population": "54868.6",
+  "unemployed": "2901.5",
+  "shape": "gesamt",
+  "year": 2007,
+  "district": "Feldmoching - Hasenbergl",
+  "districtNumber": "24",
+  "foreigners": "14642",
+  "births": "548"
+}, {
+  "population": "48050.6",
+  "unemployed": "2422",
+  "shape": "gesamt",
+  "year": 2007,
+  "district": "Moosach",
+  "districtNumber": "1",
+  "foreigners": "4290",
+  "births": "474"
+}, {
+  "population": "48050.6",
+  "unemployed": "374.3",
+  "shape": "gesamt",
+  "year": 2007,
+  "district": "Moosach",
+  "districtNumber": "1",
+  "foreigners": "4290",
+  "births": "474"
+}, {
+  "population": "19072.8",
+  "unemployed": "2422",
+  "shape": "gesamt",
+  "year": 2007,
+  "district": "Altstadt - Lehel",
+  "districtNumber": "1",
+  "foreigners": "4290",
+  "births": "200"
+}, {
+  "population": "19072.8",
+  "unemployed": "374.3",
+  "shape": "gesamt",
+  "year": 2007,
+  "district": "Altstadt - Lehel",
+  "districtNumber": "1",
+  "foreigners": "4290",
+  "births": "200"
+}, {
+  "population": "46103.2",
+  "unemployed": "1726.8",
+  "shape": "gesamt",
+  "year": 2007,
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "districtNumber": "10",
+  "foreigners": "12824",
+  "births": "517"
+}, {
+  "population": "46103.2",
+  "unemployed": "1899",
+  "shape": "gesamt",
+  "year": 2007,
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "districtNumber": "10",
+  "foreigners": "12824",
+  "births": "517"
+}, {
+  "population": "45468.1",
+  "unemployed": "1726.8",
+  "shape": "gesamt",
+  "year": 2007,
+  "district": "Hadern",
+  "districtNumber": "2",
+  "foreigners": "12824",
+  "births": "407"
+}, {
+  "population": "45468.1",
+  "unemployed": "1899",
+  "shape": "gesamt",
+  "year": 2007,
+  "district": "Hadern",
+  "districtNumber": "2",
+  "foreigners": "12824",
+  "births": "407"
+}, {
+  "population": "67710.9",
+  "unemployed": "3831.3",
+  "shape": "gesamt",
+  "year": 2008,
+  "district": "Milbertshofen - Am Hart",
+  "districtNumber": "11",
+  "foreigners": "24105",
+  "births": "642"
+}, {
+  "population": "82444",
+  "unemployed": "2229.3",
+  "shape": "gesamt",
+  "year": 2008,
+  "district": "Thalkirchen - Obersendling - Forstenried - F\u00c3\u0192\u00c2\u00bcrstenried - Solln",
+  "districtNumber": "19",
+  "foreigners": "15964",
+  "births": "802"
+}, {
+  "population": "76878.8",
+  "unemployed": "1873.8",
+  "shape": "gesamt",
+  "year": 2008,
+  "district": "Bogenhausen",
+  "districtNumber": "13",
+  "foreigners": "14097",
+  "births": "825"
+}, {
+  "population": "47159.2",
+  "unemployed": "1851",
+  "shape": "gesamt",
+  "year": 2008,
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "districtNumber": "10",
+  "foreigners": "13042",
+  "births": "573"
+}, {
+  "population": "47159.2",
+  "unemployed": "1596.5",
+  "shape": "gesamt",
+  "year": 2008,
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "districtNumber": "10",
+  "foreigners": "13042",
+  "births": "573"
+}, {
+  "population": "46137.5",
+  "unemployed": "1851",
+  "shape": "gesamt",
+  "year": 2008,
+  "district": "Hadern",
+  "districtNumber": "2",
+  "foreigners": "13042",
+  "births": "400"
+}, {
+  "population": "46137.5",
+  "unemployed": "1596.5",
+  "shape": "gesamt",
+  "year": 2008,
+  "district": "Hadern",
+  "districtNumber": "2",
+  "foreigners": "13042",
+  "births": "400"
+}, {
+  "population": "47996.1",
+  "unemployed": "2124.5",
+  "shape": "gesamt",
+  "year": 2008,
+  "district": "Obergiesing - Fasangarten",
+  "districtNumber": "17",
+  "foreigners": "13394",
+  "births": "511"
+}, {
+  "population": "38082.3",
+  "unemployed": "1685.5",
+  "shape": "gesamt",
+  "year": 2008,
+  "district": "Sendling",
+  "districtNumber": "6",
+  "foreigners": "9730",
+  "births": "509"
+}, {
+  "population": "27376.1",
+  "unemployed": "1427.3",
+  "shape": "gesamt",
+  "year": 2008,
+  "district":  "Schwanthalerhöhe",
+  "districtNumber": "8",
+  "foreigners": "9819",
+  "births": "316"
+}, {
+  "population": "38169.5",
+  "unemployed": "1366.5",
+  "shape": "gesamt",
+  "year": 2008,
+  "district": "Aubing - Lochhausen - Langwied",
+  "districtNumber": "22",
+  "foreigners": "7213",
+  "births": "348"
+}, {
+  "population": "28539.2",
+  "unemployed": "642.8",
+  "shape": "gesamt",
+  "year": 2008,
+  "district": "Allach - Untermenzing",
+  "districtNumber": "23",
+  "foreigners": "4646",
+  "births": "280"
+}, {
+  "population": "39870.1",
+  "unemployed": "1906.5",
+  "shape": "gesamt",
+  "year": 2008,
+  "district": "Berg am Laim",
+  "districtNumber": "14",
+  "foreigners": "10746",
+  "births": "419"
+}, {
+  "population": "62070.2",
+  "unemployed": "1505",
+  "shape": "gesamt",
+  "year": 2008,
+  "district": "Schwabing - West",
+  "districtNumber": "4",
+  "foreigners": "12635",
+  "births": "707"
+}, {
+  "population": "57946.8",
+  "unemployed": "1740.3",
+  "shape": "gesamt",
+  "year": 2008,
+  "district": "Trudering - Riem",
+  "districtNumber": "15",
+  "foreigners": "9876",
+  "births": "694"
+}, {
+  "population": "103798.8",
+  "unemployed": "6067.3",
+  "shape": "gesamt",
+  "year": 2008,
+  "district": "Ramersdorf - Perlach",
+  "districtNumber": "16",
+  "foreigners": "28602",
+  "births": "986"
+}, {
+  "population": "48368.6",
+  "unemployed": "2322.5",
+  "shape": "gesamt",
+  "year": 2008,
+  "district": "Moosach",
+  "districtNumber": "1",
+  "foreigners": "12352",
+  "births": "490"
+}, {
+  "population": "48368.6",
+  "unemployed": "352.5",
+  "shape": "gesamt",
+  "year": 2008,
+  "district": "Moosach",
+  "districtNumber": "1",
+  "foreigners": "12352",
+  "births": "490"
+}, {
+  "population": "19354.8",
+  "unemployed": "2322.5",
+  "shape": "gesamt",
+  "year": 2008,
+  "district": "Altstadt - Lehel",
+  "districtNumber": "1",
+  "foreigners": "12352",
+  "births": "205"
+}, {
+  "population": "19354.8",
+  "unemployed": "352.5",
+  "shape": "gesamt",
+  "year": 2008,
+  "district": "Altstadt - Lehel",
+  "districtNumber": "1",
+  "foreigners": "12352",
+  "births": "205"
+}, {
+  "population": "51870.3",
+  "unemployed": "2459.8",
+  "shape": "gesamt",
+  "year": 2008,
+  "district": "Sendling - Westpark",
+  "districtNumber": "7",
+  "foreigners": "12011",
+  "births": "475"
+}, {
+  "population": "48290.2",
+  "unemployed": "1262.5",
+  "shape": "gesamt",
+  "year": 2008,
+  "district": "Maxvorstadt",
+  "districtNumber": "3",
+  "foreigners": "11304",
+  "births": "476"
+}, {
+  "population": "55578.7",
+  "unemployed": "2727",
+  "shape": "gesamt",
+  "year": 2008,
+  "district": "Feldmoching - Hasenbergl",
+  "districtNumber": "24",
+  "foreigners": "14780",
+  "births": "531"
+}, {
+  "population": "48368.6",
+  "unemployed": "2322.5",
+  "shape": "gesamt",
+  "year": 2008,
+  "district": "Moosach",
+  "districtNumber": "1",
+  "foreigners": "4386",
+  "births": "490"
+}, {
+  "population": "48368.6",
+  "unemployed": "352.5",
+  "shape": "gesamt",
+  "year": 2008,
+  "district": "Moosach",
+  "districtNumber": "1",
+  "foreigners": "4386",
+  "births": "490"
+}, {
+  "population": "19354.8",
+  "unemployed": "2322.5",
+  "shape": "gesamt",
+  "year": 2008,
+  "district": "Altstadt - Lehel",
+  "districtNumber": "1",
+  "foreigners": "4386",
+  "births": "205"
+}, {
+  "population": "19354.8",
+  "unemployed": "352.5",
+  "shape": "gesamt",
+  "year": 2008,
+  "district": "Altstadt - Lehel",
+  "districtNumber": "1",
+  "foreigners": "4386",
+  "births": "205"
+}, {
+  "population": "49107.5",
+  "unemployed": "1713.5",
+  "shape": "gesamt",
+  "year": 2008,
+  "district": "Untergiesing - Harlaching",
+  "districtNumber": "18",
+  "foreigners": "9765",
+  "births": "486"
+}, {
+  "population": "64838.2",
+  "unemployed": "1777.5",
+  "shape": "gesamt",
+  "year": 2008,
+  "district": "Pasing",
+  "districtNumber": "21",
+  "foreigners": "11025",
+  "births": "680"
+}, {
+  "population": "63865.3",
+  "unemployed": "1974",
+  "shape": "gesamt",
+  "year": 2008,
+  "district": "Schwabing - Freimann",
+  "districtNumber": "12",
+  "foreigners": "14581",
+  "births": "609"
+}, {
+  "population": "47159.2",
+  "unemployed": "1851",
+  "shape": "gesamt",
+  "year": 2008,
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "districtNumber": "10",
+  "foreigners": "9947",
+  "births": "573"
+}, {
+  "population": "47159.2",
+  "unemployed": "1596.5",
+  "shape": "gesamt",
+  "year": 2008,
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "districtNumber": "10",
+  "foreigners": "9947",
+  "births": "573"
+}, {
+  "population": "46137.5",
+  "unemployed": "1851",
+  "shape": "gesamt",
+  "year": 2008,
+  "district": "Hadern",
+  "districtNumber": "2",
+  "foreigners": "9947",
+  "births": "400"
+}, {
+  "population": "46137.5",
+  "unemployed": "1596.5",
+  "shape": "gesamt",
+  "year": 2008,
+  "district": "Hadern",
+  "districtNumber": "2",
+  "foreigners": "9947",
+  "births": "400"
+}, {
+  "population": "50879.3",
+  "unemployed": "2074.3",
+  "shape": "gesamt",
+  "year": 2008,
+  "district": "Laim",
+  "districtNumber": "25",
+  "foreigners": "11209",
+  "births": "506"
+}, {
+  "population": "55612.2",
+  "unemployed": "1687.3",
+  "shape": "gesamt",
+  "year": 2008,
+  "district": "Au - Haidhausen",
+  "districtNumber": "5",
+  "foreigners": "12247",
+  "births": "642"
+}, {
+  "population": "86382",
+  "unemployed": "2529.8",
+  "shape": "gesamt",
+  "year": 2008,
+  "district": "Neuhausen - Nymphenburg",
+  "districtNumber": "9",
+  "foreigners": "18436",
+  "births": "928"
+}, {
+  "population": "46309.5",
+  "unemployed": "1678.5",
+  "shape": "gesamt",
+  "year": 2009,
+  "district": "Hadern",
+  "districtNumber": "2",
+  "foreigners": "11944",
+  "births": "429"
+}, {
+  "population": "46309.5",
+  "unemployed": "1871",
+  "shape": "gesamt",
+  "year": 2009,
+  "district": "Hadern",
+  "districtNumber": "2",
+  "foreigners": "11944",
+  "births": "429"
+}, {
+  "population": "46713.2",
+  "unemployed": "1678.5",
+  "shape": "gesamt",
+  "year": 2009,
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "districtNumber": "10",
+  "foreigners": "11944",
+  "births": "572"
+}, {
+  "population": "46713.2",
+  "unemployed": "1871",
+  "shape": "gesamt",
+  "year": 2009,
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "districtNumber": "10",
+  "foreigners": "11944",
+  "births": "572"
+}, {
+  "population": "51974.9",
+  "unemployed": "2548.5",
+  "shape": "gesamt",
+  "year": 2009,
+  "district": "Sendling - Westpark",
+  "districtNumber": "7",
+  "foreigners": "11825",
+  "births": "505"
+}, {
+  "population": "38179.8",
+  "unemployed": "1410.5",
+  "shape": "gesamt",
+  "year": 2009,
+  "district": "Aubing - Lochhausen - Langwied",
+  "districtNumber": "22",
+  "foreigners": "7157",
+  "births": "344"
+}, {
+  "population": "46309.5",
+  "unemployed": "1678.5",
+  "shape": "gesamt",
+  "year": 2009,
+  "district": "Hadern",
+  "districtNumber": "2",
+  "foreigners": "9973",
+  "births": "429"
+}, {
+  "population": "46309.5",
+  "unemployed": "1871",
+  "shape": "gesamt",
+  "year": 2009,
+  "district": "Hadern",
+  "districtNumber": "2",
+  "foreigners": "9973",
+  "births": "429"
+}, {
+  "population": "46713.2",
+  "unemployed": "1678.5",
+  "shape": "gesamt",
+  "year": 2009,
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "districtNumber": "10",
+  "foreigners": "9973",
+  "births": "572"
+}, {
+  "population": "46713.2",
+  "unemployed": "1871",
+  "shape": "gesamt",
+  "year": 2009,
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "districtNumber": "10",
+  "foreigners": "9973",
+  "births": "572"
+}, {
+  "population": "82362.7",
+  "unemployed": "2344.5",
+  "shape": "gesamt",
+  "year": 2009,
+  "district": "Thalkirchen - Obersendling - Forstenried - F\u00c3\u0192\u00c2\u00bcrstenried - Solln",
+  "districtNumber": "19",
+  "foreigners": "15647",
+  "births": "799"
+}, {
+  "population": "39782.7",
+  "unemployed": "2009",
+  "shape": "gesamt",
+  "year": 2009,
+  "district": "Berg am Laim",
+  "districtNumber": "14",
+  "foreigners": "10579",
+  "births": "427"
+}, {
+  "population": "28592.6",
+  "unemployed": "675",
+  "shape": "gesamt",
+  "year": 2009,
+  "district": "Allach - Untermenzing",
+  "districtNumber": "23",
+  "foreigners": "4480",
+  "births": "300"
+}, {
+  "population": "65049.3",
+  "unemployed": "1924.3",
+  "shape": "gesamt",
+  "year": 2009,
+  "district": "Pasing",
+  "districtNumber": "21",
+  "foreigners": "10792",
+  "births": "668"
+}, {
+  "population": "76669.6",
+  "unemployed": "1846.5",
+  "shape": "gesamt",
+  "year": 2009,
+  "district": "Bogenhausen",
+  "districtNumber": "13",
+  "foreigners": "13628",
+  "births": "744"
+}, {
+  "population": "55094.3",
+  "unemployed": "2752.5",
+  "shape": "gesamt",
+  "year": 2009,
+  "district": "Feldmoching - Hasenbergl",
+  "districtNumber": "24",
+  "foreigners": "14265",
+  "births": "571"
+}, {
+  "population": "48200.7",
+  "unemployed": "345.8",
+  "shape": "gesamt",
+  "year": 2009,
+  "district": "Moosach",
+  "districtNumber": "1",
+  "foreigners": "3925",
+  "births": "499"
+}, {
+  "population": "48200.7",
+  "unemployed": "2424.3",
+  "shape": "gesamt",
+  "year": 2009,
+  "district": "Moosach",
+  "districtNumber": "1",
+  "foreigners": "3925",
+  "births": "499"
+}, {
+  "population": "19053.4",
+  "unemployed": "345.8",
+  "shape": "gesamt",
+  "year": 2009,
+  "district": "Altstadt - Lehel",
+  "districtNumber": "1",
+  "foreigners": "3925",
+  "births": "221"
+}, {
+  "population": "19053.4",
+  "unemployed": "2424.3",
+  "shape": "gesamt",
+  "year": 2009,
+  "district": "Altstadt - Lehel",
+  "districtNumber": "1",
+  "foreigners": "3925",
+  "births": "221"
+}, {
+  "population": "48400.3",
+  "unemployed": "1299",
+  "shape": "gesamt",
+  "year": 2009,
+  "district": "Maxvorstadt",
+  "districtNumber": "3",
+  "foreigners": "10888",
+  "births": "516"
+}, {
+  "population": "47977.2",
+  "unemployed": "2157.8",
+  "shape": "gesamt",
+  "year": 2009,
+  "district": "Obergiesing - Fasangarten",
+  "districtNumber": "17",
+  "foreigners": "13407",
+  "births": "531"
+}, {
+  "population": "67726",
+  "unemployed": "4007.3",
+  "shape": "gesamt",
+  "year": 2009,
+  "district": "Milbertshofen - Am Hart",
+  "districtNumber": "11",
+  "foreigners": "23683",
+  "births": "755"
+}, {
+  "population": "103510.5",
+  "unemployed": "6353.8",
+  "shape": "gesamt",
+  "year": 2009,
+  "district": "Ramersdorf - Perlach",
+  "districtNumber": "16",
+  "foreigners": "28340",
+  "births": "1018"
+}, {
+  "population": "55463.9",
+  "unemployed": "1686.5",
+  "shape": "gesamt",
+  "year": 2009,
+  "district": "Au - Haidhausen",
+  "districtNumber": "5",
+  "foreigners": "11765",
+  "births": "734"
+}, {
+  "population": "27721.7",
+  "unemployed": "1411.8",
+  "shape": "gesamt",
+  "year": 2009,
+  "district":  "Schwanthalerhöhe",
+  "districtNumber": "8",
+  "foreigners": "9358",
+  "births": "334"
+}, {
+  "population": "48947.2",
+  "unemployed": "1829.3",
+  "shape": "gesamt",
+  "year": 2009,
+  "district": "Untergiesing - Harlaching",
+  "districtNumber": "18",
+  "foreigners": "9263",
+  "births": "463"
+}, {
+  "population": "61895.9",
+  "unemployed": "1543.8",
+  "shape": "gesamt",
+  "year": 2009,
+  "district": "Schwabing - West",
+  "districtNumber": "4",
+  "foreigners": "12181",
+  "births": "681"
+}, {
+  "population": "38089.3",
+  "unemployed": "1770.8",
+  "shape": "gesamt",
+  "year": 2009,
+  "district": "Sendling",
+  "districtNumber": "6",
+  "foreigners": "9250",
+  "births": "467"
+}, {
+  "population": "87206.6",
+  "unemployed": "2639.8",
+  "shape": "gesamt",
+  "year": 2009,
+  "district": "Neuhausen - Nymphenburg",
+  "districtNumber": "9",
+  "foreigners": "18147",
+  "births": "962"
+}, {
+  "population": "48200.7",
+  "unemployed": "345.8",
+  "shape": "gesamt",
+  "year": 2009,
+  "district": "Moosach",
+  "districtNumber": "1",
+  "foreigners": "12679",
+  "births": "499"
+}, {
+  "population": "48200.7",
+  "unemployed": "2424.3",
+  "shape": "gesamt",
+  "year": 2009,
+  "district": "Moosach",
+  "districtNumber": "1",
+  "foreigners": "12679",
+  "births": "499"
+}, {
+  "population": "19053.4",
+  "unemployed": "345.8",
+  "shape": "gesamt",
+  "year": 2009,
+  "district": "Altstadt - Lehel",
+  "districtNumber": "1",
+  "foreigners": "12679",
+  "births": "221"
+}, {
+  "population": "19053.4",
+  "unemployed": "2424.3",
+  "shape": "gesamt",
+  "year": 2009,
+  "district": "Altstadt - Lehel",
+  "districtNumber": "1",
+  "foreigners": "12679",
+  "births": "221"
+}, {
+  "population": "51142.3",
+  "unemployed": "2074.5",
+  "shape": "gesamt",
+  "year": 2009,
+  "district": "Laim",
+  "districtNumber": "25",
+  "foreigners": "11059",
+  "births": "472"
+}, {
+  "population": "59836.3",
+  "unemployed": "1825.8",
+  "shape": "gesamt",
+  "year": 2009,
+  "district": "Trudering - Riem",
+  "districtNumber": "15",
+  "foreigners": "10321",
+  "births": "721"
+}, {
+  "population": "63646.2",
+  "unemployed": "2037.3",
+  "shape": "gesamt",
+  "year": 2009,
+  "district": "Schwabing - Freimann",
+  "districtNumber": "12",
+  "foreigners": "14013",
+  "births": "573"
+}, {
+  "population": "68660",
+  "unemployed": "4240.8",
+  "shape": "gesamt",
+  "year": 2010,
+  "district": "Milbertshofen - Am Hart",
+  "districtNumber": "11",
+  "foreigners": "24373",
+  "births": "694"
+}, {
+  "population": "88545.1",
+  "unemployed": "2713",
+  "shape": "gesamt",
+  "year": 2010,
+  "district": "Neuhausen - Nymphenburg",
+  "districtNumber": "9",
+  "foreigners": "18464",
+  "births": "999"
+}, {
+  "population": "82915.2",
+  "unemployed": "2564",
+  "shape": "gesamt",
+  "year": 2010,
+  "district": "Thalkirchen - Obersendling - Forstenried - F\u00c3\u0192\u00c2\u00bcrstenried - Solln",
+  "districtNumber": "19",
+  "foreigners": "16467",
+  "births": "829"
+}, {
+  "population": "65644",
+  "unemployed": "2038.3",
+  "shape": "gesamt",
+  "year": 2010,
+  "district": "Pasing",
+  "districtNumber": "21",
+  "foreigners": "11221",
+  "births": "671"
+}, {
+  "population": "61898.8",
+  "unemployed": "1947.3",
+  "shape": "gesamt",
+  "year": 2010,
+  "district": "Trudering - Riem",
+  "districtNumber": "15",
+  "foreigners": "11078",
+  "births": "742"
+}, {
+  "population": "40039.8",
+  "unemployed": "2169.8",
+  "shape": "gesamt",
+  "year": 2010,
+  "district": "Berg am Laim",
+  "districtNumber": "14",
+  "foreigners": "10960",
+  "births": "436"
+}, {
+  "population": "27873.2",
+  "unemployed": "1430.8",
+  "shape": "gesamt",
+  "year": 2010,
+  "district":  "Schwanthalerhöhe",
+  "districtNumber": "8",
+  "foreigners": "9286",
+  "births": "307"
+}, {
+  "population": "62237.3",
+  "unemployed": "1562.8",
+  "shape": "gesamt",
+  "year": 2010,
+  "district": "Schwabing - West",
+  "districtNumber": "4",
+  "foreigners": "12481",
+  "births": "685"
+}, {
+  "population": "46777.9",
+  "unemployed": "1965.3",
+  "shape": "gesamt",
+  "year": 2010,
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "districtNumber": "10",
+  "foreigners": "10076",
+  "births": "529"
+}, {
+  "population": "46777.9",
+  "unemployed": "1695.3",
+  "shape": "gesamt",
+  "year": 2010,
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "districtNumber": "10",
+  "foreigners": "10076",
+  "births": "529"
+}, {
+  "population": "46533.9",
+  "unemployed": "1965.3",
+  "shape": "gesamt",
+  "year": 2010,
+  "district": "Hadern",
+  "districtNumber": "2",
+  "foreigners": "10076",
+  "births": "429"
+}, {
+  "population": "46533.9",
+  "unemployed": "1695.3",
+  "shape": "gesamt",
+  "year": 2010,
+  "district": "Hadern",
+  "districtNumber": "2",
+  "foreigners": "10076",
+  "births": "429"
+}, {
+  "population": "28979.3",
+  "unemployed": "748.5",
+  "shape": "gesamt",
+  "year": 2010,
+  "district": "Allach - Untermenzing",
+  "districtNumber": "23",
+  "foreigners": "4639",
+  "births": "249"
+}, {
+  "population": "55646.2",
+  "unemployed": "2916",
+  "shape": "gesamt",
+  "year": 2010,
+  "district": "Feldmoching - Hasenbergl",
+  "districtNumber": "24",
+  "foreigners": "15015",
+  "births": "552"
+}, {
+  "population": "38312",
+  "unemployed": "1811",
+  "shape": "gesamt",
+  "year": 2010,
+  "district": "Sendling",
+  "districtNumber": "6",
+  "foreigners": "9344",
+  "births": "456"
+}, {
+  "population": "48603.5",
+  "unemployed": "1269.5",
+  "shape": "gesamt",
+  "year": 2010,
+  "district": "Maxvorstadt",
+  "districtNumber": "3",
+  "foreigners": "10865",
+  "births": "496"
+}, {
+  "population": "38540.2",
+  "unemployed": "1485.5",
+  "shape": "gesamt",
+  "year": 2010,
+  "district": "Aubing - Lochhausen - Langwied",
+  "districtNumber": "22",
+  "foreigners": "7574",
+  "births": "386"
+}, {
+  "population": "19045.7",
+  "unemployed": "350.5",
+  "shape": "gesamt",
+  "year": 2010,
+  "district": "Altstadt - Lehel",
+  "districtNumber": "1",
+  "foreigners": "4039",
+  "births": "244"
+}, {
+  "population": "19045.7",
+  "unemployed": "2498.5",
+  "shape": "gesamt",
+  "year": 2010,
+  "district": "Altstadt - Lehel",
+  "districtNumber": "1",
+  "foreigners": "4039",
+  "births": "244"
+}, {
+  "population": "48435.1",
+  "unemployed": "350.5",
+  "shape": "gesamt",
+  "year": 2010,
+  "district": "Moosach",
+  "districtNumber": "1",
+  "foreigners": "4039",
+  "births": "506"
+}, {
+  "population": "48435.1",
+  "unemployed": "2498.5",
+  "shape": "gesamt",
+  "year": 2010,
+  "district": "Moosach",
+  "districtNumber": "1",
+  "foreigners": "4039",
+  "births": "506"
+}, {
+  "population": "55916.8",
+  "unemployed": "1637",
+  "shape": "gesamt",
+  "year": 2010,
+  "district": "Au - Haidhausen",
+  "districtNumber": "5",
+  "foreigners": "11968",
+  "births": "769"
+}, {
+  "population": "77056.7",
+  "unemployed": "1885.3",
+  "shape": "gesamt",
+  "year": 2010,
+  "district": "Bogenhausen",
+  "districtNumber": "13",
+  "foreigners": "13987",
+  "births": "796"
+}, {
+  "population": "19045.7",
+  "unemployed": "350.5",
+  "shape": "gesamt",
+  "year": 2010,
+  "district": "Altstadt - Lehel",
+  "districtNumber": "1",
+  "foreigners": "12567",
+  "births": "244"
+}, {
+  "population": "19045.7",
+  "unemployed": "2498.5",
+  "shape": "gesamt",
+  "year": 2010,
+  "district": "Altstadt - Lehel",
+  "districtNumber": "1",
+  "foreigners": "12567",
+  "births": "244"
+}, {
+  "population": "48435.1",
+  "unemployed": "350.5",
+  "shape": "gesamt",
+  "year": 2010,
+  "district": "Moosach",
+  "districtNumber": "1",
+  "foreigners": "12567",
+  "births": "506"
+}, {
+  "population": "48435.1",
+  "unemployed": "2498.5",
+  "shape": "gesamt",
+  "year": 2010,
+  "district": "Moosach",
+  "districtNumber": "1",
+  "foreigners": "12567",
+  "births": "506"
+}, {
+  "population": "49169",
+  "unemployed": "1839.5",
+  "shape": "gesamt",
+  "year": 2010,
+  "district": "Untergiesing - Harlaching",
+  "districtNumber": "18",
+  "foreigners": "9574",
+  "births": "484"
+}, {
+  "population": "104150.2",
+  "unemployed": "6612",
+  "shape": "gesamt",
+  "year": 2010,
+  "district": "Ramersdorf - Perlach",
+  "districtNumber": "16",
+  "foreigners": "29308",
+  "births": "984"
+}, {
+  "population": "46777.9",
+  "unemployed": "1965.3",
+  "shape": "gesamt",
+  "year": 2010,
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "districtNumber": "10",
+  "foreigners": "12255",
+  "births": "529"
+}, {
+  "population": "46777.9",
+  "unemployed": "1695.3",
+  "shape": "gesamt",
+  "year": 2010,
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "districtNumber": "10",
+  "foreigners": "12255",
+  "births": "529"
+}, {
+  "population": "46533.9",
+  "unemployed": "1965.3",
+  "shape": "gesamt",
+  "year": 2010,
+  "district": "Hadern",
+  "districtNumber": "2",
+  "foreigners": "12255",
+  "births": "429"
+}, {
+  "population": "46533.9",
+  "unemployed": "1695.3",
+  "shape": "gesamt",
+  "year": 2010,
+  "district": "Hadern",
+  "districtNumber": "2",
+  "foreigners": "12255",
+  "births": "429"
+}, {
+  "population": "52260.3",
+  "unemployed": "2679",
+  "shape": "gesamt",
+  "year": 2010,
+  "district": "Sendling - Westpark",
+  "districtNumber": "7",
+  "foreigners": "12220",
+  "births": "482"
+}, {
+  "population": "51521.8",
+  "unemployed": "2130",
+  "shape": "gesamt",
+  "year": 2010,
+  "district": "Laim",
+  "districtNumber": "25",
+  "foreigners": "11356",
+  "births": "500"
+}, {
+  "population": "64319.6",
+  "unemployed": "2054.8",
+  "shape": "gesamt",
+  "year": 2010,
+  "district": "Schwabing - Freimann",
+  "districtNumber": "12",
+  "foreigners": "14672",
+  "births": "641"
+}, {
+  "population": "48434.4",
+  "unemployed": "2302.5",
+  "shape": "gesamt",
+  "year": 2010,
+  "district": "Obergiesing - Fasangarten",
+  "districtNumber": "17",
+  "foreigners": "13665",
+  "births": "500"
+}, {
+  "population": "47770",
+  "unemployed": "1902.8",
+  "shape": "gesamt",
+  "year": 2011,
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "districtNumber": "10",
+  "foreigners": "10419",
+  "births": "577"
+}, {
+  "population": "47770",
+  "unemployed": "1555.5",
+  "shape": "gesamt",
+  "year": 2011,
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "districtNumber": "10",
+  "foreigners": "10419",
+  "births": "577"
+}, {
+  "population": "47115.8",
+  "unemployed": "1902.8",
+  "shape": "gesamt",
+  "year": 2011,
+  "district": "Hadern",
+  "districtNumber": "2",
+  "foreigners": "10419",
+  "births": "407"
+}, {
+  "population": "47115.8",
+  "unemployed": "1555.5",
+  "shape": "gesamt",
+  "year": 2011,
+  "district": "Hadern",
+  "districtNumber": "2",
+  "foreigners": "10419",
+  "births": "407"
+}, {
+  "population": "38770.6",
+  "unemployed": "1741.5",
+  "shape": "gesamt",
+  "year": 2011,
+  "district": "Sendling",
+  "districtNumber": "6",
+  "foreigners": "9678",
+  "births": "467"
+}, {
+  "population": "65933.2",
+  "unemployed": "1932",
+  "shape": "gesamt",
+  "year": 2011,
+  "district": "Schwabing - Freimann",
+  "districtNumber": "12",
+  "foreigners": "15521",
+  "births": "638"
+}, {
+  "population": "90657.1",
+  "unemployed": "2634.3",
+  "shape": "gesamt",
+  "year": 2011,
+  "district": "Neuhausen - Nymphenburg",
+  "districtNumber": "9",
+  "foreigners": "19848",
+  "births": "1092"
+}, {
+  "population": "56775.2",
+  "unemployed": "2789.5",
+  "shape": "gesamt",
+  "year": 2011,
+  "district": "Feldmoching - Hasenbergl",
+  "districtNumber": "24",
+  "foreigners": "15689",
+  "births": "513"
+}, {
+  "population": "78391.7",
+  "unemployed": "1830.8",
+  "shape": "gesamt",
+  "year": 2011,
+  "district": "Bogenhausen",
+  "districtNumber": "13",
+  "foreigners": "14913",
+  "births": "731"
+}, {
+  "population": "69638.4",
+  "unemployed": "4169.3",
+  "shape": "gesamt",
+  "year": 2011,
+  "district": "Milbertshofen - Am Hart",
+  "districtNumber": "11",
+  "foreigners": "25517",
+  "births": "743"
+}, {
+  "population": "49183.9",
+  "unemployed": "1196",
+  "shape": "gesamt",
+  "year": 2011,
+  "district": "Maxvorstadt",
+  "districtNumber": "3",
+  "foreigners": "11356",
+  "births": "489"
+}, {
+  "population": "63130.3",
+  "unemployed": "1367.3",
+  "shape": "gesamt",
+  "year": 2011,
+  "district": "Schwabing - West",
+  "districtNumber": "4",
+  "foreigners": "12882",
+  "births": "678"
+}, {
+  "population": "49986.7",
+  "unemployed": "1744.8",
+  "shape": "gesamt",
+  "year": 2011,
+  "district": "Untergiesing - Harlaching",
+  "districtNumber": "18",
+  "foreigners": "10179",
+  "births": "476"
+}, {
+  "population": "52338.4",
+  "unemployed": "2081.3",
+  "shape": "gesamt",
+  "year": 2011,
+  "district": "Laim",
+  "districtNumber": "25",
+  "foreigners": "12009",
+  "births": "543"
+}, {
+  "population": "105297.5",
+  "unemployed": "6394",
+  "shape": "gesamt",
+  "year": 2011,
+  "district": "Ramersdorf - Perlach",
+  "districtNumber": "16",
+  "foreigners": "30494",
+  "births": "997"
+}, {
+  "population": "49897.6",
+  "unemployed": "2252",
+  "shape": "gesamt",
+  "year": 2011,
+  "district": "Obergiesing - Fasangarten",
+  "districtNumber": "17",
+  "foreigners": "14509",
+  "births": "543"
+}, {
+  "population": "84440.6",
+  "unemployed": "2553.3",
+  "shape": "gesamt",
+  "year": 2011,
+  "district": "Thalkirchen - Obersendling - Forstenried - F\u00c3\u0192\u00c2\u00bcrstenried - Solln",
+  "districtNumber": "19",
+  "foreigners": "17844",
+  "births": "864"
+}, {
+  "population": "67185.4",
+  "unemployed": "1997.8",
+  "shape": "gesamt",
+  "year": 2011,
+  "district": "Pasing",
+  "districtNumber": "21",
+  "foreigners": "12014",
+  "births": "758"
+}, {
+  "population": "39353.2",
+  "unemployed": "1489",
+  "shape": "gesamt",
+  "year": 2011,
+  "district": "Aubing - Lochhausen - Langwied",
+  "districtNumber": "22",
+  "foreigners": "8078",
+  "births": "380"
+}, {
+  "population": "56842.3",
+  "unemployed": "1558.3",
+  "shape": "gesamt",
+  "year": 2011,
+  "district": "Au - Haidhausen",
+  "districtNumber": "5",
+  "foreigners": "12423",
+  "births": "750"
+}, {
+  "population": "29423",
+  "unemployed": "739.8",
+  "shape": "gesamt",
+  "year": 2011,
+  "district": "Allach - Untermenzing",
+  "districtNumber": "23",
+  "foreigners": "4933",
+  "births": "286"
+}, {
+  "population": "40903.5",
+  "unemployed": "2130.8",
+  "shape": "gesamt",
+  "year": 2011,
+  "district": "Berg am Laim",
+  "districtNumber": "14",
+  "foreigners": "11358",
+  "births": "480"
+}, {
+  "population": "47770",
+  "unemployed": "1902.8",
+  "shape": "gesamt",
+  "year": 2011,
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "districtNumber": "10",
+  "foreigners": "12614",
+  "births": "577"
+}, {
+  "population": "47770",
+  "unemployed": "1555.5",
+  "shape": "gesamt",
+  "year": 2011,
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "districtNumber": "10",
+  "foreigners": "12614",
+  "births": "577"
+}, {
+  "population": "47115.8",
+  "unemployed": "1902.8",
+  "shape": "gesamt",
+  "year": 2011,
+  "district": "Hadern",
+  "districtNumber": "2",
+  "foreigners": "12614",
+  "births": "407"
+}, {
+  "population": "47115.8",
+  "unemployed": "1555.5",
+  "shape": "gesamt",
+  "year": 2011,
+  "district": "Hadern",
+  "districtNumber": "2",
+  "foreigners": "12614",
+  "births": "407"
+}, {
+  "population": "48987.8",
+  "unemployed": "2424",
+  "shape": "gesamt",
+  "year": 2011,
+  "district": "Moosach",
+  "districtNumber": "1",
+  "foreigners": "4356",
+  "births": "469"
+}, {
+  "population": "48987.8",
+  "unemployed": "321",
+  "shape": "gesamt",
+  "year": 2011,
+  "district": "Moosach",
+  "districtNumber": "1",
+  "foreigners": "4356",
+  "births": "469"
+}, {
+  "population": "19474.4",
+  "unemployed": "2424",
+  "shape": "gesamt",
+  "year": 2011,
+  "district": "Altstadt - Lehel",
+  "districtNumber": "1",
+  "foreigners": "4356",
+  "births": "200"
+}, {
+  "population": "19474.4",
+  "unemployed": "321",
+  "shape": "gesamt",
+  "year": 2011,
+  "district": "Altstadt - Lehel",
+  "districtNumber": "1",
+  "foreigners": "4356",
+  "births": "200"
+}, {
+  "population": "52849.6",
+  "unemployed": "2624.8",
+  "shape": "gesamt",
+  "year": 2011,
+  "district": "Sendling - Westpark",
+  "districtNumber": "7",
+  "foreigners": "12907",
+  "births": "544"
+}, {
+  "population": "28241.3",
+  "unemployed": "1345.8",
+  "shape": "gesamt",
+  "year": 2011,
+  "district":  "Schwanthalerhöhe",
+  "districtNumber": "8",
+  "foreigners": "9603",
+  "births": "351"
+}, {
+  "population": "48987.8",
+  "unemployed": "2424",
+  "shape": "gesamt",
+  "year": 2011,
+  "district": "Moosach",
+  "districtNumber": "1",
+  "foreigners": "13418",
+  "births": "469"
+}, {
+  "population": "48987.8",
+  "unemployed": "321",
+  "shape": "gesamt",
+  "year": 2011,
+  "district": "Moosach",
+  "districtNumber": "1",
+  "foreigners": "13418",
+  "births": "469"
+}, {
+  "population": "19474.4",
+  "unemployed": "2424",
+  "shape": "gesamt",
+  "year": 2011,
+  "district": "Altstadt - Lehel",
+  "districtNumber": "1",
+  "foreigners": "13418",
+  "births": "200"
+}, {
+  "population": "19474.4",
+  "unemployed": "321",
+  "shape": "gesamt",
+  "year": 2011,
+  "district": "Altstadt - Lehel",
+  "districtNumber": "1",
+  "foreigners": "13418",
+  "births": "200"
+}, {
+  "population": "64222",
+  "unemployed": "2198.5",
+  "shape": "gesamt",
+  "year": 2011,
+  "district": "Trudering - Riem",
+  "districtNumber": "15",
+  "foreigners": "12173",
+  "births": "738"
+}, {
+  "population": "65354",
+  "unemployed": "2209",
+  "shape": "gesamt",
+  "year": 2012,
+  "district": "Trudering - Riem",
+  "districtNumber": "15",
+  "foreigners": "12466",
+  "births": "704"
+}, {
+  "population": "86454.8",
+  "unemployed": "2465",
+  "shape": "gesamt",
+  "year": 2012,
+  "district": "Thalkirchen - Obersendling - Forstenried - F\u00c3\u0192\u00c2\u00bcrstenried - Solln",
+  "districtNumber": "19",
+  "foreigners": "18895",
+  "births": "868"
+}, {
+  "population": "41789.8",
+  "unemployed": "2126.8",
+  "shape": "gesamt",
+  "year": 2012,
+  "district": "Berg am Laim",
+  "districtNumber": "14",
+  "foreigners": "11933",
+  "births": "489"
+}, {
+  "population": "19931.5",
+  "unemployed": "2308",
+  "shape": "gesamt",
+  "year": 2012,
+  "district": "Altstadt - Lehel",
+  "districtNumber": "1",
+  "foreigners": "4729",
+  "births": "198"
+}, {
+  "population": "19931.5",
+  "unemployed": "284.5",
+  "shape": "gesamt",
+  "year": 2012,
+  "district": "Altstadt - Lehel",
+  "districtNumber": "1",
+  "foreigners": "4729",
+  "births": "198"
+}, {
+  "population": "49801.9",
+  "unemployed": "2308",
+  "shape": "gesamt",
+  "year": 2012,
+  "district": "Moosach",
+  "districtNumber": "1",
+  "foreigners": "4729",
+  "births": "488"
+}, {
+  "population": "49801.9",
+  "unemployed": "284.5",
+  "shape": "gesamt",
+  "year": 2012,
+  "district": "Moosach",
+  "districtNumber": "1",
+  "foreigners": "4729",
+  "births": "488"
+}, {
+  "population": "47697.3",
+  "unemployed": "1828.5",
+  "shape": "gesamt",
+  "year": 2012,
+  "district": "Hadern",
+  "districtNumber": "2",
+  "foreigners": "13604",
+  "births": "448"
+}, {
+  "population": "47697.3",
+  "unemployed": "1486",
+  "shape": "gesamt",
+  "year": 2012,
+  "district": "Hadern",
+  "districtNumber": "2",
+  "foreigners": "13604",
+  "births": "448"
+}, {
+  "population": "49063",
+  "unemployed": "1828.5",
+  "shape": "gesamt",
+  "year": 2012,
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "districtNumber": "10",
+  "foreigners": "13604",
+  "births": "565"
+}, {
+  "population": "49063",
+  "unemployed": "1486",
+  "shape": "gesamt",
+  "year": 2012,
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "districtNumber": "10",
+  "foreigners": "13604",
+  "births": "565"
+}, {
+  "population": "58016.1",
+  "unemployed": "1479",
+  "shape": "gesamt",
+  "year": 2012,
+  "district": "Au - Haidhausen",
+  "districtNumber": "5",
+  "foreigners": "13049",
+  "births": "770"
+}, {
+  "population": "53914.5",
+  "unemployed": "2507.3",
+  "shape": "gesamt",
+  "year": 2012,
+  "district": "Sendling - Westpark",
+  "districtNumber": "7",
+  "foreigners": "13829",
+  "births": "562"
+}, {
+  "population": "51057.2",
+  "unemployed": "2133.8",
+  "shape": "gesamt",
+  "year": 2012,
+  "district": "Obergiesing - Fasangarten",
+  "districtNumber": "17",
+  "foreigners": "14909",
+  "births": "551"
+}, {
+  "population": "19931.5",
+  "unemployed": "2308",
+  "shape": "gesamt",
+  "year": 2012,
+  "district": "Altstadt - Lehel",
+  "districtNumber": "1",
+  "foreigners": "14038",
+  "births": "198"
+}, {
+  "population": "19931.5",
+  "unemployed": "284.5",
+  "shape": "gesamt",
+  "year": 2012,
+  "district": "Altstadt - Lehel",
+  "districtNumber": "1",
+  "foreigners": "14038",
+  "births": "198"
+}, {
+  "population": "49801.9",
+  "unemployed": "2308",
+  "shape": "gesamt",
+  "year": 2012,
+  "district": "Moosach",
+  "districtNumber": "1",
+  "foreigners": "14038",
+  "births": "488"
+}, {
+  "population": "49801.9",
+  "unemployed": "284.5",
+  "shape": "gesamt",
+  "year": 2012,
+  "district": "Moosach",
+  "districtNumber": "1",
+  "foreigners": "14038",
+  "births": "488"
+}, {
+  "population": "39315.6",
+  "unemployed": "1654",
+  "shape": "gesamt",
+  "year": 2012,
+  "district": "Sendling",
+  "districtNumber": "6",
+  "foreigners": "10088",
+  "births": "479"
+}, {
+  "population": "30031.3",
+  "unemployed": "732.8",
+  "shape": "gesamt",
+  "year": 2012,
+  "district": "Allach - Untermenzing",
+  "districtNumber": "23",
+  "foreigners": "5396",
+  "births": "306"
+}, {
+  "population": "80219.3",
+  "unemployed": "1707.8",
+  "shape": "gesamt",
+  "year": 2012,
+  "district": "Bogenhausen",
+  "districtNumber": "13",
+  "foreigners": "16166",
+  "births": "749"
+}, {
+  "population": "68650.8",
+  "unemployed": "1926.5",
+  "shape": "gesamt",
+  "year": 2012,
+  "district": "Pasing",
+  "districtNumber": "21",
+  "foreigners": "12882",
+  "births": "711"
+}, {
+  "population": "47697.3",
+  "unemployed": "1828.5",
+  "shape": "gesamt",
+  "year": 2012,
+  "district": "Hadern",
+  "districtNumber": "2",
+  "foreigners": "10914",
+  "births": "448"
+}, {
+  "population": "47697.3",
+  "unemployed": "1486",
+  "shape": "gesamt",
+  "year": 2012,
+  "district": "Hadern",
+  "districtNumber": "2",
+  "foreigners": "10914",
+  "births": "448"
+}, {
+  "population": "49063",
+  "unemployed": "1828.5",
+  "shape": "gesamt",
+  "year": 2012,
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "districtNumber": "10",
+  "foreigners": "10914",
+  "births": "565"
+}, {
+  "population": "49063",
+  "unemployed": "1486",
+  "shape": "gesamt",
+  "year": 2012,
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "districtNumber": "10",
+  "foreigners": "10914",
+  "births": "565"
+}, {
+  "population": "64336.3",
+  "unemployed": "1375.8",
+  "shape": "gesamt",
+  "year": 2012,
+  "district": "Schwabing - West",
+  "districtNumber": "4",
+  "foreigners": "13462",
+  "births": "707"
+}, {
+  "population": "71505.6",
+  "unemployed": "4096.3",
+  "shape": "gesamt",
+  "year": 2012,
+  "district": "Milbertshofen - Am Hart",
+  "districtNumber": "11",
+  "foreigners": "27197",
+  "births": "749"
+}, {
+  "population": "57770.7",
+  "unemployed": "2735.8",
+  "shape": "gesamt",
+  "year": 2012,
+  "district": "Feldmoching - Hasenbergl",
+  "districtNumber": "24",
+  "foreigners": "16556",
+  "births": "600"
+}, {
+  "population": "50127.3",
+  "unemployed": "1141.8",
+  "shape": "gesamt",
+  "year": 2012,
+  "district": "Maxvorstadt",
+  "districtNumber": "3",
+  "foreigners": "12225",
+  "births": "533"
+}, {
+  "population": "50833.5",
+  "unemployed": "1677.5",
+  "shape": "gesamt",
+  "year": 2012,
+  "district": "Untergiesing - Harlaching",
+  "districtNumber": "18",
+  "foreigners": "10649",
+  "births": "516"
+}, {
+  "population": "93601.6",
+  "unemployed": "2629.3",
+  "shape": "gesamt",
+  "year": 2012,
+  "district": "Neuhausen - Nymphenburg",
+  "districtNumber": "9",
+  "foreigners": "21126",
+  "births": "1133"
+}, {
+  "population": "67569.4",
+  "unemployed": "1919.3",
+  "shape": "gesamt",
+  "year": 2012,
+  "district": "Schwabing - Freimann",
+  "districtNumber": "12",
+  "foreigners": "16605",
+  "births": "698"
+}, {
+  "population": "52997.4",
+  "unemployed": "1981.8",
+  "shape": "gesamt",
+  "year": 2012,
+  "district": "Laim",
+  "districtNumber": "25",
+  "foreigners": "12675",
+  "births": "514"
+}, {
+  "population": "106715.9",
+  "unemployed": "6077.5",
+  "shape": "gesamt",
+  "year": 2012,
+  "district": "Ramersdorf - Perlach",
+  "districtNumber": "16",
+  "foreigners": "31778",
+  "births": "980"
+}, {
+  "population": "29153.2",
+  "unemployed": "1361.8",
+  "shape": "gesamt",
+  "year": 2012,
+  "district":  "Schwanthalerhöhe",
+  "districtNumber": "8",
+  "foreigners": "9814",
+  "births": "371"
+}, {
+  "population": "40444.4",
+  "unemployed": "1502.3",
+  "shape": "gesamt",
+  "year": 2012,
+  "district": "Aubing - Lochhausen - Langwied",
+  "districtNumber": "22",
+  "foreigners": "8806",
+  "births": "403"
+}, {
+  "population": "65247.2",
+  "unemployed": "1347.3",
+  "shape": "gesamt",
+  "year": 2013,
+  "district": "Schwabing - West",
+  "districtNumber": "4",
+  "foreigners": "14115",
+  "births": "756"
+}, {
+  "population": "29478.1",
+  "unemployed": "1362",
+  "shape": "gesamt",
+  "year": 2013,
+  "district":  "Schwanthalerhöhe",
+  "districtNumber": "8",
+  "foreigners": "9974",
+  "births": "333"
+}, {
+  "population": "41794.4",
+  "unemployed": "1566",
+  "shape": "gesamt",
+  "year": 2013,
+  "district": "Aubing - Lochhausen - Langwied",
+  "districtNumber": "22",
+  "foreigners": "9435",
+  "births": "467"
+}, {
+  "population": "51553",
+  "unemployed": "1731",
+  "shape": "gesamt",
+  "year": 2013,
+  "district": "Untergiesing - Harlaching",
+  "districtNumber": "18",
+  "foreigners": "11400",
+  "births": "588"
+}, {
+  "population": "72957.9",
+  "unemployed": "4053.3",
+  "shape": "gesamt",
+  "year": 2013,
+  "district": "Milbertshofen - Am Hart",
+  "districtNumber": "11",
+  "foreigners": "28243",
+  "births": "765"
+}, {
+  "population": "48449.6",
+  "unemployed": "1776",
+  "shape": "gesamt",
+  "year": 2013,
+  "district": "Hadern",
+  "districtNumber": "2",
+  "foreigners": "14346",
+  "births": "430"
+}, {
+  "population": "48449.6",
+  "unemployed": "1502.8",
+  "shape": "gesamt",
+  "year": 2013,
+  "district": "Hadern",
+  "districtNumber": "2",
+  "foreigners": "14346",
+  "births": "430"
+}, {
+  "population": "50188.7",
+  "unemployed": "1776",
+  "shape": "gesamt",
+  "year": 2013,
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "districtNumber": "10",
+  "foreigners": "14346",
+  "births": "593"
+}, {
+  "population": "50188.7",
+  "unemployed": "1502.8",
+  "shape": "gesamt",
+  "year": 2013,
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "districtNumber": "10",
+  "foreigners": "14346",
+  "births": "593"
+}, {
+  "population": "66605.1",
+  "unemployed": "2268",
+  "shape": "gesamt",
+  "year": 2013,
+  "district": "Trudering - Riem",
+  "districtNumber": "15",
+  "foreigners": "13023",
+  "births": "735"
+}, {
+  "population": "39752.8",
+  "unemployed": "1601.3",
+  "shape": "gesamt",
+  "year": 2013,
+  "district": "Sendling",
+  "districtNumber": "6",
+  "foreigners": "10386",
+  "births": "487"
+}, {
+  "population": "50934.8",
+  "unemployed": "2061.5",
+  "shape": "gesamt",
+  "year": 2013,
+  "district": "Obergiesing - Fasangarten",
+  "districtNumber": "17",
+  "foreigners": "15047",
+  "births": "638"
+}, {
+  "population": "81399.5",
+  "unemployed": "1722",
+  "shape": "gesamt",
+  "year": 2013,
+  "district": "Bogenhausen",
+  "districtNumber": "13",
+  "foreigners": "17126",
+  "births": "835"
+}, {
+  "population": "107656.2",
+  "unemployed": "5939",
+  "shape": "gesamt",
+  "year": 2013,
+  "district": "Ramersdorf - Perlach",
+  "districtNumber": "16",
+  "foreigners": "32946",
+  "births": "1011"
+}, {
+  "population": "30681.6",
+  "unemployed": "771",
+  "shape": "gesamt",
+  "year": 2013,
+  "district": "Allach - Untermenzing",
+  "districtNumber": "23",
+  "foreigners": "5653",
+  "births": "312"
+}, {
+  "population": "68910.6",
+  "unemployed": "2002",
+  "shape": "gesamt",
+  "year": 2013,
+  "district": "Schwabing - Freimann",
+  "districtNumber": "12",
+  "foreigners": "17687",
+  "births": "713"
+}, {
+  "population": "55123.3",
+  "unemployed": "2378.8",
+  "shape": "gesamt",
+  "year": 2013,
+  "district": "Sendling - Westpark",
+  "districtNumber": "7",
+  "foreigners": "14445",
+  "births": "625"
+}, {
+  "population": "20257.8",
+  "unemployed": "2392.5",
+  "shape": "gesamt",
+  "year": 2013,
+  "district": "Altstadt - Lehel",
+  "districtNumber": "1",
+  "foreigners": "14805",
+  "births": "218"
+}, {
+  "population": "20257.8",
+  "unemployed": "291.3",
+  "shape": "gesamt",
+  "year": 2013,
+  "district": "Altstadt - Lehel",
+  "districtNumber": "1",
+  "foreigners": "14805",
+  "births": "218"
+}, {
+  "population": "51036.8",
+  "unemployed": "2392.5",
+  "shape": "gesamt",
+  "year": 2013,
+  "district": "Moosach",
+  "districtNumber": "1",
+  "foreigners": "14805",
+  "births": "561"
+}, {
+  "population": "51036.8",
+  "unemployed": "291.3",
+  "shape": "gesamt",
+  "year": 2013,
+  "district": "Moosach",
+  "districtNumber": "1",
+  "foreigners": "14805",
+  "births": "561"
+}, {
+  "population": "53690",
+  "unemployed": "1998.3",
+  "shape": "gesamt",
+  "year": 2013,
+  "district": "Laim",
+  "districtNumber": "25",
+  "foreigners": "13392",
+  "births": "566"
+}, {
+  "population": "42671.4",
+  "unemployed": "2200.3",
+  "shape": "gesamt",
+  "year": 2013,
+  "district": "Berg am Laim",
+  "districtNumber": "14",
+  "foreigners": "12433",
+  "births": "527"
+}, {
+  "population": "59403.4",
+  "unemployed": "1482.3",
+  "shape": "gesamt",
+  "year": 2013,
+  "district": "Au - Haidhausen",
+  "districtNumber": "5",
+  "foreigners": "13629",
+  "births": "828"
+}, {
+  "population": "70068.3",
+  "unemployed": "2011.5",
+  "shape": "gesamt",
+  "year": 2013,
+  "district": "Pasing",
+  "districtNumber": "21",
+  "foreigners": "13822",
+  "births": "755"
+}, {
+  "population": "95235.9",
+  "unemployed": "2616.3",
+  "shape": "gesamt",
+  "year": 2013,
+  "district": "Neuhausen - Nymphenburg",
+  "districtNumber": "9",
+  "foreigners": "22083",
+  "births": "1203"
+}, {
+  "population": "51290.3",
+  "unemployed": "1123",
+  "shape": "gesamt",
+  "year": 2013,
+  "district": "Maxvorstadt",
+  "districtNumber": "3",
+  "foreigners": "12878",
+  "births": "573"
+}, {
+  "population": "20257.8",
+  "unemployed": "2392.5",
+  "shape": "gesamt",
+  "year": 2013,
+  "district": "Altstadt - Lehel",
+  "districtNumber": "1",
+  "foreigners": "5053",
+  "births": "218"
+}, {
+  "population": "20257.8",
+  "unemployed": "291.3",
+  "shape": "gesamt",
+  "year": 2013,
+  "district": "Altstadt - Lehel",
+  "districtNumber": "1",
+  "foreigners": "5053",
+  "births": "218"
+}, {
+  "population": "51036.8",
+  "unemployed": "2392.5",
+  "shape": "gesamt",
+  "year": 2013,
+  "district": "Moosach",
+  "districtNumber": "1",
+  "foreigners": "5053",
+  "births": "561"
+}, {
+  "population": "51036.8",
+  "unemployed": "291.3",
+  "shape": "gesamt",
+  "year": 2013,
+  "district": "Moosach",
+  "districtNumber": "1",
+  "foreigners": "5053",
+  "births": "561"
+}, {
+  "population": "48449.6",
+  "unemployed": "1776",
+  "shape": "gesamt",
+  "year": 2013,
+  "district": "Hadern",
+  "districtNumber": "2",
+  "foreigners": "11715",
+  "births": "430"
+}, {
+  "population": "48449.6",
+  "unemployed": "1502.8",
+  "shape": "gesamt",
+  "year": 2013,
+  "district": "Hadern",
+  "districtNumber": "2",
+  "foreigners": "11715",
+  "births": "430"
+}, {
+  "population": "50188.7",
+  "unemployed": "1776",
+  "shape": "gesamt",
+  "year": 2013,
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "districtNumber": "10",
+  "foreigners": "11715",
+  "births": "593"
+}, {
+  "population": "50188.7",
+  "unemployed": "1502.8",
+  "shape": "gesamt",
+  "year": 2013,
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "districtNumber": "10",
+  "foreigners": "11715",
+  "births": "593"
+}, {
+  "population": "58893.5",
+  "unemployed": "2739",
+  "shape": "gesamt",
+  "year": 2013,
+  "district": "Feldmoching - Hasenbergl",
+  "districtNumber": "24",
+  "foreigners": "17522",
+  "births": "528"
+}, {
+  "population": "89008.6",
+  "unemployed": "2484.3",
+  "shape": "gesamt",
+  "year": 2013,
+  "district": "Thalkirchen - Obersendling - Forstenried - F\u00c3\u0192\u00c2\u00bcrstenried - Solln",
+  "districtNumber": "19",
+  "foreigners": "21642",
+  "births": "904"
+}, {
+  "population": "54386.8",
+  "unemployed": "2005.5",
+  "shape": "gesamt",
+  "year": 2014,
+  "district": "Laim",
+  "districtNumber": "25",
+  "foreigners": "14049",
+  "births": "582"
+}, {
+  "population": "51320.1",
+  "unemployed": "1769.3",
+  "shape": "gesamt",
+  "year": 2014,
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "districtNumber": "10",
+  "foreigners": "15778",
+  "births": "597"
+}, {
+  "population": "51320.1",
+  "unemployed": "1523.8",
+  "shape": "gesamt",
+  "year": 2014,
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "districtNumber": "10",
+  "foreigners": "15778",
+  "births": "597"
+}, {
+  "population": "49434.8",
+  "unemployed": "1769.3",
+  "shape": "gesamt",
+  "year": 2014,
+  "district": "Hadern",
+  "districtNumber": "2",
+  "foreigners": "15778",
+  "births": "452"
+}, {
+  "population": "49434.8",
+  "unemployed": "1523.8",
+  "shape": "gesamt",
+  "year": 2014,
+  "district": "Hadern",
+  "districtNumber": "2",
+  "foreigners": "15778",
+  "births": "452"
+}, {
+  "population": "60261.1",
+  "unemployed": "1482",
+  "shape": "gesamt",
+  "year": 2014,
+  "district": "Au - Haidhausen",
+  "districtNumber": "5",
+  "foreigners": "14225",
+  "births": "861"
+}, {
+  "population": "90468.6",
+  "unemployed": "2577",
+  "shape": "gesamt",
+  "year": 2014,
+  "district": "Thalkirchen - Obersendling - Forstenried - F\u00c3\u0192\u00c2\u00bcrstenried - Solln",
+  "districtNumber": "19",
+  "foreigners": "21777",
+  "births": "938"
+}, {
+  "population": "67518.7",
+  "unemployed": "2265",
+  "shape": "gesamt",
+  "year": 2014,
+  "district": "Trudering - Riem",
+  "districtNumber": "15",
+  "foreigners": "13747",
+  "births": "771"
+}, {
+  "population": "29874.7",
+  "unemployed": "1313",
+  "shape": "gesamt",
+  "year": 2014,
+  "district":  "Schwanthalerhöhe",
+  "districtNumber": "8",
+  "foreigners": "10230",
+  "births": "370"
+}, {
+  "population": "55910.8",
+  "unemployed": "2385.8",
+  "shape": "gesamt",
+  "year": 2014,
+  "district": "Sendling - Westpark",
+  "districtNumber": "7",
+  "foreigners": "15354",
+  "births": "606"
+}, {
+  "population": "52061.6",
+  "unemployed": "2057.3",
+  "shape": "gesamt",
+  "year": 2014,
+  "district": "Obergiesing - Fasangarten",
+  "districtNumber": "17",
+  "foreigners": "15858",
+  "births": "608"
+}, {
+  "population": "52186.8",
+  "unemployed": "1728.8",
+  "shape": "gesamt",
+  "year": 2014,
+  "district": "Untergiesing - Harlaching",
+  "districtNumber": "18",
+  "foreigners": "11839",
+  "births": "581"
+}, {
+  "population": "52226.7",
+  "unemployed": "2510.5",
+  "shape": "gesamt",
+  "year": 2014,
+  "district": "Moosach",
+  "districtNumber": "1",
+  "foreigners": "5371",
+  "births": "564"
+}, {
+  "population": "52226.7",
+  "unemployed": "299.5",
+  "shape": "gesamt",
+  "year": 2014,
+  "district": "Moosach",
+  "districtNumber": "1",
+  "foreigners": "5371",
+  "births": "564"
+}, {
+  "population": "20647",
+  "unemployed": "2510.5",
+  "shape": "gesamt",
+  "year": 2014,
+  "district": "Altstadt - Lehel",
+  "districtNumber": "1",
+  "foreigners": "5371",
+  "births": "214"
+}, {
+  "population": "20647",
+  "unemployed": "299.5",
+  "shape": "gesamt",
+  "year": 2014,
+  "district": "Altstadt - Lehel",
+  "districtNumber": "1",
+  "foreigners": "5371",
+  "births": "214"
+}, {
+  "population": "66527.2",
+  "unemployed": "1358.3",
+  "shape": "gesamt",
+  "year": 2014,
+  "district": "Schwabing - West",
+  "districtNumber": "4",
+  "foreigners": "14959",
+  "births": "807"
+}, {
+  "population": "74200.4",
+  "unemployed": "3968.8",
+  "shape": "gesamt",
+  "year": 2014,
+  "district": "Milbertshofen - Am Hart",
+  "districtNumber": "11",
+  "foreigners": "29253",
+  "births": "809"
+}, {
+  "population": "109031.8",
+  "unemployed": "5880",
+  "shape": "gesamt",
+  "year": 2014,
+  "district": "Ramersdorf - Perlach",
+  "districtNumber": "16",
+  "foreigners": "34699",
+  "births": "1102"
+}, {
+  "population": "52226.7",
+  "unemployed": "2510.5",
+  "shape": "gesamt",
+  "year": 2014,
+  "district": "Moosach",
+  "districtNumber": "1",
+  "foreigners": "15606",
+  "births": "564"
+}, {
+  "population": "52226.7",
+  "unemployed": "299.5",
+  "shape": "gesamt",
+  "year": 2014,
+  "district": "Moosach",
+  "districtNumber": "1",
+  "foreigners": "15606",
+  "births": "564"
+}, {
+  "population": "20647",
+  "unemployed": "2510.5",
+  "shape": "gesamt",
+  "year": 2014,
+  "district": "Altstadt - Lehel",
+  "districtNumber": "1",
+  "foreigners": "15606",
+  "births": "214"
+}, {
+  "population": "20647",
+  "unemployed": "299.5",
+  "shape": "gesamt",
+  "year": 2014,
+  "district": "Altstadt - Lehel",
+  "districtNumber": "1",
+  "foreigners": "15606",
+  "births": "214"
+}, {
+  "population": "42613.6",
+  "unemployed": "1554.5",
+  "shape": "gesamt",
+  "year": 2014,
+  "district": "Aubing - Lochhausen - Langwied",
+  "districtNumber": "22",
+  "foreigners": "9996",
+  "births": "414"
+}, {
+  "population": "52026.5",
+  "unemployed": "1148.5",
+  "shape": "gesamt",
+  "year": 2014,
+  "district": "Maxvorstadt",
+  "districtNumber": "3",
+  "foreigners": "13671",
+  "births": "540"
+}, {
+  "population": "31081.9",
+  "unemployed": "848.3",
+  "shape": "gesamt",
+  "year": 2014,
+  "district": "Allach - Untermenzing",
+  "districtNumber": "23",
+  "foreigners": "6116",
+  "births": "339"
+}, {
+  "population": "96757.2",
+  "unemployed": "2683.3",
+  "shape": "gesamt",
+  "year": 2014,
+  "district": "Neuhausen - Nymphenburg",
+  "districtNumber": "9",
+  "foreigners": "23309",
+  "births": "1243"
+}, {
+  "population": "51320.1",
+  "unemployed": "1769.3",
+  "shape": "gesamt",
+  "year": 2014,
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "districtNumber": "10",
+  "foreigners": "12587",
+  "births": "597"
+}, {
+  "population": "51320.1",
+  "unemployed": "1523.8",
+  "shape": "gesamt",
+  "year": 2014,
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "districtNumber": "10",
+  "foreigners": "12587",
+  "births": "597"
+}, {
+  "population": "49434.8",
+  "unemployed": "1769.3",
+  "shape": "gesamt",
+  "year": 2014,
+  "district": "Hadern",
+  "districtNumber": "2",
+  "foreigners": "12587",
+  "births": "452"
+}, {
+  "population": "49434.8",
+  "unemployed": "1523.8",
+  "shape": "gesamt",
+  "year": 2014,
+  "district": "Hadern",
+  "districtNumber": "2",
+  "foreigners": "12587",
+  "births": "452"
+}, {
+  "population": "83088.6",
+  "unemployed": "1757.8",
+  "shape": "gesamt",
+  "year": 2014,
+  "district": "Bogenhausen",
+  "districtNumber": "13",
+  "foreigners": "18286",
+  "births": "891"
+}, {
+  "population": "71401.1",
+  "unemployed": "2076.5",
+  "shape": "gesamt",
+  "year": 2014,
+  "district": "Pasing",
+  "districtNumber": "21",
+  "foreigners": "14754",
+  "births": "757"
+}, {
+  "population": "43516.1",
+  "unemployed": "2247",
+  "shape": "gesamt",
+  "year": 2014,
+  "district": "Berg am Laim",
+  "districtNumber": "14",
+  "foreigners": "13141",
+  "births": "511"
+}, {
+  "population": "40274.5",
+  "unemployed": "1653.5",
+  "shape": "gesamt",
+  "year": 2014,
+  "district": "Sendling",
+  "districtNumber": "6",
+  "foreigners": "10810",
+  "births": "493"
+}, {
+  "population": "59889.6",
+  "unemployed": "2768.8",
+  "shape": "gesamt",
+  "year": 2014,
+  "district": "Feldmoching - Hasenbergl",
+  "districtNumber": "24",
+  "foreigners": "18347",
+  "births": "623"
+}, {
+  "population": "71616.4",
+  "unemployed": "2151.8",
+  "shape": "gesamt",
+  "year": 2014,
+  "district": "Schwabing - Freimann",
+  "districtNumber": "12",
+  "foreigners": "19608",
+  "births": "777"
+}, {
+  "population": "67787.3",
+  "unemployed": "1413.5",
+  "shape": "gesamt",
+  "year": 2015,
+  "district": "Schwabing - West",
+  "districtNumber": "4",
+  "foreigners": "15781",
+  "births": "866"
+}, {
+  "population": "40632.8",
+  "unemployed": "1696.3",
+  "shape": "gesamt",
+  "year": 2015,
+  "district": "Sendling",
+  "districtNumber": "6",
+  "foreigners": "11142",
+  "births": "528"
+}, {
+  "population": "75038.8",
+  "unemployed": "4133.3",
+  "shape": "gesamt",
+  "year": 2015,
+  "district": "Milbertshofen - Am Hart",
+  "districtNumber": "11",
+  "foreigners": "30362",
+  "births": "818"
+}, {
+  "population": "52703.5",
+  "unemployed": "1671",
+  "shape": "gesamt",
+  "year": 2015,
+  "district": "Untergiesing - Harlaching",
+  "districtNumber": "18",
+  "foreigners": "12929",
+  "births": "557"
+}, {
+  "population": "53108.8",
+  "unemployed": "2534.5",
+  "shape": "gesamt",
+  "year": 2015,
+  "district": "Moosach",
+  "districtNumber": "1",
+  "foreigners": "5579",
+  "births": "612"
+}, {
+  "population": "53108.8",
+  "unemployed": "300",
+  "shape": "gesamt",
+  "year": 2015,
+  "district": "Moosach",
+  "districtNumber": "1",
+  "foreigners": "5579",
+  "births": "612"
+}, {
+  "population": "20969.3",
+  "unemployed": "2534.5",
+  "shape": "gesamt",
+  "year": 2015,
+  "district": "Altstadt - Lehel",
+  "districtNumber": "1",
+  "foreigners": "5579",
+  "births": "263"
+}, {
+  "population": "20969.3",
+  "unemployed": "300",
+  "shape": "gesamt",
+  "year": 2015,
+  "district": "Altstadt - Lehel",
+  "districtNumber": "1",
+  "foreigners": "5579",
+  "births": "263"
+}, {
+  "population": "53231.2",
+  "unemployed": "1752",
+  "shape": "gesamt",
+  "year": 2015,
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "districtNumber": "10",
+  "foreigners": "17138",
+  "births": "646"
+}, {
+  "population": "53231.2",
+  "unemployed": "1580.8",
+  "shape": "gesamt",
+  "year": 2015,
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "districtNumber": "10",
+  "foreigners": "17138",
+  "births": "646"
+}, {
+  "population": "49940.7",
+  "unemployed": "1752",
+  "shape": "gesamt",
+  "year": 2015,
+  "district": "Hadern",
+  "districtNumber": "2",
+  "foreigners": "17138",
+  "births": "452"
+}, {
+  "population": "49940.7",
+  "unemployed": "1580.8",
+  "shape": "gesamt",
+  "year": 2015,
+  "district": "Hadern",
+  "districtNumber": "2",
+  "foreigners": "17138",
+  "births": "452"
+}, {
+  "population": "30198.9",
+  "unemployed": "1261.8",
+  "shape": "gesamt",
+  "year": 2015,
+  "district":  "Schwanthalerhöhe",
+  "districtNumber": "8",
+  "foreigners": "10492",
+  "births": "377"
+}, {
+  "population": "57496.3",
+  "unemployed": "2508.8",
+  "shape": "gesamt",
+  "year": 2015,
+  "district": "Sendling - Westpark",
+  "districtNumber": "7",
+  "foreigners": "16625",
+  "births": "648"
+}, {
+  "population": "53780.9",
+  "unemployed": "2108.3",
+  "shape": "gesamt",
+  "year": 2015,
+  "district": "Obergiesing - Fasangarten",
+  "districtNumber": "17",
+  "foreigners": "16823",
+  "births": "650"
+}, {
+  "population": "44509.1",
+  "unemployed": "2270.3",
+  "shape": "gesamt",
+  "year": 2015,
+  "district": "Berg am Laim",
+  "districtNumber": "14",
+  "foreigners": "14044",
+  "births": "515"
+}, {
+  "population": "98198",
+  "unemployed": "2721.3",
+  "shape": "gesamt",
+  "year": 2015,
+  "district": "Neuhausen - Nymphenburg",
+  "districtNumber": "9",
+  "foreigners": "24264",
+  "births": "1215"
+}, {
+  "population": "53108.8",
+  "unemployed": "2534.5",
+  "shape": "gesamt",
+  "year": 2015,
+  "district": "Moosach",
+  "districtNumber": "1",
+  "foreigners": "16120",
+  "births": "612"
+}, {
+  "population": "53108.8",
+  "unemployed": "300",
+  "shape": "gesamt",
+  "year": 2015,
+  "district": "Moosach",
+  "districtNumber": "1",
+  "foreigners": "16120",
+  "births": "612"
+}, {
+  "population": "20969.3",
+  "unemployed": "2534.5",
+  "shape": "gesamt",
+  "year": 2015,
+  "district": "Altstadt - Lehel",
+  "districtNumber": "1",
+  "foreigners": "16120",
+  "births": "263"
+}, {
+  "population": "20969.3",
+  "unemployed": "300",
+  "shape": "gesamt",
+  "year": 2015,
+  "district": "Altstadt - Lehel",
+  "districtNumber": "1",
+  "foreigners": "16120",
+  "births": "263"
+}, {
+  "population": "31584.7",
+  "unemployed": "893",
+  "shape": "gesamt",
+  "year": 2015,
+  "district": "Allach - Untermenzing",
+  "districtNumber": "23",
+  "foreigners": "6688",
+  "births": "351"
+}, {
+  "population": "43042.3",
+  "unemployed": "1567",
+  "shape": "gesamt",
+  "year": 2015,
+  "district": "Aubing - Lochhausen - Langwied",
+  "districtNumber": "22",
+  "foreigners": "10640",
+  "births": "496"
+}, {
+  "population": "73431.4",
+  "unemployed": "2345.8",
+  "shape": "gesamt",
+  "year": 2015,
+  "district": "Schwabing - Freimann",
+  "districtNumber": "12",
+  "foreigners": "22068",
+  "births": "777"
+}, {
+  "population": "92552.1",
+  "unemployed": "2674.8",
+  "shape": "gesamt",
+  "year": 2015,
+  "district": "Thalkirchen - Obersendling - Forstenried - Fürstenried - Solln",
+  "districtNumber": "19",
+  "foreigners": "23464",
+  "births": "1089"
+}, {
+  "population": "53231.2",
+  "unemployed": "1752",
+  "shape": "gesamt",
+  "year": 2015,
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "districtNumber": "10",
+  "foreigners": "13198",
+  "births": "646"
+}, {
+  "population": "53231.2",
+  "unemployed": "1580.8",
+  "shape": "gesamt",
+  "year": 2015,
+  "district": "Ludwigsvorstadt - Isarvorstadt",
+  "districtNumber": "10",
+  "foreigners": "13198",
+  "births": "646"
+}, {
+  "population": "49940.7",
+  "unemployed": "1752",
+  "shape": "gesamt",
+  "year": 2015,
+  "district": "Hadern",
+  "districtNumber": "2",
+  "foreigners": "13198",
+  "births": "452"
+}, {
+  "population": "49940.7",
+  "unemployed": "1580.8",
+  "shape": "gesamt",
+  "year": 2015,
+  "district": "Hadern",
+  "districtNumber": "2",
+  "foreigners": "13198",
+  "births": "452"
+}, {
+  "population": "61266.8",
+  "unemployed": "1488.5",
+  "shape": "gesamt",
+  "year": 2015,
+  "district": "Au - Haidhausen",
+  "districtNumber": "5",
+  "foreigners": "14814",
+  "births": "837"
+}, {
+  "population": "69017.7",
+  "unemployed": "2360.5",
+  "shape": "gesamt",
+  "year": 2015,
+  "district": "Trudering - Riem",
+  "districtNumber": "15",
+  "foreigners": "14849",
+  "births": "756"
+}, {
+  "population": "55084.6",
+  "unemployed": "2052.8",
+  "shape": "gesamt",
+  "year": 2015,
+  "district": "Laim",
+  "districtNumber": "25",
+  "foreigners": "14759",
+  "births": "580"
+}, {
+  "population": "111142.1",
+  "unemployed": "5943",
+  "shape": "gesamt",
+  "year": 2015,
+  "district": "Ramersdorf - Perlach",
+  "districtNumber": "16",
+  "foreigners": "36798",
+  "births": "1109"
+}, {
+  "population": "84874.1",
+  "unemployed": "1803.8",
+  "shape": "gesamt",
+  "year": 2015,
+  "district": "Bogenhausen",
+  "districtNumber": "13",
+  "foreigners": "20257",
+  "births": "903"
+}, {
+  "population": "52969.8",
+  "unemployed": "1090.3",
+  "shape": "gesamt",
+  "year": 2015,
+  "district": "Maxvorstadt",
+  "districtNumber": "3",
+  "foreigners": "14937",
+  "births": "653"
+}, {
+  "population": "72556.3",
+  "unemployed": "2234",
+  "shape": "gesamt",
+  "year": 2015,
+  "district": "Pasing - Obermenzing",
+  "districtNumber": "21",
+  "foreigners": "16077",
+  "births": "801"
+}, {
+  "population": "60855.9",
+  "unemployed": "2905.8",
+  "shape": "gesamt",
+  "year": 2015,
+  "district": "Feldmoching - Hasenbergl",
+  "districtNumber": "24",
+  "foreigners": "19543",
+  "births": "644"
+}]

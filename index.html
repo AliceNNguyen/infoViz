@@ -16,11 +16,16 @@
   <div class="container">
 
     <h2>Geburten, Ausländer und ArbeitslosengeldII-Empfänger in München</h2>
+
+
     <div id="munich-chart">
       <!--<strong>Verteilungen in München</strong>-->
       <p>Entdecke und klicke einfach drauf los, um die Entwicklungen in München zu beobachten.</p>
+
+      <div>
       <a class="reset" href="javascript:munichChart.filterAll();dc.redrawAll();" style="display: none;">reset</a>
       <span class="reset" style="display: none;"> | Current filter: <span class="filter"></span></span>
+      </div>
 
       <div class="clearfix"></div>
     </div>
@@ -45,9 +50,20 @@
       <a class="reset" href="javascript:birthsHeatMap.filterAll();dc.redrawAll();" style="display: none;">reset</a>
     </div>
 
+    <div id="foreigner-heatmap">
+      <strong>Entwicklung der Äusländerrate</strong>
+      <a class="reset" href="javascript:foreignerHeatMap.filterAll();dc.redrawAll();" style="display: none;">reset</a>
+    </div>
+
+    <div id="unemployed-heatmap">
+      <strong>Entwicklung der ALGII-Empfängerrate</strong>
+      <a class="reset" href="javascript:unemployedHeatMap.filterAll();dc.redrawAll();" style="display: none;">reset</a>
+    </div>
+
+
     <div class="clearfix"></div>
 
-    <div id="foreigners-chart">
+  <!--<div id="foreigners-chart">
       <strong>Ausländer</strong> (y: Ausländerrate, x: Jahr , radius: Ausländeranteil)
       <a class="reset" href="javascript:foreignersChart.filterAll();dc.redrawAll();" style="display: none;">reset</a>
 
@@ -62,6 +78,7 @@
 
       <div class="clearfix"></div>
     </div>
+  -->
 
     <table class="table table-bordered table-striped" id="total-data-table">
       <thead>
@@ -91,15 +108,17 @@
   <script type="text/javascript">
     var numberFormat = d3.format(".2f");
     var munichChart = dc.geoChoroplethChart("#munich-chart");
-    var birthsChart = dc.bubbleChart("#births-chart");
+    //var birthsChart = dc.bubbleChart("#births-chart");
     var yearChart = dc.pieChart('#year-pie-chart');
     var groupedBarChart = dc.compositeChart("#grouped-bar-chart");
     var groupedAmountChart = dc.compositeChart("#grouped-amount-bar-chart");
-    var foreignersChart = dc.bubbleChart("#foreigners-chart");
-    var unemployedChart = dc.bubbleChart("#unemployed-chart");
+    //var foreignersChart = dc.bubbleChart("#foreigners-chart");
+    //var unemployedChart = dc.bubbleChart("#unemployed-chart");
     var dataTable = dc.dataTable("#total-data-table");
     var unemployedBarChart = dc.barChart(groupedBarChart);
     var birthsHeatMap = dc.heatMap("#births-heatmap");
+    var unemployedHeatMap = dc.heatMap("#unemployed-heatmap");
+    var foreignerHeatMap = dc.heatMap("#foreigner-heatmap");
 
 
     d3.csv("data-total-new.csv", function(csv) {
@@ -406,6 +425,43 @@
         },
       );
 
+      var district_year_dim = data.dimension(function(d) {
+        return d["year"];
+      });
+
+      var district_year_group = district_year_dim.group().reduce(
+        function(p ,v){
+          p.unemployedRate = v.algIIRate;
+          p.district = v.district;
+          return p;
+        },
+        function(p, v){
+
+        },
+        function(){
+          return{};
+        }
+      );
+
+    //  var ndx    = crossfilter(),
+
+      districtsDim = data.dimension(function(d) { return [d.district, +d.year]; }),
+
+      districtGroup = districtsDim.group().reduceSum(function(d) { return +d.birthRate; });
+
+      districtForeignerGroup = districtsDim.group().reduceSum(function(d) { return +d.foreignerPercent; });
+
+      districtUnemployedGroup = districtsDim.group().reduceSum(function(d) { return +d.algIIRate; });
+
+
+
+
+
+
+
+
+
+
 
       d3.json("munich.json", function(districtsJson) {
         var width = 900;
@@ -596,11 +652,8 @@
           .height(500)
           .dimension(districts)
           .group(dataPerDistrict)
-          .colors(d3.scale.quantize().range(["#E2F2FF", "#C4E4FF", "#9ED2FF", "#81C5FF", "#6BBAFF", "#51AEFF", "#36A2FF", "#1E96FF", "#0089FF", "#0061B5"]))
-          .colorDomain([0, 200])
-          .colorCalculator(function(d) {
-            return d ? munichChart.colors()(d) : '#ccc';
-          })
+          //.colors(d3.scale.quantize().range(["#E2F2FF", "#C4E4FF", "#9ED2FF", "#81C5FF", "#6BBAFF", "#51AEFF", "#36A2FF", "#1E96FF", "#0089FF", "#0061B5"]))
+          .colorDomain([0, 200000])
           .projection(d3.geo.mercator()
             .center(center)
             .scale(scale)
@@ -608,11 +661,21 @@
           .overlayGeoJson(districtsJson.features, "district", function(d) {
             return d.properties.name;
           })
-
           .valueAccessor(function(kv) {
             //console.log(kv);
             return kv.value;
           })
+          /*.colorAccessor(function(d) {
+            if( d !== undefined){
+              return d.avgBirths;
+            }
+          })*/
+          .colorCalculator(function(d) {
+            console.log(d);
+            return d ? munichChart.colors()(d) : '#ccc';
+          })
+
+          .calculateColorDomain()
           .title(function(d) {
             if (d.value !== undefined) {
               return "Stadtteil: " + d.key + "\nGeburten insgesamt: " + numberFormat(d.value.avgBirths ? d.value.avgBirths : 0) +
@@ -624,27 +687,74 @@
 
         birthsHeatMap.width(990)
           .height(45 * 5 + 40)
-          .dimension(years)
-          .group(dataYearly)
+          .dimension(districtsDim)
+          .group(districtGroup)
+          //.dimension(years)
+          //.group(dataYearly)
           .keyAccessor(function(d) {
-            //console.log(d);
-            return d.value.district;
+            //console.log(d.key[0]);
+            return d.key[0];
+            //return d.value.district;
           })
           .valueAccessor(function(d) {
-            return d.key;
+            //console.log(+d.key[1])
+            return +d.key[1];
+            //return d.key;
           })
           .colorAccessor(function(d) {
-            return +d.value.avgBirthsRate;
+            return +d.value;
+            //return +d.value.avgBirthsRate;
           })
           .title(function(d) {
-
-            return d.value.district + "\n" + "Geburtenrate: " + d.value.avgBirthsRate
+            return d.key + "\n" + "Geburtenrate: " + d.value
           })
           .colors(["#ffffd9", "#edf8b1", "#c7e9b4", "#7fcdbb", "#41b6c4", "#1d91c0", "#225ea8", "#253494", "#081d58"])
           .calculateColorDomain();
 
+          unemployedHeatMap.width(990)
+            .height(45 * 5 + 40)
+            .dimension(districtsDim)
+            .group(districtUnemployedGroup)
+            .keyAccessor(function(d) {
+              //console.log(d);
+              return d.key[0];
+            })
+            .valueAccessor(function(d) {
+              return +d.key[1];
+            })
+            .colorAccessor(function(d) {
+              return +d.value;
+            })
+            .title(function(d) {
+              return d.key + "\n" + "ALGII-Empfängerrate: " + d.value;
+            })
+            .colors(["#ffffd9", "#edf8b1", "#c7e9b4", "#7fcdbb", "#41b6c4", "#1d91c0", "#225ea8", "#253494", "#081d58"])
+            .calculateColorDomain();
+
+            foreignerHeatMap.width(990)
+              .height(45 * 5 + 40)
+              .dimension(districtsDim)
+              .group(districtForeignerGroup)
+              .keyAccessor(function(d) {
+                console.log(d);
+                return d.key[0];
+              })
+              .valueAccessor(function(d) {
+                return +d.key[1];
+              })
+              .colorAccessor(function(d) {
+                return +d.value;
+              })
+              .title(function(d) {
+
+                return d.value.key + "\n" + "Ausländerrate: " + d.value;
+              })
+              .colors(["#ffffd9", "#edf8b1", "#c7e9b4", "#7fcdbb", "#41b6c4", "#1d91c0", "#225ea8", "#253494", "#081d58"])
+              .calculateColorDomain();
 
 
+
+        /*
         birthsChart.width(990)
           .height(400)
           .margins({
@@ -791,7 +901,7 @@
         });
         unemployedChart.xAxis().tickFormat(function(s) {
           return s + "Jahr";
-        });
+        });*/
 
         dataTable
           .dimension(allDim)

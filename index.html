@@ -121,7 +121,7 @@
     var foreignerHeatMap = dc.heatMap("#foreigner-heatmap");
 
 
-    d3.csv("data_clea_new.csv", function(csv) {
+    d3.csv("data_clean_new.csv", function(csv) {
 
       var data = crossfilter(csv);
       var allDim = data.dimension(function(d) {

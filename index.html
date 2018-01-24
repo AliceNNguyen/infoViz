@@ -701,6 +701,20 @@
             return +d.key[1];
             //return d.key;
           })
+          .on('renderlet', function(chart) {
+            birthsHeatMap.selectAll("g.cols.axis text")
+              .attr("transform", function () {
+                console.log("transform");
+                var coord = this.getBBox();
+                console.log(coord);
+                var x = coord.x + (coord.width/2),
+                y = coord.y + (coord.height/2);
+                return "rotate(80 " + x + " " + y + ")"
+                })
+              .style("fill", "black").style("text-anchor", "unset");
+              birthsHeatMap.selectAll("svg")
+                .style("height", "500px");
+          })
           .colorAccessor(function(d) {
             return +d.value;
             //return +d.value.avgBirthsRate;
@@ -728,6 +742,20 @@
             .title(function(d) {
               return d.key + "\n" + "ALGII-Empfängerrate: " + d.value;
             })
+            .on('renderlet', function(chart) {
+              unemployedHeatMap.selectAll("g.cols.axis text")
+              .attr("transform", function () {
+                console.log("transform");
+                var coord = this.getBBox();
+                console.log(coord);
+                var x = coord.x + (coord.width/2),
+                y = coord.y + (coord.height/2);
+                return "rotate(80 " + x + " " + y + ")"
+                })
+              .style("fill", "black").style("text-anchor", "unset");
+              unemployedHeatMap.selectAll("svg")
+                .style("height", "500px");
+            })
             .colors(["#ffffd9", "#edf8b1", "#c7e9b4", "#7fcdbb", "#41b6c4", "#1d91c0", "#225ea8", "#253494", "#081d58"])
             .calculateColorDomain();
 
@@ -748,6 +776,20 @@
               .title(function(d) {
 
                 return d.key + "\n" + "Ausländerrate: " + d.value;
+              })
+              .on('renderlet', function(chart) {
+                foreignerHeatMap.selectAll("g.cols.axis text")
+                .attr("transform", function () {
+                  console.log("transform");
+                  var coord = this.getBBox();
+                  console.log(coord);
+                  var x = coord.x + (coord.width/2),
+                  y = coord.y + (coord.height/2);
+                  return "rotate(80 " + x + " " + y + ")"
+                  })
+                .style("fill", "black").style("text-anchor", "unset");
+                foreignerHeatMap.selectAll("svg")
+                  .style("height", "500px");
               })
               .colors(["#ffffd9", "#edf8b1", "#c7e9b4", "#7fcdbb", "#41b6c4", "#1d91c0", "#225ea8", "#253494", "#081d58"])
               .calculateColorDomain();

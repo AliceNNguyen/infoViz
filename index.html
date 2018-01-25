@@ -8,7 +8,7 @@
 
   <link href="css/bootstrap.css" rel="stylesheet">
   <link rel="stylesheet" type="text/css" href="css/dc.css" />
-  <link rel="stylesheet" type="text/css" href="css/main.css">
+  <link rel="stylesheet" type="text/css" href="css/main.css"/>
 </head>
 
 <body>
@@ -22,6 +22,9 @@
       <!--<strong>Verteilungen in München</strong>-->
       <p>Entdecke und klicke einfach drauf los, um die Entwicklungen in München zu beobachten.</p>
 
+      <strong>Filtere Daten nach Stadtteilen in München</strong>
+
+
       <div>
       <a class="reset" href="javascript:munichChart.filterAll();dc.redrawAll();" style="display: none;">reset</a>
       <span class="reset" style="display: none;"> | Current filter: <span class="filter"></span></span>
@@ -32,18 +35,29 @@
 
     <div class="clearfix"></div>
 
-    <div id="year-pie-chart"></div>
 
+    <strong class="heading">Jahresfilter</strong>
+    <div>Filtere nach Jahren. Mehrfachselektion möglich</div>
+
+    <div id="year-pie-chart" style="margin:50px"></div>
+    <div class="clearfix"></div>
+
+
+    <strong class="heading">Geburten, Ausländer und ALGII-Empfänger in Prozent nach Stadtteilen</strong>
+    <div class="clearfix"></div>
     <div id="grouped-bar-chart"></div>
 
+
+    <strong class="heading">Geburten, Ausländer und ALGII-Empfänger nach Stadtteilen</strong>
+    <div class="clearfix"></div>
     <div id="grouped-amount-bar-chart"></div>
 
-    <div id="births-chart">
+    <!--<div id="births-chart">
       <strong>Geburten</strong> (y: Geburtenrate, x: Jahr , radius: Anzahl Geburten)
       <a class="reset" href="javascript:birthsChart.filterAll();dc.redrawAll();" style="display: none;">reset</a>
 
       <div class="clearfix"></div>
-    </div>
+    </div>-->
 
     <div id="births-heatmap">
       <strong>Entwicklung der Geburtenrate</strong>
@@ -532,10 +546,10 @@
                 .attr("x", "-8")
                 .attr("dy", "-0.10em")
                 .style("text-anchor", "end"),
-
+              groupedAmountChart.selectAll("svg").style("margin-top", "50px"),
               groupedAmountChart.selectAll("g rect").style("width", function (d) {
-                     return 10;
-                 });
+                return 10;
+              });
             })
             .compose([
               dc.barChart(groupedAmountChart)
@@ -610,7 +624,8 @@
               .attr("x", "-8")
               .attr('transform', "rotate(-55)")
               .style("text-anchor", "end"),
-              groupedBarChart.selectAll("g rect").style("width", function(d) {
+            groupedBarChart.selectAll("svg").style("margin-top", "50px"),
+            groupedBarChart.selectAll("g rect").style("width", function(d) {
                 return 10;
               });
           })
@@ -665,6 +680,10 @@
             //console.log(kv);
             return kv.value;
           })
+          .on('renderlet', function(chart) {
+              munichChart.selectAll("svg")
+                .style("margin", "100px");
+          })
           /*.colorAccessor(function(d) {
             if( d !== undefined){
               return d.avgBirths;
@@ -713,7 +732,7 @@
                 })
               .style("fill", "black").style("text-anchor", "unset");
               birthsHeatMap.selectAll("svg")
-                .style("height", "500px");
+                .style("height", "600px");
           })
           .colorAccessor(function(d) {
             return +d.value;
@@ -754,7 +773,7 @@
                 })
               .style("fill", "black").style("text-anchor", "unset");
               unemployedHeatMap.selectAll("svg")
-                .style("height", "500px");
+                .style("height", "600px");
             })
             .colors(["#ffffd9", "#edf8b1", "#c7e9b4", "#7fcdbb", "#41b6c4", "#1d91c0", "#225ea8", "#253494", "#081d58"])
             .calculateColorDomain();
@@ -789,7 +808,7 @@
                   })
                 .style("fill", "black").style("text-anchor", "unset");
                 foreignerHeatMap.selectAll("svg")
-                  .style("height", "500px");
+                  .style("height", "600px");
               })
               .colors(["#ffffd9", "#edf8b1", "#c7e9b4", "#7fcdbb", "#41b6c4", "#1d91c0", "#225ea8", "#253494", "#081d58"])
               .calculateColorDomain();

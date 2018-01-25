@@ -315,3 +315,7 @@ div.dc-chart {
     pointer-events: all;
     cursor: pointer;
 }
+
+.year-pie-chart{
+  margin: 50px;
+}
